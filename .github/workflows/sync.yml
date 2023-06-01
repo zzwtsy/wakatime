@@ -31,8 +31,8 @@ jobs:
           curl "https://wakatime.com/api/v1/users/current/summaries?api_key=${WAKATIME_API_KEY}&range=Yesterday" >> ${filename}
           ${filename} >> index.md
           
-       - name: GitHub Push
-         uses: ad-m/github-push-action@master
-         with:
+      - name: GitHub Push
+        uses: ad-m/github-push-action@master
+        with:
             branch: gh-page
 
