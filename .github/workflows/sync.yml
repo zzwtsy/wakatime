@@ -30,7 +30,7 @@ jobs:
           date=$(date -d "1 day ago" +"%Y-%m-%d")
           filename="summaries_${date}.json"
           touch ${filename}
-          curl "https://wakatime.com/api/v1/users/current/summaries?api_key=${WAKATIME_API_KEY}&range=Yesterday" >> ${filename}
+          curl "https://wakatime.com/api/v1/users/current/summaries?api_key=${WAKATIME_API_KEY}&start=${date}&end=${date}" >> ${filename}
           echo -e "\n${filename}" >> index.md
           
       - name: Commit files
