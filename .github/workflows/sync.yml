@@ -25,13 +25,10 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: |
           date=$(date -d "1 day ago" +"%Y-%m-%d")
-          echo "1"
           filename="summaries_${date}.json"
-          echo "2"
+          echo "https://wakatime.com/api/v1/users/current/summaries?api_key=${WAKATIME_API_KEY}&range=Yesterday"
           curl "https://wakatime.com/api/v1/users/current/summaries?api_key=${WAKATIME_API_KEY}&range=Yesterday" >> ${filename}
-          echo "3"
           echo "${filename}" >> index.md
-          echo "4"
           
       - name: Commit files
         run: |
