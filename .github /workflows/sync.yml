@@ -1,0 +1,30 @@
+name: Update gist with WakaTime summary
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '40 21 * * *'
+
+env:
+  TZ: Asia/Shanghai # 时区
+
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      
+      - name: Set Timezone
+        run: |
+          timedatectl | grep 'Time zone'
+          sudo timedatectl set-timezone "$TZ"
+          timedatectl | grep 'Time zone'
+      
+      - name: Update gist
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          ls
+          yesterday-date = `date -d "1 day ago" +"%Y-%m-%d"`
+          curl `https://wakatime.com/api/v1/users/current/summaries?api_key=${WAKATIME_API_KEY}&Yesterday` >> yesterday-date
