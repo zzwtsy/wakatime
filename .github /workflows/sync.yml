@@ -27,4 +27,6 @@ jobs:
         run: |
           ls
           yesterday-date = `date -d "1 day ago" +"%Y-%m-%d"`
-          curl `https://wakatime.com/api/v1/users/current/summaries?api_key=${WAKATIME_API_KEY}&Yesterday` >> yesterday-date
+          filename = summaries_${yesterday-date}.json
+          curl `https://wakatime.com/api/v1/users/current/summaries?api_key=${WAKATIME_API_KEY}&Yesterday` >> ${filename}
+          ${filename} >> index.md
