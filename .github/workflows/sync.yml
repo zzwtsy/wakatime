@@ -43,5 +43,6 @@ jobs:
       - name: GitHub Push
         uses: ad-m/github-push-action@master
         with:
-            branch: gh-page
+          github_token: ${{ secrets.PAT_TOKEN }}
+          branch: gh-page
 
