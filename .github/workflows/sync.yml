@@ -20,6 +20,9 @@ jobs:
           sudo timedatectl set-timezone "$TZ"
           timedatectl | grep 'Time zone'
       
+      - name: Checkout branch
+        run: git checkout -b origin/gh-page 
+
       - name: Update gist
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
