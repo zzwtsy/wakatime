@@ -31,7 +31,7 @@ jobs:
           echo "2"
           curl "https://wakatime.com/api/v1/users/current/summaries?api_key=${WAKATIME_API_KEY}&range=Yesterday" >> ${filename}
           echo "3"
-          ${filename} >> index.md
+          echo ${filename} >> index.md
           echo "4"
           
       - name: GitHub Push
