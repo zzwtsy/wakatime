@@ -25,7 +25,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: |
-          ls
           yesterday-date=$(date -d "1 day ago" +"%Y-%m-%d")
           filename="summaries_${yesterday-date}.json"
           curl "https://wakatime.com/api/v1/users/current/summaries?api_key=${WAKATIME_API_KEY}&range=Yesterday" >> ${filename}
