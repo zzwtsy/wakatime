@@ -6,7 +6,7 @@
 
 ## 如何使用
 
-1. Fork 本项目
+1. Fork 本项目（仅 Fork main 分支即可）
 2. 前往仓库 Settings > Secrets
     - 添加 wakatime 环境变量: WAKATIME_API_KEY: wakatime API.
 3. 前往  Settings > Pages
