@@ -28,7 +28,7 @@ jobs:
           filename="summaries_${date}.json"
           echo "https://wakatime.com/api/v1/users/current/summaries?api_key=${WAKATIME_API_KEY}&range=Yesterday"
           curl "https://wakatime.com/api/v1/users/current/summaries?api_key=${WAKATIME_API_KEY}&range=Yesterday" >> ${filename}
-          echo "${filename}" >> index.md
+          echo -e "\n${filename}" >> index.md
           
       - name: Commit files
         run: |
