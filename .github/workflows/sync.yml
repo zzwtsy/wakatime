@@ -25,9 +25,8 @@ jobs:
 
       - name: Checkout branch
         run: | 
-          git pull
           git checkout -b origin/gh-page
-          git pull
+
 
       - name: Update gist
         env:
