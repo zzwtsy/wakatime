@@ -36,6 +36,13 @@ jobs:
           curl "https://wakatime.com/api/v1/users/current/summaries?api_key=${WAKATIME_API_KEY}&start=${date}&end=${date}" | jq ".data" > ${filename}
           echo -e "\n${filename}" >> index.md
           
+      - name: Move wakatime json
+        run: |
+          mkdir ../tmp
+          mv *.json ../tmp
+          git add .
+          mv ../tmp/*.json ./
+          
       - name: Commit files
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -48,4 +55,5 @@ jobs:
         with:
           github_token: ${{ secrets.WAKATIME }}
           branch: gh-page
+          force: true
 
