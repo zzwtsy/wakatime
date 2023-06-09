@@ -34,7 +34,12 @@ jobs:
           date=$(date -d "1 day ago" +"%Y-%m-%d")
           filename="summaries_${date}.json"
           curl "https://wakatime.com/api/v1/users/current/summaries?api_key=${WAKATIME_API_KEY}&start=${date}&end=${date}" | jq ".data" > ${filename}
+          echo "==========="
+          cat index.md
           echo -e "\n${filename}" >> index.md
+          echo "==========="
+          cat index.md
+          echo "==========="
           
       - name: Move wakatime json
         run: |
