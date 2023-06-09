@@ -38,8 +38,15 @@ jobs:
           
       - name: Move wakatime json
         run: |
+          ls
+          echo "==========="
           mkdir ../tmp
+          echo "==========="
+          ls ../
           mv *.json ../tmp
+          echo "==========="
+          ls ../tmp
+          echo "==========="
           git add .
           mv ../tmp/*.json ./
           
