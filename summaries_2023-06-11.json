@@ -1,0 +1,155 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Java",
+        "total_seconds": 5351.071,
+        "digital": "1:29:11",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 11,
+        "percent": 99.95
+      },
+      {
+        "name": "GitIgnore file",
+        "total_seconds": 2.79,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.05
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 29,
+      "total_seconds": 5353.861,
+      "digital": "1:29",
+      "decimal": "1.48",
+      "text": "1 hr 29 mins"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 5353.861,
+        "digital": "1:29:13",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 13,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 5353.861,
+        "digital": "1:29:13",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 13,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5353.861,
+        "digital": "1:29:13",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 13,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "cn.zzwtsy",
+        "total_seconds": 28.625,
+        "digital": "0:00:28",
+        "decimal": "0.00",
+        "text": "28 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 28,
+        "percent": 50.49
+      },
+      {
+        "name": "fasterxml.jackson",
+        "total_seconds": 28.07,
+        "digital": "0:00:28",
+        "decimal": "0.00",
+        "text": "28 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 28,
+        "percent": 49.51
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 5353.861,
+        "machine_name_id": "ec8a3c47-a211-428a-a257-e7e32768eddb",
+        "digital": "1:29:13",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 13,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "untitled",
+        "total_seconds": 5322.369,
+        "digital": "1:28:42",
+        "decimal": "1.47",
+        "text": "1 hr 28 mins",
+        "hours": 1,
+        "minutes": 28,
+        "seconds": 42,
+        "percent": 99.41
+      },
+      {
+        "name": "pu-campus",
+        "total_seconds": 28.702,
+        "digital": "0:00:28",
+        "decimal": "0.00",
+        "text": "28 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 28,
+        "percent": 0.54
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 2.79,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.05
+      }
+    ],
+    "range": {
+      "start": "2023-06-10T16:00:00Z",
+      "end": "2023-06-11T15:59:59Z",
+      "date": "2023-06-11",
+      "text": "Sun Jun 11th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
