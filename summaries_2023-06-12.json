@@ -1,0 +1,441 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 4505.382292,
+        "digital": "1:15:05",
+        "decimal": "1.25",
+        "text": "1 hr 15 mins",
+        "hours": 1,
+        "minutes": 15,
+        "seconds": 5,
+        "percent": 90.25
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 253.959049,
+        "digital": "0:04:13",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 13,
+        "percent": 5.09
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 204.434345,
+        "digital": "0:03:24",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 24,
+        "percent": 4.1
+      },
+      {
+        "name": "Java",
+        "total_seconds": 28.08,
+        "digital": "0:00:28",
+        "decimal": "0.00",
+        "text": "28 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 28,
+        "percent": 0.56
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 23,
+      "total_seconds": 4991.855686,
+      "digital": "1:23",
+      "decimal": "1.38",
+      "text": "1 hr 23 mins"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 4737.896637,
+        "digital": "1:18:57",
+        "decimal": "1.30",
+        "text": "1 hr 18 mins",
+        "hours": 1,
+        "minutes": 18,
+        "seconds": 57,
+        "percent": 94.91
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 253.959049,
+        "digital": "0:04:13",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 13,
+        "percent": 5.09
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Mac",
+        "total_seconds": 4991.855686,
+        "digital": "1:23:11",
+        "decimal": "1.38",
+        "text": "1 hr 23 mins",
+        "hours": 1,
+        "minutes": 23,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 4991.855686,
+        "digital": "1:23:11",
+        "decimal": "1.38",
+        "text": "1 hr 23 mins",
+        "hours": 1,
+        "minutes": 23,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "bean.Course",
+        "total_seconds": 2974.907859,
+        "digital": "0:49:34",
+        "decimal": "0.82",
+        "text": "49 mins",
+        "hours": 0,
+        "minutes": 49,
+        "seconds": 34,
+        "percent": 22.73
+      },
+      {
+        "name": "org.jsoup",
+        "total_seconds": 2614.68743,
+        "digital": "0:43:34",
+        "decimal": "0.72",
+        "text": "43 mins",
+        "hours": 0,
+        "minutes": 43,
+        "seconds": 34,
+        "percent": 19.98
+      },
+      {
+        "name": "parser.Parser",
+        "total_seconds": 2339.345277,
+        "digital": "0:38:59",
+        "decimal": "0.63",
+        "text": "38 mins",
+        "hours": 0,
+        "minutes": 38,
+        "seconds": 59,
+        "percent": 17.88
+      },
+      {
+        "name": "Common",
+        "total_seconds": 1299.045418,
+        "digital": "0:21:39",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 39,
+        "percent": 9.93
+      },
+      {
+        "name": "bean.CourseBaseBean",
+        "total_seconds": 1087.677,
+        "digital": "0:18:07",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 7,
+        "percent": 8.31
+      },
+      {
+        "name": "bean.WeekBean",
+        "total_seconds": 1026.418,
+        "digital": "0:17:06",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 6,
+        "percent": 7.84
+      },
+      {
+        "name": "main.java",
+        "total_seconds": 888.510433,
+        "digital": "0:14:48",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 48,
+        "percent": 6.79
+      },
+      {
+        "name": "\"./������������ϵͳ_files/bundle.debug.js\"",
+        "total_seconds": 140.514539,
+        "digital": "0:02:20",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 20,
+        "percent": 1.07
+      },
+      {
+        "name": "\"./������������ϵͳ_files/jquery-1.4.2.min.js\"",
+        "total_seconds": 140.514539,
+        "digital": "0:02:20",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 20,
+        "percent": 1.07
+      },
+      {
+        "name": "\"./������������ϵͳ_files/xtwh.js\"",
+        "total_seconds": 140.514539,
+        "digital": "0:02:20",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 20,
+        "percent": 1.07
+      },
+      {
+        "name": "\"./������������ϵͳ_files/check.js\"",
+        "total_seconds": 140.514539,
+        "digital": "0:02:20",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 20,
+        "percent": 1.07
+      },
+      {
+        "name": "\"//webvpn.acdt.edu.cn:10443/webvpn/bundle.debug.js\"",
+        "total_seconds": 88.340203,
+        "digital": "0:01:28",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 28,
+        "percent": 0.68
+      },
+      {
+        "name": "bean.CourseDetailBean",
+        "total_seconds": 81.531,
+        "digital": "0:01:21",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 21,
+        "percent": 0.62
+      },
+      {
+        "name": "com.google",
+        "total_seconds": 49.672,
+        "digital": "0:00:49",
+        "decimal": "0.00",
+        "text": "49 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 49,
+        "percent": 0.38
+      },
+      {
+        "name": "Common.getDayInt",
+        "total_seconds": 41.961,
+        "digital": "0:00:41",
+        "decimal": "0.00",
+        "text": "41 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 41,
+        "percent": 0.32
+      },
+      {
+        "name": "parser.AHNUParser",
+        "total_seconds": 30.851,
+        "digital": "0:00:30",
+        "decimal": "0.00",
+        "text": "30 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 30,
+        "percent": 0.24
+      },
+      {
+        "name": "jetbrains.annotations",
+        "total_seconds": 0.044,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "jsoup.select",
+        "total_seconds": 0.039,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "jsoup.Jsoup",
+        "total_seconds": 0.039,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "jsoup.nodes",
+        "total_seconds": 0.039,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "com.github",
+        "total_seconds": 0.016,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "Common.getNodeInt",
+        "total_seconds": 0.015,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "bean.ChengFangInfo",
+        "total_seconds": 0.011,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "kotlin.math",
+        "total_seconds": 0.005,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "parser.CSVParser",
+        "total_seconds": 0.005,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "bean.NewUrpCourseInfo",
+        "total_seconds": 0.003,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "mengdeMac-Pro.local",
+        "total_seconds": 4991.855686,
+        "machine_name_id": "16fef7b6-4e55-4079-949a-4ecac1f16287",
+        "digital": "1:23:11",
+        "decimal": "1.38",
+        "text": "1 hr 23 mins",
+        "hours": 1,
+        "minutes": 23,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "CourseAdapter",
+        "total_seconds": 4737.896637,
+        "digital": "1:18:57",
+        "decimal": "1.30",
+        "text": "1 hr 18 mins",
+        "hours": 1,
+        "minutes": 18,
+        "seconds": 57,
+        "percent": 94.91
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 253.959049,
+        "digital": "0:04:13",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 13,
+        "percent": 5.09
+      }
+    ],
+    "range": {
+      "start": "2023-06-11T16:00:00Z",
+      "end": "2023-06-12T15:59:59Z",
+      "date": "2023-06-12",
+      "text": "Mon Jun 12th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
