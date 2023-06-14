@@ -1,0 +1,110 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 58.333465,
+        "digital": "0:00:58",
+        "decimal": "0.00",
+        "text": "58 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 58,
+        "percent": 88.87
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 7.30622,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 11.13
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 1,
+      "total_seconds": 65.639685,
+      "digital": "0:01",
+      "decimal": "0.02",
+      "text": "1 min"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 65.639685,
+        "digital": "0:01:05",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 65.639685,
+        "digital": "0:01:05",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 65.639685,
+        "digital": "0:01:05",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 65.639685,
+        "machine_name_id": "5ac0d2eb-3e30-4b14-96c4-855b16cacfc0",
+        "digital": "0:01:05",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "demo1",
+        "total_seconds": 65.639685,
+        "digital": "0:01:05",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-06-13T16:00:00Z",
+      "end": "2023-06-14T15:59:59Z",
+      "date": "2023-06-14",
+      "text": "Wed Jun 14th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
