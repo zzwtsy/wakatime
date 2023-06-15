@@ -1,0 +1,110 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Vue.js",
+        "total_seconds": 13612.060512,
+        "digital": "3:46:52",
+        "decimal": "3.77",
+        "text": "3 hrs 46 mins",
+        "hours": 3,
+        "minutes": 46,
+        "seconds": 52,
+        "percent": 54.15
+      },
+      {
+        "name": "Rust",
+        "total_seconds": 11523.436598,
+        "digital": "3:12:03",
+        "decimal": "3.20",
+        "text": "3 hrs 12 mins",
+        "hours": 3,
+        "minutes": 12,
+        "seconds": 3,
+        "percent": 45.85
+      }
+    ],
+    "grand_total": {
+      "hours": 6,
+      "minutes": 58,
+      "total_seconds": 25135.49711,
+      "digital": "6:58",
+      "decimal": "6.97",
+      "text": "6 hrs 58 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 25135.49711,
+        "digital": "6:58:55",
+        "decimal": "6.97",
+        "text": "6 hrs 58 mins",
+        "hours": 6,
+        "minutes": 58,
+        "seconds": 55,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 25135.49711,
+        "digital": "6:58:55",
+        "decimal": "6.97",
+        "text": "6 hrs 58 mins",
+        "hours": 6,
+        "minutes": 58,
+        "seconds": 55,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 25135.49711,
+        "digital": "6:58:55",
+        "decimal": "6.97",
+        "text": "6 hrs 58 mins",
+        "hours": 6,
+        "minutes": 58,
+        "seconds": 55,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 25135.49711,
+        "machine_name_id": "5ac0d2eb-3e30-4b14-96c4-855b16cacfc0",
+        "digital": "6:58:55",
+        "decimal": "6.97",
+        "text": "6 hrs 58 mins",
+        "hours": 6,
+        "minutes": 58,
+        "seconds": 55,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "demo1",
+        "total_seconds": 25135.49711,
+        "digital": "6:58:55",
+        "decimal": "6.97",
+        "text": "6 hrs 58 mins",
+        "hours": 6,
+        "minutes": 58,
+        "seconds": 55,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-06-14T16:00:00Z",
+      "end": "2023-06-15T15:59:59Z",
+      "date": "2023-06-15",
+      "text": "Thu Jun 15th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
