@@ -1,0 +1,618 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Sass",
+        "total_seconds": 3971.722436,
+        "digital": "1:06:11",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 11,
+        "percent": 32.12
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 2153.457632,
+        "digital": "0:35:53",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 53,
+        "percent": 17.41
+      },
+      {
+        "name": "Rust",
+        "total_seconds": 2077.123046,
+        "digital": "0:34:37",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 37,
+        "percent": 16.8
+      },
+      {
+        "name": "Vue.js",
+        "total_seconds": 2073.902001,
+        "digital": "0:34:33",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 33,
+        "percent": 16.77
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 1278.909585,
+        "digital": "0:21:18",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 18,
+        "percent": 10.34
+      },
+      {
+        "name": "Java",
+        "total_seconds": 397.43,
+        "digital": "0:06:37",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 37,
+        "percent": 3.21
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 336.579893,
+        "digital": "0:05:36",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 36,
+        "percent": 2.72
+      },
+      {
+        "name": "Other",
+        "total_seconds": 50.632763,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 0.41
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 26.900976,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 0.22
+      }
+    ],
+    "grand_total": {
+      "hours": 3,
+      "minutes": 26,
+      "total_seconds": 12366.658332,
+      "digital": "3:26",
+      "decimal": "3.43",
+      "text": "3 hrs 26 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 11969.228332,
+        "digital": "3:19:29",
+        "decimal": "3.32",
+        "text": "3 hrs 19 mins",
+        "hours": 3,
+        "minutes": 19,
+        "seconds": 29,
+        "percent": 96.79
+      },
+      {
+        "name": "IntelliJ",
+        "total_seconds": 397.43,
+        "digital": "0:06:37",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 37,
+        "percent": 3.21
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Mac",
+        "total_seconds": 7542.599193,
+        "digital": "2:05:42",
+        "decimal": "2.08",
+        "text": "2 hrs 5 mins",
+        "hours": 2,
+        "minutes": 5,
+        "seconds": 42,
+        "percent": 60.99
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 4824.059139,
+        "digital": "1:20:24",
+        "decimal": "1.33",
+        "text": "1 hr 20 mins",
+        "hours": 1,
+        "minutes": 20,
+        "seconds": 24,
+        "percent": 39.01
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 12365.464988,
+        "digital": "3:26:05",
+        "decimal": "3.43",
+        "text": "3 hrs 26 mins",
+        "hours": 3,
+        "minutes": 26,
+        "seconds": 5,
+        "percent": 99.99
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 1.193344,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.01
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "@types/node",
+        "total_seconds": 991.469017,
+        "digital": "0:16:31",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 31,
+        "percent": 6.17
+      },
+      {
+        "name": "@tauri-apps/api",
+        "total_seconds": 991.469017,
+        "digital": "0:16:31",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 31,
+        "percent": 6.17
+      },
+      {
+        "name": "@iconify/json",
+        "total_seconds": 991.469017,
+        "digital": "0:16:31",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 31,
+        "percent": 6.17
+      },
+      {
+        "name": "vue-tsc",
+        "total_seconds": 991.469017,
+        "digital": "0:16:31",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 31,
+        "percent": 6.17
+      },
+      {
+        "name": "vue",
+        "total_seconds": 991.469017,
+        "digital": "0:16:31",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 31,
+        "percent": 6.17
+      },
+      {
+        "name": "vite",
+        "total_seconds": 991.469017,
+        "digital": "0:16:31",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 31,
+        "percent": 6.17
+      },
+      {
+        "name": "sass",
+        "total_seconds": 991.469017,
+        "digital": "0:16:31",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 31,
+        "percent": 6.17
+      },
+      {
+        "name": "@vitejs/plugin-vue",
+        "total_seconds": 991.469017,
+        "digital": "0:16:31",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 31,
+        "percent": 6.17
+      },
+      {
+        "name": "unplugin-auto-import",
+        "total_seconds": 991.469017,
+        "digital": "0:16:31",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 31,
+        "percent": 6.17
+      },
+      {
+        "name": "element-plus",
+        "total_seconds": 991.469017,
+        "digital": "0:16:31",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 31,
+        "percent": 6.17
+      },
+      {
+        "name": "npm",
+        "total_seconds": 991.469017,
+        "digital": "0:16:31",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 31,
+        "percent": 6.17
+      },
+      {
+        "name": "@csstools/normalize.css",
+        "total_seconds": 991.469017,
+        "digital": "0:16:31",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 31,
+        "percent": 6.17
+      },
+      {
+        "name": "unplugin-vue-components",
+        "total_seconds": 991.469017,
+        "digital": "0:16:31",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 31,
+        "percent": 6.17
+      },
+      {
+        "name": "unplugin-icons",
+        "total_seconds": 991.469017,
+        "digital": "0:16:31",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 31,
+        "percent": 6.17
+      },
+      {
+        "name": "typescript",
+        "total_seconds": 991.469017,
+        "digital": "0:16:31",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 31,
+        "percent": 6.17
+      },
+      {
+        "name": "@tauri-apps/cli",
+        "total_seconds": 991.469017,
+        "digital": "0:16:31",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 31,
+        "percent": 6.17
+      },
+      {
+        "name": "reactivity",
+        "total_seconds": 15.890842,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.1
+      },
+      {
+        "name": "shared",
+        "total_seconds": 15.890842,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.1
+      },
+      {
+        "name": "chart-box-outline",
+        "total_seconds": 13.040994,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.08
+      },
+      {
+        "name": "vue-router",
+        "total_seconds": 13.040994,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.08
+      },
+      {
+        "name": "SettingView",
+        "total_seconds": 13.040994,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.08
+      },
+      {
+        "name": "account",
+        "total_seconds": 13.040994,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.08
+      },
+      {
+        "name": "bar-chart-box-line",
+        "total_seconds": 13.040994,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.08
+      },
+      {
+        "name": "Greet",
+        "total_seconds": 13.040994,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.08
+      },
+      {
+        "name": "Menu",
+        "total_seconds": 13.040994,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.08
+      },
+      {
+        "name": "apple-fill",
+        "total_seconds": 13.040994,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.08
+      },
+      {
+        "name": "HomeView",
+        "total_seconds": 13.040994,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.08
+      },
+      {
+        "name": "DataView",
+        "total_seconds": 13.040994,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.08
+      },
+      {
+        "name": "es",
+        "total_seconds": 13.040994,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.08
+      },
+      {
+        "name": "settings3-line",
+        "total_seconds": 13.040994,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.08
+      },
+      {
+        "name": "database-line",
+        "total_seconds": 13.040994,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.08
+      }
+    ],
+    "machines": [
+      {
+        "name": "mengdeMac-Pro.local",
+        "total_seconds": 7542.599193,
+        "machine_name_id": "606120b0-73b5-4a52-99e5-2e07edf1b6ad",
+        "digital": "2:05:42",
+        "decimal": "2.08",
+        "text": "2 hrs 5 mins",
+        "hours": 2,
+        "minutes": 5,
+        "seconds": 42,
+        "percent": 60.99
+      },
+      {
+        "name": "meng",
+        "total_seconds": 4824.059139,
+        "machine_name_id": "ec8a3c47-a211-428a-a257-e7e32768eddb",
+        "digital": "1:20:24",
+        "decimal": "1.33",
+        "text": "1 hr 20 mins",
+        "hours": 1,
+        "minutes": 20,
+        "seconds": 24,
+        "percent": 39.01
+      }
+    ],
+    "projects": [
+      {
+        "name": "tauri-study",
+        "total_seconds": 7542.599193,
+        "digital": "2:05:42",
+        "decimal": "2.08",
+        "text": "2 hrs 5 mins",
+        "hours": 2,
+        "minutes": 5,
+        "seconds": 42,
+        "percent": 60.99
+      },
+      {
+        "name": "Bus",
+        "total_seconds": 4000.547284,
+        "digital": "1:06:40",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 40,
+        "percent": 32.35
+      },
+      {
+        "name": "demo1",
+        "total_seconds": 426.081855,
+        "digital": "0:07:06",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 6,
+        "percent": 3.45
+      },
+      {
+        "name": "untitled",
+        "total_seconds": 309.301,
+        "digital": "0:05:09",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 9,
+        "percent": 2.5
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 88.129,
+        "digital": "0:01:28",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 28,
+        "percent": 0.71
+      }
+    ],
+    "range": {
+      "start": "2023-06-17T16:00:00Z",
+      "end": "2023-06-18T15:59:59Z",
+      "date": "2023-06-18",
+      "text": "Sun Jun 18th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
