@@ -1,0 +1,144 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Vue.js",
+        "total_seconds": 3968.452185,
+        "digital": "1:06:08",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 8,
+        "percent": 70.4
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 1363.113023,
+        "digital": "0:22:43",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 43,
+        "percent": 24.18
+      },
+      {
+        "name": "Rust",
+        "total_seconds": 299.934888,
+        "digital": "0:04:59",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 59,
+        "percent": 5.32
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 5.216684,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.09
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 33,
+      "total_seconds": 5636.71678,
+      "digital": "1:33",
+      "decimal": "1.55",
+      "text": "1 hr 33 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 5636.71678,
+        "digital": "1:33:56",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Mac",
+        "total_seconds": 5636.71678,
+        "digital": "1:33:56",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5636.71678,
+        "digital": "1:33:56",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "zh-cn",
+        "total_seconds": 261.080755,
+        "digital": "0:04:21",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
+    "machines": [
+      {
+        "name": "mengdeMac-Pro.local",
+        "total_seconds": 5636.71678,
+        "machine_name_id": "606120b0-73b5-4a52-99e5-2e07edf1b6ad",
+        "digital": "1:33:56",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "tauri-study",
+        "total_seconds": 5636.71678,
+        "digital": "1:33:56",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 56,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-06-18T16:00:00Z",
+      "end": "2023-06-19T15:59:59Z",
+      "date": "2023-06-19",
+      "text": "Mon Jun 19th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
