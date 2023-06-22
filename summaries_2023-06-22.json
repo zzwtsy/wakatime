@@ -1,0 +1,99 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JSON",
+        "total_seconds": 205.603893,
+        "digital": "0:03:25",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 3,
+      "total_seconds": 205.603893,
+      "digital": "0:03",
+      "decimal": "0.05",
+      "text": "3 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 205.603893,
+        "digital": "0:03:25",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 205.603893,
+        "digital": "0:03:25",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 205.603893,
+        "digital": "0:03:25",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 205.603893,
+        "machine_name_id": "5ac0d2eb-3e30-4b14-96c4-855b16cacfc0",
+        "digital": "0:03:25",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "demo1",
+        "total_seconds": 205.603893,
+        "digital": "0:03:25",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-06-21T16:00:00Z",
+      "end": "2023-06-22T15:59:59Z",
+      "date": "2023-06-22",
+      "text": "Thu Jun 22nd 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
