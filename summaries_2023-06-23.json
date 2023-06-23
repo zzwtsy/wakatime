@@ -1,0 +1,287 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Vue.js",
+        "total_seconds": 12777.69478,
+        "digital": "3:32:57",
+        "decimal": "3.53",
+        "text": "3 hrs 32 mins",
+        "hours": 3,
+        "minutes": 32,
+        "seconds": 57,
+        "percent": 90.31
+      },
+      {
+        "name": "Rust",
+        "total_seconds": 883.56963,
+        "digital": "0:14:43",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 43,
+        "percent": 6.25
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 482.546545,
+        "digital": "0:08:02",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 2,
+        "percent": 3.41
+      },
+      {
+        "name": "Other",
+        "total_seconds": 4.397462,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.03
+      }
+    ],
+    "grand_total": {
+      "hours": 3,
+      "minutes": 55,
+      "total_seconds": 14148.208417,
+      "digital": "3:55",
+      "decimal": "3.92",
+      "text": "3 hrs 55 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 14148.208417,
+        "digital": "3:55:48",
+        "decimal": "3.92",
+        "text": "3 hrs 55 mins",
+        "hours": 3,
+        "minutes": 55,
+        "seconds": 48,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Mac",
+        "total_seconds": 14148.208417,
+        "digital": "3:55:48",
+        "decimal": "3.92",
+        "text": "3 hrs 55 mins",
+        "hours": 3,
+        "minutes": 55,
+        "seconds": 48,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 14148.208417,
+        "digital": "3:55:48",
+        "decimal": "3.92",
+        "text": "3 hrs 55 mins",
+        "hours": 3,
+        "minutes": 55,
+        "seconds": 48,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "es",
+        "total_seconds": 17.148438,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 7.43
+      },
+      {
+        "name": "settings3-line",
+        "total_seconds": 17.148438,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 7.43
+      },
+      {
+        "name": "apple-fill",
+        "total_seconds": 17.148438,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 7.43
+      },
+      {
+        "name": "bar-chart-box-line",
+        "total_seconds": 17.148438,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 7.43
+      },
+      {
+        "name": "chart-box-outline",
+        "total_seconds": 17.148438,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 7.43
+      },
+      {
+        "name": "HomeView",
+        "total_seconds": 17.148438,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 7.43
+      },
+      {
+        "name": "Greet",
+        "total_seconds": 17.148438,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 7.43
+      },
+      {
+        "name": "vue-router",
+        "total_seconds": 17.148438,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 7.43
+      },
+      {
+        "name": "account",
+        "total_seconds": 17.148438,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 7.43
+      },
+      {
+        "name": "DataView",
+        "total_seconds": 17.148438,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 7.43
+      },
+      {
+        "name": "Menu",
+        "total_seconds": 17.148438,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 7.43
+      },
+      {
+        "name": "database-line",
+        "total_seconds": 17.148438,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 7.43
+      },
+      {
+        "name": "SettingView",
+        "total_seconds": 17.148438,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 7.43
+      },
+      {
+        "name": "tauri-605fa63e",
+        "total_seconds": 7.79352,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 3.38
+      }
+    ],
+    "machines": [
+      {
+        "name": "mengdeMac-Pro.local",
+        "total_seconds": 14148.208417,
+        "machine_name_id": "606120b0-73b5-4a52-99e5-2e07edf1b6ad",
+        "digital": "3:55:48",
+        "decimal": "3.92",
+        "text": "3 hrs 55 mins",
+        "hours": 3,
+        "minutes": 55,
+        "seconds": 48,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "tauri-study",
+        "total_seconds": 14148.208417,
+        "digital": "3:55:48",
+        "decimal": "3.92",
+        "text": "3 hrs 55 mins",
+        "hours": 3,
+        "minutes": 55,
+        "seconds": 48,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-06-22T16:00:00Z",
+      "end": "2023-06-23T15:59:59Z",
+      "date": "2023-06-23",
+      "text": "Fri Jun 23rd 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
