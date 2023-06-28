@@ -1,0 +1,26 @@
+[
+  {
+    "languages": [],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 0,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs"
+    },
+    "editors": [],
+    "operating_systems": [],
+    "categories": [],
+    "dependencies": [],
+    "machines": [],
+    "projects": [],
+    "range": {
+      "start": "2023-06-27T16:00:00Z",
+      "end": "2023-06-28T15:59:59Z",
+      "date": "2023-06-28",
+      "text": "Wed Jun 28th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
