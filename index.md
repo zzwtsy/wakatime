@@ -365,3 +365,5 @@ summaries_2023-06-28.json
 summaries_2023-06-29.json
 
 summaries_2023-06-30.json
+
+summaries_2023-07-01.json
