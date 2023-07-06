@@ -1,0 +1,265 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 5821.128363,
+        "digital": "1:37:01",
+        "decimal": "1.62",
+        "text": "1 hr 37 mins",
+        "hours": 1,
+        "minutes": 37,
+        "seconds": 1,
+        "percent": 92.9
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 444.772637,
+        "digital": "0:07:24",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 24,
+        "percent": 7.1
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 44,
+      "total_seconds": 6265.901,
+      "digital": "1:44",
+      "decimal": "1.73",
+      "text": "1 hr 44 mins"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 5821.128363,
+        "digital": "1:37:01",
+        "decimal": "1.62",
+        "text": "1 hr 37 mins",
+        "hours": 1,
+        "minutes": 37,
+        "seconds": 1,
+        "percent": 92.9
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 444.772637,
+        "digital": "0:07:24",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 24,
+        "percent": 7.1
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 6265.901,
+        "digital": "1:44:25",
+        "decimal": "1.73",
+        "text": "1 hr 44 mins",
+        "hours": 1,
+        "minutes": 44,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 6265.901,
+        "digital": "1:44:25",
+        "decimal": "1.73",
+        "text": "1 hr 44 mins",
+        "hours": 1,
+        "minutes": 44,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "utils.HttpUtils",
+        "total_seconds": 3340.227363,
+        "digital": "0:55:40",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 40,
+        "percent": 18.28
+      },
+      {
+        "name": "org.jsoup",
+        "total_seconds": 3038.614363,
+        "digital": "0:50:38",
+        "decimal": "0.83",
+        "text": "50 mins",
+        "hours": 0,
+        "minutes": 50,
+        "seconds": 38,
+        "percent": 16.63
+      },
+      {
+        "name": "entity.ProductInfo",
+        "total_seconds": 2811.336363,
+        "digital": "0:46:51",
+        "decimal": "0.77",
+        "text": "46 mins",
+        "hours": 0,
+        "minutes": 46,
+        "seconds": 51,
+        "percent": 15.39
+      },
+      {
+        "name": "okhttp3.MediaType",
+        "total_seconds": 2051.519363,
+        "digital": "0:34:11",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 11,
+        "percent": 11.23
+      },
+      {
+        "name": "okhttp3.Headers",
+        "total_seconds": 1713.631,
+        "digital": "0:28:33",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 33,
+        "percent": 9.38
+      },
+      {
+        "name": "okhttp3.RequestBody",
+        "total_seconds": 1442.212363,
+        "digital": "0:24:02",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 2,
+        "percent": 7.89
+      },
+      {
+        "name": "okhttp3",
+        "total_seconds": 1309.42,
+        "digital": "0:21:49",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 49,
+        "percent": 7.17
+      },
+      {
+        "name": "com.google",
+        "total_seconds": 1274.867363,
+        "digital": "0:21:14",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 14,
+        "percent": 6.98
+      },
+      {
+        "name": "entity.fulfillment",
+        "total_seconds": 1274.867363,
+        "digital": "0:21:14",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 14,
+        "percent": 6.98
+      },
+      {
+        "name": "okhttp3.Request",
+        "total_seconds": 8.236,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.05
+      },
+      {
+        "name": "okhttp3.OkHttpClient",
+        "total_seconds": 8.236,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.05
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 6265.901,
+        "machine_name_id": "ec8a3c47-a211-428a-a257-e7e32768eddb",
+        "digital": "1:44:25",
+        "decimal": "1.73",
+        "text": "1 hr 44 mins",
+        "hours": 1,
+        "minutes": 44,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "amazon",
+        "total_seconds": 5741.791363,
+        "digital": "1:35:41",
+        "decimal": "1.58",
+        "text": "1 hr 35 mins",
+        "hours": 1,
+        "minutes": 35,
+        "seconds": 41,
+        "percent": 91.64
+      },
+      {
+        "name": "json",
+        "total_seconds": 444.772637,
+        "digital": "0:07:24",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 24,
+        "percent": 7.1
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 79.337,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 1.27
+      }
+    ],
+    "range": {
+      "start": "2023-07-05T16:00:00Z",
+      "end": "2023-07-06T15:59:59Z",
+      "date": "2023-07-06",
+      "text": "Thu Jul 6th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
