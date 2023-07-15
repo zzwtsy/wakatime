@@ -1,0 +1,110 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 4969.954253,
+        "digital": "1:22:49",
+        "decimal": "1.37",
+        "text": "1 hr 22 mins",
+        "hours": 1,
+        "minutes": 22,
+        "seconds": 49,
+        "percent": 78.87
+      },
+      {
+        "name": "Vue.js",
+        "total_seconds": 1331.34414,
+        "digital": "0:22:11",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 11,
+        "percent": 21.13
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 45,
+      "total_seconds": 6301.298393,
+      "digital": "1:45",
+      "decimal": "1.75",
+      "text": "1 hr 45 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 6301.298393,
+        "digital": "1:45:01",
+        "decimal": "1.75",
+        "text": "1 hr 45 mins",
+        "hours": 1,
+        "minutes": 45,
+        "seconds": 1,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 6301.298393,
+        "digital": "1:45:01",
+        "decimal": "1.75",
+        "text": "1 hr 45 mins",
+        "hours": 1,
+        "minutes": 45,
+        "seconds": 1,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 6301.298393,
+        "digital": "1:45:01",
+        "decimal": "1.75",
+        "text": "1 hr 45 mins",
+        "hours": 1,
+        "minutes": 45,
+        "seconds": 1,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 6301.298393,
+        "machine_name_id": "916936e1-76a1-48ce-b709-7818e063fa53",
+        "digital": "1:45:01",
+        "decimal": "1.75",
+        "text": "1 hr 45 mins",
+        "hours": 1,
+        "minutes": 45,
+        "seconds": 1,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "amazon-web-crawler",
+        "total_seconds": 6301.298393,
+        "digital": "1:45:01",
+        "decimal": "1.75",
+        "text": "1 hr 45 mins",
+        "hours": 1,
+        "minutes": 45,
+        "seconds": 1,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-07-14T16:00:00Z",
+      "end": "2023-07-15T15:59:59Z",
+      "date": "2023-07-15",
+      "text": "Sat Jul 15th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
