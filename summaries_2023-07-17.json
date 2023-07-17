@@ -1,0 +1,364 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 12207.753519,
+        "digital": "3:23:27",
+        "decimal": "3.38",
+        "text": "3 hrs 23 mins",
+        "hours": 3,
+        "minutes": 23,
+        "seconds": 27,
+        "percent": 92.6
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 712.953936,
+        "digital": "0:11:52",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 52,
+        "percent": 5.41
+      },
+      {
+        "name": "Vue.js",
+        "total_seconds": 241.063631,
+        "digital": "0:04:01",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 1,
+        "percent": 1.83
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 20.55607,
+        "digital": "0:00:20",
+        "decimal": "0.00",
+        "text": "20 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 20,
+        "percent": 0.16
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 1.224039,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.01
+      }
+    ],
+    "grand_total": {
+      "hours": 3,
+      "minutes": 39,
+      "total_seconds": 13183.551195,
+      "digital": "3:39",
+      "decimal": "3.65",
+      "text": "3 hrs 39 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 13183.551195,
+        "digital": "3:39:43",
+        "decimal": "3.65",
+        "text": "3 hrs 39 mins",
+        "hours": 3,
+        "minutes": 39,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 13183.551195,
+        "digital": "3:39:43",
+        "decimal": "3.65",
+        "text": "3 hrs 39 mins",
+        "hours": 3,
+        "minutes": 39,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 13183.551195,
+        "digital": "3:39:43",
+        "decimal": "3.65",
+        "text": "3 hrs 39 mins",
+        "hours": 3,
+        "minutes": 39,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "typescript",
+        "total_seconds": 13.073222,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 5.29
+      },
+      {
+        "name": "vue-tsc",
+        "total_seconds": 13.073222,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 5.29
+      },
+      {
+        "name": "@csstools/normalize.css",
+        "total_seconds": 13.073222,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 5.29
+      },
+      {
+        "name": "@vitejs/plugin-vue",
+        "total_seconds": 13.073222,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 5.29
+      },
+      {
+        "name": "unplugin-vue-components",
+        "total_seconds": 13.073222,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 5.29
+      },
+      {
+        "name": "vite",
+        "total_seconds": 13.073222,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 5.29
+      },
+      {
+        "name": "sass",
+        "total_seconds": 13.073222,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 5.29
+      },
+      {
+        "name": "@tauri-apps/api",
+        "total_seconds": 13.073222,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 5.29
+      },
+      {
+        "name": "@iconify/json",
+        "total_seconds": 13.073222,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 5.29
+      },
+      {
+        "name": "unplugin-auto-import",
+        "total_seconds": 13.073222,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 5.29
+      },
+      {
+        "name": "vue-router",
+        "total_seconds": 13.073222,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 5.29
+      },
+      {
+        "name": "vue",
+        "total_seconds": 13.073222,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 5.29
+      },
+      {
+        "name": "@vueuse/core",
+        "total_seconds": 13.073222,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 5.29
+      },
+      {
+        "name": "@types/node",
+        "total_seconds": 13.073222,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 5.29
+      },
+      {
+        "name": "npm",
+        "total_seconds": 13.073222,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 5.29
+      },
+      {
+        "name": "element-plus",
+        "total_seconds": 13.073222,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 5.29
+      },
+      {
+        "name": "@tauri-apps/cli",
+        "total_seconds": 13.073222,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 5.29
+      },
+      {
+        "name": "unplugin-icons",
+        "total_seconds": 13.073222,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 5.29
+      },
+      {
+        "name": "alloc",
+        "total_seconds": 11.695526,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 4.73
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 13183.551195,
+        "machine_name_id": "916936e1-76a1-48ce-b709-7818e063fa53",
+        "digital": "3:39:43",
+        "decimal": "3.65",
+        "text": "3 hrs 39 mins",
+        "hours": 3,
+        "minutes": 39,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "amazon-web-crawler",
+        "total_seconds": 12335.073556,
+        "digital": "3:25:35",
+        "decimal": "3.42",
+        "text": "3 hrs 25 mins",
+        "hours": 3,
+        "minutes": 25,
+        "seconds": 35,
+        "percent": 93.56
+      },
+      {
+        "name": "demo1",
+        "total_seconds": 848.477639,
+        "digital": "0:14:08",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 8,
+        "percent": 6.44
+      }
+    ],
+    "range": {
+      "start": "2023-07-16T16:00:00Z",
+      "end": "2023-07-17T15:59:59Z",
+      "date": "2023-07-17",
+      "text": "Mon Jul 17th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
