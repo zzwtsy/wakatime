@@ -1,0 +1,303 @@
+[
+  {
+    "grand_total": {
+      "hours": 3,
+      "minutes": 30,
+      "total_seconds": 12633.894765,
+      "digital": "3:30",
+      "decimal": "3.50",
+      "text": "3 hrs 30 mins"
+    },
+    "range": {
+      "start": "2023-07-20T16:00:00Z",
+      "end": "2023-07-21T15:59:59Z",
+      "date": "2023-07-21",
+      "text": "Fri Jul 21st 2023",
+      "timezone": "Asia/Shanghai"
+    },
+    "projects": [
+      {
+        "name": "Documents",
+        "total_seconds": 7544.111041,
+        "color": null,
+        "digital": "2:05:44",
+        "decimal": "2.08",
+        "text": "2 hrs 5 mins",
+        "hours": 2,
+        "minutes": 5,
+        "seconds": 44,
+        "percent": 59.71
+      },
+      {
+        "name": "compose",
+        "total_seconds": 3474.691,
+        "color": null,
+        "digital": "0:57:54",
+        "decimal": "0.95",
+        "text": "57 mins",
+        "hours": 0,
+        "minutes": 57,
+        "seconds": 54,
+        "percent": 27.5
+      },
+      {
+        "name": "ComposeDesktop",
+        "total_seconds": 1565.6,
+        "color": null,
+        "digital": "0:26:05",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 5,
+        "percent": 12.39
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 49.492724,
+        "color": null,
+        "digital": "0:00:49",
+        "decimal": "0.00",
+        "text": "49 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 49,
+        "percent": 0.39
+      }
+    ],
+    "languages": [
+      {
+        "name": "HTML",
+        "total_seconds": 7524.3494,
+        "digital": "2:05:24",
+        "decimal": "2.08",
+        "text": "2 hrs 5 mins",
+        "hours": 2,
+        "minutes": 5,
+        "seconds": 24,
+        "percent": 59.56
+      },
+      {
+        "name": "Kotlin",
+        "total_seconds": 4827.739,
+        "digital": "1:20:27",
+        "decimal": "1.33",
+        "text": "1 hr 20 mins",
+        "hours": 1,
+        "minutes": 20,
+        "seconds": 27,
+        "percent": 38.21
+      },
+      {
+        "name": "Properties",
+        "total_seconds": 226.771,
+        "digital": "0:03:46",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 46,
+        "percent": 1.79
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 18.919608,
+        "digital": "0:00:18",
+        "decimal": "0.00",
+        "text": "18 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 18,
+        "percent": 0.15
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 16.469757,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.13
+      },
+      {
+        "name": "textmate",
+        "total_seconds": 12.657,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.1
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 5.063,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.04
+      },
+      {
+        "name": "GitIgnore file",
+        "total_seconds": 1.926,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.02
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"./kuaidi100.com_js_share_company.js\"",
+        "total_seconds": 7487.02816,
+        "digital": "2:04:47",
+        "decimal": "2.07",
+        "text": "2 hrs 4 mins",
+        "hours": 2,
+        "minutes": 4,
+        "seconds": 47,
+        "percent": 46.05
+      },
+      {
+        "name": "androidx.compose",
+        "total_seconds": 3951.004,
+        "digital": "1:05:51",
+        "decimal": "1.08",
+        "text": "1 hr 5 mins",
+        "hours": 1,
+        "minutes": 5,
+        "seconds": 51,
+        "percent": 24.3
+      },
+      {
+        "name": "org.jetbrains",
+        "total_seconds": 1921.917,
+        "digital": "0:32:01",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 1,
+        "percent": 11.82
+      },
+      {
+        "name": "components.productInformationCalculation",
+        "total_seconds": 1449.925,
+        "digital": "0:24:09",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 9,
+        "percent": 8.92
+      },
+      {
+        "name": "com.compose",
+        "total_seconds": 1448.073,
+        "digital": "0:24:08",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 8,
+        "percent": 8.91
+      }
+    ],
+    "machines": [
+      {
+        "name": "mengdeMac-Pro.lan",
+        "total_seconds": 7559.738765,
+        "machine_name_id": "6f70215f-363f-4cb3-874e-759aba9934be",
+        "digital": "2:05:59",
+        "decimal": "2.08",
+        "text": "2 hrs 5 mins",
+        "hours": 2,
+        "minutes": 5,
+        "seconds": 59,
+        "percent": 59.84
+      },
+      {
+        "name": "meng",
+        "total_seconds": 5074.156,
+        "machine_name_id": "ec8a3c47-a211-428a-a257-e7e32768eddb",
+        "digital": "1:24:34",
+        "decimal": "1.40",
+        "text": "1 hr 24 mins",
+        "hours": 1,
+        "minutes": 24,
+        "seconds": 34,
+        "percent": 40.16
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 7559.738765,
+        "digital": "2:05:59",
+        "decimal": "2.08",
+        "text": "2 hrs 5 mins",
+        "hours": 2,
+        "minutes": 5,
+        "seconds": 59,
+        "percent": 59.84
+      },
+      {
+        "name": "IntelliJ",
+        "total_seconds": 5074.156,
+        "digital": "1:24:34",
+        "decimal": "1.40",
+        "text": "1 hr 24 mins",
+        "hours": 1,
+        "minutes": 24,
+        "seconds": 34,
+        "percent": 40.16
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Mac",
+        "total_seconds": 7559.738765,
+        "digital": "2:05:59",
+        "decimal": "2.08",
+        "text": "2 hrs 5 mins",
+        "hours": 2,
+        "minutes": 5,
+        "seconds": 59,
+        "percent": 59.84
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 5074.156,
+        "digital": "1:24:34",
+        "decimal": "1.40",
+        "text": "1 hr 24 mins",
+        "hours": 1,
+        "minutes": 24,
+        "seconds": 34,
+        "percent": 40.16
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 12633.894765,
+        "digital": "3:30:33",
+        "decimal": "3.50",
+        "text": "3 hrs 30 mins",
+        "hours": 3,
+        "minutes": 30,
+        "seconds": 33,
+        "percent": 100
+      }
+    ]
+  }
+]
