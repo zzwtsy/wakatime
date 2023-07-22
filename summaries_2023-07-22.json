@@ -1,0 +1,276 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 13224.04813,
+        "digital": "3:40:24",
+        "decimal": "3.67",
+        "text": "3 hrs 40 mins",
+        "hours": 3,
+        "minutes": 40,
+        "seconds": 24,
+        "percent": 88.2
+      },
+      {
+        "name": "Rust",
+        "total_seconds": 982.46938,
+        "digital": "0:16:22",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 22,
+        "percent": 6.55
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 706.734304,
+        "digital": "0:11:46",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 46,
+        "percent": 4.71
+      },
+      {
+        "name": "Vue.js",
+        "total_seconds": 68.836517,
+        "digital": "0:01:08",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 8,
+        "percent": 0.46
+      },
+      {
+        "name": "Properties",
+        "total_seconds": 7.363,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.05
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 2.368669,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.02
+      },
+      {
+        "name": "Batchfile",
+        "total_seconds": 1.631,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.01
+      }
+    ],
+    "grand_total": {
+      "hours": 4,
+      "minutes": 9,
+      "total_seconds": 14993.451,
+      "digital": "4:09",
+      "decimal": "4.15",
+      "text": "4 hrs 9 mins"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 13233.14713,
+        "digital": "3:40:33",
+        "decimal": "3.67",
+        "text": "3 hrs 40 mins",
+        "hours": 3,
+        "minutes": 40,
+        "seconds": 33,
+        "percent": 88.26
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 1760.30387,
+        "digital": "0:29:20",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 20,
+        "percent": 11.74
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 14993.451,
+        "digital": "4:09:53",
+        "decimal": "4.15",
+        "text": "4 hrs 9 mins",
+        "hours": 4,
+        "minutes": 9,
+        "seconds": 53,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 14993.451,
+        "digital": "4:09:53",
+        "decimal": "4.15",
+        "text": "4 hrs 9 mins",
+        "hours": 4,
+        "minutes": 9,
+        "seconds": 53,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "androidx.compose",
+        "total_seconds": 12401.61613,
+        "digital": "3:26:41",
+        "decimal": "3.43",
+        "text": "3 hrs 26 mins",
+        "hours": 3,
+        "minutes": 26,
+        "seconds": 41,
+        "percent": 45.94
+      },
+      {
+        "name": "components.productInformationCalculation",
+        "total_seconds": 9707.25113,
+        "digital": "2:41:47",
+        "decimal": "2.68",
+        "text": "2 hrs 41 mins",
+        "hours": 2,
+        "minutes": 41,
+        "seconds": 47,
+        "percent": 35.96
+      },
+      {
+        "name": "com.arkivanov",
+        "total_seconds": 3539.501196,
+        "digital": "0:58:59",
+        "decimal": "0.97",
+        "text": "58 mins",
+        "hours": 0,
+        "minutes": 58,
+        "seconds": 59,
+        "percent": 13.11
+      },
+      {
+        "name": "org.jetbrains",
+        "total_seconds": 924.541,
+        "digital": "0:15:24",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 24,
+        "percent": 3.43
+      },
+      {
+        "name": "com.compose",
+        "total_seconds": 274.237,
+        "digital": "0:04:34",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 34,
+        "percent": 1.02
+      },
+      {
+        "name": "kotlinx.coroutines",
+        "total_seconds": 146.245,
+        "digital": "0:02:26",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 26,
+        "percent": 0.54
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 14993.451,
+        "machine_name_id": "ec8a3c47-a211-428a-a257-e7e32768eddb",
+        "digital": "4:09:53",
+        "decimal": "4.15",
+        "text": "4 hrs 9 mins",
+        "hours": 4,
+        "minutes": 9,
+        "seconds": 53,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "compose",
+        "total_seconds": 12799.25013,
+        "digital": "3:33:19",
+        "decimal": "3.55",
+        "text": "3 hrs 33 mins",
+        "hours": 3,
+        "minutes": 33,
+        "seconds": 19,
+        "percent": 85.37
+      },
+      {
+        "name": "amazon-web-crawler",
+        "total_seconds": 1760.30387,
+        "digital": "0:29:20",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 20,
+        "percent": 11.74
+      },
+      {
+        "name": "ComposeDesktop",
+        "total_seconds": 274.475,
+        "digital": "0:04:34",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 34,
+        "percent": 1.83
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 159.422,
+        "digital": "0:02:39",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 39,
+        "percent": 1.06
+      }
+    ],
+    "range": {
+      "start": "2023-07-21T16:00:00Z",
+      "end": "2023-07-22T15:59:59Z",
+      "date": "2023-07-22",
+      "text": "Sat Jul 22nd 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
