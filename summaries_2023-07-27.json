@@ -1,0 +1,497 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 11492.073,
+        "digital": "3:11:32",
+        "decimal": "3.18",
+        "text": "3 hrs 11 mins",
+        "hours": 3,
+        "minutes": 11,
+        "seconds": 32,
+        "percent": 99.32
+      },
+      {
+        "name": "Properties",
+        "total_seconds": 75.028,
+        "digital": "0:01:15",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 15,
+        "percent": 0.65
+      },
+      {
+        "name": "GitIgnore file",
+        "total_seconds": 1.775,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.02
+      },
+      {
+        "name": "Manifest",
+        "total_seconds": 1.575,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.01
+      }
+    ],
+    "grand_total": {
+      "hours": 3,
+      "minutes": 12,
+      "total_seconds": 11570.451,
+      "digital": "3:12",
+      "decimal": "3.20",
+      "text": "3 hrs 12 mins"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 11570.451,
+        "digital": "3:12:50",
+        "decimal": "3.20",
+        "text": "3 hrs 12 mins",
+        "hours": 3,
+        "minutes": 12,
+        "seconds": 50,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 10954.637,
+        "digital": "3:02:34",
+        "decimal": "3.03",
+        "text": "3 hrs 2 mins",
+        "hours": 3,
+        "minutes": 2,
+        "seconds": 34,
+        "percent": 94.68
+      },
+      {
+        "name": "Mac",
+        "total_seconds": 615.814,
+        "digital": "0:10:15",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 15,
+        "percent": 5.32
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 11570.451,
+        "digital": "3:12:50",
+        "decimal": "3.20",
+        "text": "3 hrs 12 mins",
+        "hours": 3,
+        "minutes": 12,
+        "seconds": 50,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "androidx.compose",
+        "total_seconds": 9946.556,
+        "digital": "2:45:46",
+        "decimal": "2.75",
+        "text": "2 hrs 45 mins",
+        "hours": 2,
+        "minutes": 45,
+        "seconds": 46,
+        "percent": 17.19
+      },
+      {
+        "name": "entity.ExportCourierNumber",
+        "total_seconds": 5740.227,
+        "digital": "1:35:40",
+        "decimal": "1.58",
+        "text": "1 hr 35 mins",
+        "hours": 1,
+        "minutes": 35,
+        "seconds": 40,
+        "percent": 9.92
+      },
+      {
+        "name": "service.exportTable",
+        "total_seconds": 5537.814,
+        "digital": "1:32:17",
+        "decimal": "1.53",
+        "text": "1 hr 32 mins",
+        "hours": 1,
+        "minutes": 32,
+        "seconds": 17,
+        "percent": 9.57
+      },
+      {
+        "name": "service.excelService",
+        "total_seconds": 5537.814,
+        "digital": "1:32:17",
+        "decimal": "1.53",
+        "text": "1 hr 32 mins",
+        "hours": 1,
+        "minutes": 32,
+        "seconds": 17,
+        "percent": 9.57
+      },
+      {
+        "name": "javax.swing",
+        "total_seconds": 5537.814,
+        "digital": "1:32:17",
+        "decimal": "1.53",
+        "text": "1 hr 32 mins",
+        "hours": 1,
+        "minutes": 32,
+        "seconds": 17,
+        "percent": 9.57
+      },
+      {
+        "name": "com.seanproctor",
+        "total_seconds": 5537.814,
+        "digital": "1:32:17",
+        "decimal": "1.53",
+        "text": "1 hr 32 mins",
+        "hours": 1,
+        "minutes": 32,
+        "seconds": 17,
+        "percent": 9.57
+      },
+      {
+        "name": "kotlinx.coroutines",
+        "total_seconds": 5537.814,
+        "digital": "1:32:17",
+        "decimal": "1.53",
+        "text": "1 hr 32 mins",
+        "hours": 1,
+        "minutes": 32,
+        "seconds": 17,
+        "percent": 9.57
+      },
+      {
+        "name": "entity.AppConfig",
+        "total_seconds": 1894.798,
+        "digital": "0:31:34",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 34,
+        "percent": 3.28
+      },
+      {
+        "name": "enums.NavigationScreenType",
+        "total_seconds": 1805.289,
+        "digital": "0:30:05",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 5,
+        "percent": 3.12
+      },
+      {
+        "name": "com.formdev",
+        "total_seconds": 1805.289,
+        "digital": "0:30:05",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 5,
+        "percent": 3.12
+      },
+      {
+        "name": "ui.theme",
+        "total_seconds": 1805.289,
+        "digital": "0:30:05",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 5,
+        "percent": 3.12
+      },
+      {
+        "name": "components.TableComponent",
+        "total_seconds": 1805.289,
+        "digital": "0:30:05",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 5,
+        "percent": 3.12
+      },
+      {
+        "name": "components.productInformationCalculation",
+        "total_seconds": 1805.289,
+        "digital": "0:30:05",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 5,
+        "percent": 3.12
+      },
+      {
+        "name": "enums.ThemeModeType",
+        "total_seconds": 1317.184,
+        "digital": "0:21:57",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 57,
+        "percent": 2.28
+      },
+      {
+        "name": "org.jetbrains",
+        "total_seconds": 1235.785,
+        "digital": "0:20:35",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 35,
+        "percent": 2.14
+      },
+      {
+        "name": "com.alibaba",
+        "total_seconds": 526.629,
+        "digital": "0:08:46",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 46,
+        "percent": 0.91
+      },
+      {
+        "name": "entity.TaobaoTable",
+        "total_seconds": 202.413,
+        "digital": "0:03:22",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 22,
+        "percent": 0.35
+      },
+      {
+        "name": "entity.AkcTable",
+        "total_seconds": 202.413,
+        "digital": "0:03:22",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 22,
+        "percent": 0.35
+      },
+      {
+        "name": "entity.ProductInfo",
+        "total_seconds": 35.952,
+        "digital": "0:00:35",
+        "decimal": "0.00",
+        "text": "35 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 35,
+        "percent": 0.06
+      },
+      {
+        "name": "components.OtherToolsComponent",
+        "total_seconds": 31.991,
+        "digital": "0:00:31",
+        "decimal": "0.00",
+        "text": "31 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 31,
+        "percent": 0.06
+      },
+      {
+        "name": "com.google",
+        "total_seconds": 1.635,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0
+      },
+      {
+        "name": "utils.HttpUtils",
+        "total_seconds": 0.055,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "org.jsoup",
+        "total_seconds": 0.035,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "okhttp3.RequestBody",
+        "total_seconds": 0.035,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "okhttp3.MediaType",
+        "total_seconds": 0.035,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "entity.fulfillment",
+        "total_seconds": 0.035,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "kotlin.random",
+        "total_seconds": 0.024,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "okhttp3.Headers",
+        "total_seconds": 0.024,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 10954.637,
+        "machine_name_id": "ec8a3c47-a211-428a-a257-e7e32768eddb",
+        "digital": "3:02:34",
+        "decimal": "3.03",
+        "text": "3 hrs 2 mins",
+        "hours": 3,
+        "minutes": 2,
+        "seconds": 34,
+        "percent": 94.68
+      },
+      {
+        "name": "mengdeMac-Pro.local",
+        "total_seconds": 615.814,
+        "machine_name_id": "6a0548a7-65e1-4f5d-8193-b056ea99e3f1",
+        "digital": "0:10:15",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 15,
+        "percent": 5.32
+      }
+    ],
+    "projects": [
+      {
+        "name": "compose",
+        "total_seconds": 11432.972,
+        "digital": "3:10:32",
+        "decimal": "3.17",
+        "text": "3 hrs 10 mins",
+        "hours": 3,
+        "minutes": 10,
+        "seconds": 32,
+        "percent": 98.81
+      },
+      {
+        "name": "demo1",
+        "total_seconds": 79.986,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 0.69
+      },
+      {
+        "name": "amazon",
+        "total_seconds": 37.632,
+        "digital": "0:00:37",
+        "decimal": "0.00",
+        "text": "37 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 37,
+        "percent": 0.33
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 19.861,
+        "digital": "0:00:19",
+        "decimal": "0.00",
+        "text": "19 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 19,
+        "percent": 0.17
+      }
+    ],
+    "range": {
+      "start": "2023-07-26T16:00:00Z",
+      "end": "2023-07-27T15:59:59Z",
+      "date": "2023-07-27",
+      "text": "Thu Jul 27th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
