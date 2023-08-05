@@ -1,0 +1,177 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 2002.991,
+        "digital": "0:33:22",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 22,
+        "percent": 100
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 33,
+      "total_seconds": 2002.991,
+      "digital": "0:33",
+      "decimal": "0.55",
+      "text": "33 mins"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 2002.991,
+        "digital": "0:33:22",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 22,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2002.991,
+        "digital": "0:33:22",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 22,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2002.991,
+        "digital": "0:33:22",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 22,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "androidx.compose",
+        "total_seconds": 1570.095,
+        "digital": "0:26:10",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 10,
+        "percent": 99.81
+      },
+      {
+        "name": "enums.NavigationScreenType",
+        "total_seconds": 0.508,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.03
+      },
+      {
+        "name": "tools.Tools",
+        "total_seconds": 0.508,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.03
+      },
+      {
+        "name": "entity.AppConfig",
+        "total_seconds": 0.508,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.03
+      },
+      {
+        "name": "ui.theme",
+        "total_seconds": 0.508,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.03
+      },
+      {
+        "name": "io.github",
+        "total_seconds": 0.508,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.03
+      },
+      {
+        "name": "components",
+        "total_seconds": 0.508,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.03
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 2002.991,
+        "machine_name_id": "ec8a3c47-a211-428a-a257-e7e32768eddb",
+        "digital": "0:33:22",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 22,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "compose",
+        "total_seconds": 2002.991,
+        "digital": "0:33:22",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 22,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-08-04T16:00:00Z",
+      "end": "2023-08-05T15:59:59Z",
+      "date": "2023-08-05",
+      "text": "Sat Aug 5th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
