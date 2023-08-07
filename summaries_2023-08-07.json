@@ -1,0 +1,287 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 7072.905,
+        "digital": "1:57:52",
+        "decimal": "1.95",
+        "text": "1 hr 57 mins",
+        "hours": 1,
+        "minutes": 57,
+        "seconds": 52,
+        "percent": 100
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 57,
+      "total_seconds": 7072.905,
+      "digital": "1:57",
+      "decimal": "1.95",
+      "text": "1 hr 57 mins"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 7072.905,
+        "digital": "1:57:52",
+        "decimal": "1.95",
+        "text": "1 hr 57 mins",
+        "hours": 1,
+        "minutes": 57,
+        "seconds": 52,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 7072.905,
+        "digital": "1:57:52",
+        "decimal": "1.95",
+        "text": "1 hr 57 mins",
+        "hours": 1,
+        "minutes": 57,
+        "seconds": 52,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 7072.905,
+        "digital": "1:57:52",
+        "decimal": "1.95",
+        "text": "1 hr 57 mins",
+        "hours": 1,
+        "minutes": 57,
+        "seconds": 52,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "androidx.compose",
+        "total_seconds": 311.919,
+        "digital": "0:05:11",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 11,
+        "percent": 44.37
+      },
+      {
+        "name": "service.Calculator",
+        "total_seconds": 304.674,
+        "digital": "0:05:04",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 4,
+        "percent": 43.34
+      },
+      {
+        "name": "io.github",
+        "total_seconds": 14.339,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 2.04
+      },
+      {
+        "name": "entity.AppConfig",
+        "total_seconds": 14.156,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 2.01
+      },
+      {
+        "name": "entity.ExportCourierNumber",
+        "total_seconds": 8.507,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 1.21
+      },
+      {
+        "name": "entity.AkcTable",
+        "total_seconds": 8.324,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 1.18
+      },
+      {
+        "name": "com.alibaba",
+        "total_seconds": 8.324,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 1.18
+      },
+      {
+        "name": "entity.TaobaoTable",
+        "total_seconds": 8.324,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 1.18
+      },
+      {
+        "name": "tools.Tools",
+        "total_seconds": 6.015,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.86
+      },
+      {
+        "name": "ui.theme",
+        "total_seconds": 5.832,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.83
+      },
+      {
+        "name": "components",
+        "total_seconds": 5.832,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.83
+      },
+      {
+        "name": "enums.NavigationScreenType",
+        "total_seconds": 5.832,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.83
+      },
+      {
+        "name": "service.exportTable",
+        "total_seconds": 0.183,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.03
+      },
+      {
+        "name": "kotlinx.coroutines",
+        "total_seconds": 0.183,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.03
+      },
+      {
+        "name": "com.darkrockstudios",
+        "total_seconds": 0.183,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.03
+      },
+      {
+        "name": "com.seanproctor",
+        "total_seconds": 0.183,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.03
+      },
+      {
+        "name": "service.excelService",
+        "total_seconds": 0.183,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.03
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 7072.905,
+        "machine_name_id": "ec8a3c47-a211-428a-a257-e7e32768eddb",
+        "digital": "1:57:52",
+        "decimal": "1.95",
+        "text": "1 hr 57 mins",
+        "hours": 1,
+        "minutes": 57,
+        "seconds": 52,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "compose",
+        "total_seconds": 7072.905,
+        "digital": "1:57:52",
+        "decimal": "1.95",
+        "text": "1 hr 57 mins",
+        "hours": 1,
+        "minutes": 57,
+        "seconds": 52,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-08-06T16:00:00Z",
+      "end": "2023-08-07T15:59:59Z",
+      "date": "2023-08-07",
+      "text": "Mon Aug 7th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
