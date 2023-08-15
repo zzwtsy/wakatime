@@ -1,0 +1,320 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 1971.486994,
+        "digital": "0:32:51",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 51,
+        "percent": 76.26
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 526.372765,
+        "digital": "0:08:46",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 46,
+        "percent": 20.36
+      },
+      {
+        "name": "Vue.js",
+        "total_seconds": 87.295376,
+        "digital": "0:01:27",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 27,
+        "percent": 3.38
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 43,
+      "total_seconds": 2585.155135,
+      "digital": "0:43",
+      "decimal": "0.72",
+      "text": "43 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2585.155135,
+        "digital": "0:43:05",
+        "decimal": "0.72",
+        "text": "43 mins",
+        "hours": 0,
+        "minutes": 43,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2585.155135,
+        "digital": "0:43:05",
+        "decimal": "0.72",
+        "text": "43 mins",
+        "hours": 0,
+        "minutes": 43,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1954.000208,
+        "digital": "0:32:34",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 34,
+        "percent": 75.59
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 631.154927,
+        "digital": "0:10:31",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 31,
+        "percent": 24.41
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "vue",
+        "total_seconds": 526.372765,
+        "digital": "0:08:46",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 46,
+        "percent": 6.25
+      },
+      {
+        "name": "@vue/cli-plugin-babel",
+        "total_seconds": 526.372765,
+        "digital": "0:08:46",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 46,
+        "percent": 6.25
+      },
+      {
+        "name": "element-plus",
+        "total_seconds": 526.372765,
+        "digital": "0:08:46",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 46,
+        "percent": 6.25
+      },
+      {
+        "name": "axios",
+        "total_seconds": 526.372765,
+        "digital": "0:08:46",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 46,
+        "percent": 6.25
+      },
+      {
+        "name": "ant-design-vue",
+        "total_seconds": 526.372765,
+        "digital": "0:08:46",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 46,
+        "percent": 6.25
+      },
+      {
+        "name": "qs",
+        "total_seconds": 526.372765,
+        "digital": "0:08:46",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 46,
+        "percent": 6.25
+      },
+      {
+        "name": "eslint-plugin-vue",
+        "total_seconds": 526.372765,
+        "digital": "0:08:46",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 46,
+        "percent": 6.25
+      },
+      {
+        "name": "vue-router",
+        "total_seconds": 526.372765,
+        "digital": "0:08:46",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 46,
+        "percent": 6.25
+      },
+      {
+        "name": "vue-cli-plugin-element-plus",
+        "total_seconds": 526.372765,
+        "digital": "0:08:46",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 46,
+        "percent": 6.25
+      },
+      {
+        "name": "npm",
+        "total_seconds": 526.372765,
+        "digital": "0:08:46",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 46,
+        "percent": 6.25
+      },
+      {
+        "name": "babel-eslint",
+        "total_seconds": 526.372765,
+        "digital": "0:08:46",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 46,
+        "percent": 6.25
+      },
+      {
+        "name": "@vue/compiler-sfc",
+        "total_seconds": 526.372765,
+        "digital": "0:08:46",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 46,
+        "percent": 6.25
+      },
+      {
+        "name": "core-js",
+        "total_seconds": 526.372765,
+        "digital": "0:08:46",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 46,
+        "percent": 6.25
+      },
+      {
+        "name": "@vue/cli-plugin-eslint",
+        "total_seconds": 526.372765,
+        "digital": "0:08:46",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 46,
+        "percent": 6.25
+      },
+      {
+        "name": "eslint",
+        "total_seconds": 526.372765,
+        "digital": "0:08:46",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 46,
+        "percent": 6.25
+      },
+      {
+        "name": "@vue/cli-service",
+        "total_seconds": 526.372765,
+        "digital": "0:08:46",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 46,
+        "percent": 6.25
+      },
+      {
+        "name": "caniuse-lite",
+        "total_seconds": 5.032734,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.06
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 2585.155135,
+        "machine_name_id": "730dcdd8-0d68-46ba-9645-7b7468dff0cc",
+        "digital": "0:43:05",
+        "decimal": "0.72",
+        "text": "43 mins",
+        "hours": 0,
+        "minutes": 43,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "AutoResource",
+        "total_seconds": 2585.155135,
+        "digital": "0:43:05",
+        "decimal": "0.72",
+        "text": "43 mins",
+        "hours": 0,
+        "minutes": 43,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-08-14T16:00:00Z",
+      "end": "2023-08-15T15:59:59Z",
+      "date": "2023-08-15",
+      "text": "Tue Aug 15th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
