@@ -1,0 +1,199 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 663.968,
+        "digital": "0:11:03",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 3,
+        "percent": 100
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 11,
+      "total_seconds": 663.968,
+      "digital": "0:11",
+      "decimal": "0.18",
+      "text": "11 mins"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 663.968,
+        "digital": "0:11:03",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 3,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Mac",
+        "total_seconds": 663.968,
+        "digital": "0:11:03",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 3,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 663.968,
+        "digital": "0:11:03",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 3,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "androidx.compose",
+        "total_seconds": 663.741,
+        "digital": "0:11:03",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 3,
+        "percent": 12.5
+      },
+      {
+        "name": "components.OtherToolsComponent",
+        "total_seconds": 663.741,
+        "digital": "0:11:03",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 3,
+        "percent": 12.5
+      },
+      {
+        "name": "components.TableComponent",
+        "total_seconds": 663.741,
+        "digital": "0:11:03",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 3,
+        "percent": 12.5
+      },
+      {
+        "name": "components.productInformationCalculation",
+        "total_seconds": 663.741,
+        "digital": "0:11:03",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 3,
+        "percent": 12.5
+      },
+      {
+        "name": "entity.AppConfig",
+        "total_seconds": 663.741,
+        "digital": "0:11:03",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 3,
+        "percent": 12.5
+      },
+      {
+        "name": "ui.theme",
+        "total_seconds": 663.741,
+        "digital": "0:11:03",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 3,
+        "percent": 12.5
+      },
+      {
+        "name": "enums.NavigationScreenType",
+        "total_seconds": 663.741,
+        "digital": "0:11:03",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 3,
+        "percent": 12.5
+      },
+      {
+        "name": "com.formdev",
+        "total_seconds": 663.741,
+        "digital": "0:11:03",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 3,
+        "percent": 12.5
+      },
+      {
+        "name": "org.jetbrains",
+        "total_seconds": 0.227,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "mengdeMac-Pro.lan",
+        "total_seconds": 663.968,
+        "machine_name_id": "6f70215f-363f-4cb3-874e-759aba9934be",
+        "digital": "0:11:03",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 3,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "compose",
+        "total_seconds": 663.968,
+        "digital": "0:11:03",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 3,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-08-24T16:00:00Z",
+      "end": "2023-08-25T15:59:59Z",
+      "date": "2023-08-25",
+      "text": "Fri Aug 25th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
