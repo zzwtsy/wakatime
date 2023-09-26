@@ -1,0 +1,749 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 31403.953127,
+        "digital": "8:43:23",
+        "decimal": "8.72",
+        "text": "8 hrs 43 mins",
+        "hours": 8,
+        "minutes": 43,
+        "seconds": 23,
+        "percent": 79.6
+      },
+      {
+        "name": "Python",
+        "total_seconds": 7194.092622,
+        "digital": "1:59:54",
+        "decimal": "1.98",
+        "text": "1 hr 59 mins",
+        "hours": 1,
+        "minutes": 59,
+        "seconds": 54,
+        "percent": 18.24
+      },
+      {
+        "name": "GitIgnore file",
+        "total_seconds": 371.419,
+        "digital": "0:06:11",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 11,
+        "percent": 0.94
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 263.918946,
+        "digital": "0:04:23",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 23,
+        "percent": 0.67
+      },
+      {
+        "name": "Jupyter",
+        "total_seconds": 121.962,
+        "digital": "0:02:01",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 1,
+        "percent": 0.31
+      },
+      {
+        "name": "Vue.js",
+        "total_seconds": 68.3926,
+        "digital": "0:01:08",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 8,
+        "percent": 0.17
+      },
+      {
+        "name": "GDScript3",
+        "total_seconds": 13.409,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.03
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 8.019,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.02
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 2.509768,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.01
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 2.051937,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.01
+      },
+      {
+        "name": "Properties",
+        "total_seconds": 0.326,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "Java Properties",
+        "total_seconds": 0.139,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 10,
+      "minutes": 57,
+      "total_seconds": 39450.193,
+      "digital": "10:57",
+      "decimal": "10.95",
+      "text": "10 hrs 57 mins"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 31911.208127,
+        "digital": "8:51:51",
+        "decimal": "8.85",
+        "text": "8 hrs 51 mins",
+        "hours": 8,
+        "minutes": 51,
+        "seconds": 51,
+        "percent": 80.89
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 7538.984873,
+        "digital": "2:05:38",
+        "decimal": "2.08",
+        "text": "2 hrs 5 mins",
+        "hours": 2,
+        "minutes": 5,
+        "seconds": 38,
+        "percent": 19.11
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 39450.193,
+        "digital": "10:57:30",
+        "decimal": "10.95",
+        "text": "10 hrs 57 mins",
+        "hours": 10,
+        "minutes": 57,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 39258.309488,
+        "digital": "10:54:18",
+        "decimal": "10.90",
+        "text": "10 hrs 54 mins",
+        "hours": 10,
+        "minutes": 54,
+        "seconds": 18,
+        "percent": 99.51
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 191.883512,
+        "digital": "0:03:11",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 11,
+        "percent": 0.49
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "okhttp3.Request",
+        "total_seconds": 16968.393,
+        "digital": "4:42:48",
+        "decimal": "4.70",
+        "text": "4 hrs 42 mins",
+        "hours": 4,
+        "minutes": 42,
+        "seconds": 48,
+        "percent": 14.45
+      },
+      {
+        "name": "util.HttpUtil",
+        "total_seconds": 16968.17,
+        "digital": "4:42:48",
+        "decimal": "4.70",
+        "text": "4 hrs 42 mins",
+        "hours": 4,
+        "minutes": 42,
+        "seconds": 48,
+        "percent": 14.45
+      },
+      {
+        "name": "com.github",
+        "total_seconds": 12089.992378,
+        "digital": "3:21:29",
+        "decimal": "3.35",
+        "text": "3 hrs 21 mins",
+        "hours": 3,
+        "minutes": 21,
+        "seconds": 29,
+        "percent": 10.3
+      },
+      {
+        "name": "org.springframework",
+        "total_seconds": 12074.281127,
+        "digital": "3:21:14",
+        "decimal": "3.35",
+        "text": "3 hrs 21 mins",
+        "hours": 3,
+        "minutes": 21,
+        "seconds": 14,
+        "percent": 10.29
+      },
+      {
+        "name": "com.fasterxml",
+        "total_seconds": 8574.956749,
+        "digital": "2:22:54",
+        "decimal": "2.37",
+        "text": "2 hrs 22 mins",
+        "hours": 2,
+        "minutes": 22,
+        "seconds": 54,
+        "percent": 7.3
+      },
+      {
+        "name": "jakarta.persistence",
+        "total_seconds": 8456.079749,
+        "digital": "2:20:56",
+        "decimal": "2.33",
+        "text": "2 hrs 20 mins",
+        "hours": 2,
+        "minutes": 20,
+        "seconds": 56,
+        "percent": 7.2
+      },
+      {
+        "name": "com.alibaba",
+        "total_seconds": 7824.354,
+        "digital": "2:10:24",
+        "decimal": "2.17",
+        "text": "2 hrs 10 mins",
+        "hours": 2,
+        "minutes": 10,
+        "seconds": 24,
+        "percent": 6.67
+      },
+      {
+        "name": "requests",
+        "total_seconds": 7194.092622,
+        "digital": "1:59:54",
+        "decimal": "1.98",
+        "text": "1 hr 59 mins",
+        "hours": 1,
+        "minutes": 59,
+        "seconds": 54,
+        "percent": 6.13
+      },
+      {
+        "name": "re",
+        "total_seconds": 7194.092622,
+        "digital": "1:59:54",
+        "decimal": "1.98",
+        "text": "1 hr 59 mins",
+        "hours": 1,
+        "minutes": 59,
+        "seconds": 54,
+        "percent": 6.13
+      },
+      {
+        "name": "time",
+        "total_seconds": 7194.092622,
+        "digital": "1:59:54",
+        "decimal": "1.98",
+        "text": "1 hr 59 mins",
+        "hours": 1,
+        "minutes": 59,
+        "seconds": 54,
+        "percent": 6.13
+      },
+      {
+        "name": "json",
+        "total_seconds": 7194.092622,
+        "digital": "1:59:54",
+        "decimal": "1.98",
+        "text": "1 hr 59 mins",
+        "hours": 1,
+        "minutes": 59,
+        "seconds": 54,
+        "percent": 6.13
+      },
+      {
+        "name": "io.github",
+        "total_seconds": 2776.988378,
+        "digital": "0:46:16",
+        "decimal": "0.77",
+        "text": "46 mins",
+        "hours": 0,
+        "minutes": 46,
+        "seconds": 16,
+        "percent": 2.37
+      },
+      {
+        "name": "org.jetbrains",
+        "total_seconds": 877.391,
+        "digital": "0:14:37",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 37,
+        "percent": 0.75
+      },
+      {
+        "name": "uno",
+        "total_seconds": 260.069867,
+        "digital": "0:04:20",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 20,
+        "percent": 0.22
+      },
+      {
+        "name": "vue",
+        "total_seconds": 260.069867,
+        "digital": "0:04:20",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 20,
+        "percent": 0.22
+      },
+      {
+        "name": "message",
+        "total_seconds": 260.069867,
+        "digital": "0:04:20",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 20,
+        "percent": 0.22
+      },
+      {
+        "name": "index",
+        "total_seconds": 260.069867,
+        "digital": "0:04:20",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 20,
+        "percent": 0.22
+      },
+      {
+        "name": "App",
+        "total_seconds": 260.069867,
+        "digital": "0:04:20",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 20,
+        "percent": 0.22
+      },
+      {
+        "name": "zh-cn",
+        "total_seconds": 239.264865,
+        "digital": "0:03:59",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 59,
+        "percent": 0.2
+      },
+      {
+        "name": "element-plus",
+        "total_seconds": 239.264865,
+        "digital": "0:03:59",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 59,
+        "percent": 0.2
+      },
+      {
+        "name": "org.jsoup",
+        "total_seconds": 133.298,
+        "digital": "0:02:13",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 13,
+        "percent": 0.11
+      },
+      {
+        "name": "com.google",
+        "total_seconds": 9.264,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.01
+      },
+      {
+        "name": "jakarta.servlet",
+        "total_seconds": 9.014,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.01
+      },
+      {
+        "name": "bean.LW",
+        "total_seconds": 8.959,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.01
+      },
+      {
+        "name": "\"https://pss.bdstatic.com/r/www/cache/static/protocol/https/bundles/polyfill_9354efa.js\"",
+        "total_seconds": 8.019,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.01
+      },
+      {
+        "name": "\"https://pss.bdstatic.com/r/www/cache/static/protocol/https/global/js/all_async_search_46dc1ea.js\"",
+        "total_seconds": 8.019,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.01
+      },
+      {
+        "name": "\"//hectorstatic.baidu.com/cd37ed75a9387c5b.js\"",
+        "total_seconds": 8.019,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.01
+      },
+      {
+        "name": "\"https://pss.bdstatic.com/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js\"",
+        "total_seconds": 8.019,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.01
+      },
+      {
+        "name": "\"https://pss.bdstatic.com/r/www/cache/static/protocol/https/bundles/es6-polyfill_388d059.js\"",
+        "total_seconds": 8.019,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.01
+      },
+      {
+        "name": "\"https://pss.bdstatic.com/r/www/cache/static/protocol/https/lib/esl_5fec89f.js\"",
+        "total_seconds": 8.019,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.01
+      },
+      {
+        "name": "org.hibernate",
+        "total_seconds": 6.609,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.01
+      },
+      {
+        "name": "okhttp3.Response",
+        "total_seconds": 0.996,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "okio.buffer",
+        "total_seconds": 0.996,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "org.brotli",
+        "total_seconds": 0.996,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "okhttp3.ResponseBody",
+        "total_seconds": 0.996,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "okio.source",
+        "total_seconds": 0.996,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "okhttp3.Interceptor",
+        "total_seconds": 0.996,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "okio.IOException",
+        "total_seconds": 0.996,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "AxiosUtil",
+        "total_seconds": 0.799673,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "LogisticsInfo",
+        "total_seconds": 0.799673,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "okhttp3.RequestBody",
+        "total_seconds": 0.223,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "okhttp3.Headers",
+        "total_seconds": 0.223,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "okhttp3.OkHttpClient",
+        "total_seconds": 0.223,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 39450.193,
+        "machine_name_id": "ec8a3c47-a211-428a-a257-e7e32768eddb",
+        "digital": "10:57:30",
+        "decimal": "10.95",
+        "text": "10 hrs 57 mins",
+        "hours": 10,
+        "minutes": 57,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "untitled",
+        "total_seconds": 16985.356,
+        "digital": "4:43:05",
+        "decimal": "4.72",
+        "text": "4 hrs 43 mins",
+        "hours": 4,
+        "minutes": 43,
+        "seconds": 5,
+        "percent": 43.06
+      },
+      {
+        "name": "DewuWork",
+        "total_seconds": 14803.881127,
+        "digital": "4:06:43",
+        "decimal": "4.10",
+        "text": "4 hrs 6 mins",
+        "hours": 4,
+        "minutes": 6,
+        "seconds": 43,
+        "percent": 37.53
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 7324.082622,
+        "digital": "2:02:04",
+        "decimal": "2.03",
+        "text": "2 hrs 2 mins",
+        "hours": 2,
+        "minutes": 2,
+        "seconds": 4,
+        "percent": 18.57
+      },
+      {
+        "name": "web",
+        "total_seconds": 336.873251,
+        "digital": "0:05:36",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 36,
+        "percent": 0.85
+      }
+    ],
+    "range": {
+      "start": "2023-09-25T16:00:00Z",
+      "end": "2023-09-26T15:59:59Z",
+      "date": "2023-09-26",
+      "text": "Tue Sep 26th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
