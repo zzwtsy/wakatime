@@ -1,0 +1,530 @@
+[
+  {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 13698.200675,
+        "digital": "3:48:18",
+        "decimal": "3.80",
+        "text": "3 hrs 48 mins",
+        "hours": 3,
+        "minutes": 48,
+        "seconds": 18,
+        "percent": 43.26
+      },
+      {
+        "name": "Other",
+        "total_seconds": 7511.1982,
+        "digital": "2:05:11",
+        "decimal": "2.08",
+        "text": "2 hrs 5 mins",
+        "hours": 2,
+        "minutes": 5,
+        "seconds": 11,
+        "percent": 23.72
+      },
+      {
+        "name": "C",
+        "total_seconds": 5108.905228,
+        "digital": "1:25:08",
+        "decimal": "1.42",
+        "text": "1 hr 25 mins",
+        "hours": 1,
+        "minutes": 25,
+        "seconds": 8,
+        "percent": 16.14
+      },
+      {
+        "name": "Bash",
+        "total_seconds": 4620.781213,
+        "digital": "1:17:00",
+        "decimal": "1.28",
+        "text": "1 hr 17 mins",
+        "hours": 1,
+        "minutes": 17,
+        "seconds": 0,
+        "percent": 14.59
+      },
+      {
+        "name": "ActionScript 3",
+        "total_seconds": 449.764771,
+        "digital": "0:07:29",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 29,
+        "percent": 1.42
+      },
+      {
+        "name": "Makefile",
+        "total_seconds": 186.118316,
+        "digital": "0:03:06",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 6,
+        "percent": 0.59
+      },
+      {
+        "name": "Ezhil",
+        "total_seconds": 62.357184,
+        "digital": "0:01:02",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 2,
+        "percent": 0.2
+      },
+      {
+        "name": "C++",
+        "total_seconds": 19.049001,
+        "digital": "0:00:19",
+        "decimal": "0.00",
+        "text": "19 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 19,
+        "percent": 0.06
+      },
+      {
+        "name": "Objective-C",
+        "total_seconds": 3.918793,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.01
+      },
+      {
+        "name": "Kconfig",
+        "total_seconds": 2.091025,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.01
+      }
+    ],
+    "grand_total": {
+      "hours": 8,
+      "minutes": 47,
+      "total_seconds": 31662.384406,
+      "digital": "8:47",
+      "decimal": "8.78",
+      "text": "8 hrs 47 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 31662.384406,
+        "digital": "8:47:42",
+        "decimal": "8.78",
+        "text": "8 hrs 47 mins",
+        "hours": 8,
+        "minutes": 47,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 17964.183731,
+        "digital": "4:59:24",
+        "decimal": "4.98",
+        "text": "4 hrs 59 mins",
+        "hours": 4,
+        "minutes": 59,
+        "seconds": 24,
+        "percent": 56.74
+      },
+      {
+        "name": "Mac",
+        "total_seconds": 13698.200675,
+        "digital": "3:48:18",
+        "decimal": "3.80",
+        "text": "3 hrs 48 mins",
+        "hours": 3,
+        "minutes": 48,
+        "seconds": 18,
+        "percent": 43.26
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 31662.384406,
+        "digital": "8:47:42",
+        "decimal": "8.78",
+        "text": "8 hrs 47 mins",
+        "hours": 8,
+        "minutes": 47,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "GistRawUrl",
+        "total_seconds": 13698.200675,
+        "digital": "3:48:18",
+        "decimal": "3.80",
+        "text": "3 hrs 48 mins",
+        "hours": 3,
+        "minutes": 48,
+        "seconds": 18,
+        "percent": 31.82
+      },
+      {
+        "name": "Wakatime",
+        "total_seconds": 13698.200675,
+        "digital": "3:48:18",
+        "decimal": "3.80",
+        "text": "3 hrs 48 mins",
+        "hours": 3,
+        "minutes": 48,
+        "seconds": 18,
+        "percent": 31.82
+      },
+      {
+        "name": "linux",
+        "total_seconds": 5091.628987,
+        "digital": "1:24:51",
+        "decimal": "1.40",
+        "text": "1 hr 24 mins",
+        "hours": 1,
+        "minutes": 24,
+        "seconds": 51,
+        "percent": 11.83
+      },
+      {
+        "name": "memory",
+        "total_seconds": 4724.962276,
+        "digital": "1:18:44",
+        "decimal": "1.30",
+        "text": "1 hr 18 mins",
+        "hours": 1,
+        "minutes": 18,
+        "seconds": 44,
+        "percent": 10.97
+      },
+      {
+        "name": "asm",
+        "total_seconds": 4706.943228,
+        "digital": "1:18:26",
+        "decimal": "1.30",
+        "text": "1 hr 18 mins",
+        "hours": 1,
+        "minutes": 18,
+        "seconds": 26,
+        "percent": 10.93
+      },
+      {
+        "name": "internal",
+        "total_seconds": 205.836853,
+        "digital": "0:03:25",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 25,
+        "percent": 0.48
+      },
+      {
+        "name": "bolero-cdc",
+        "total_seconds": 205.836853,
+        "digital": "0:03:25",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 25,
+        "percent": 0.48
+      },
+      {
+        "name": "soc",
+        "total_seconds": 192.062735,
+        "digital": "0:03:12",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 12,
+        "percent": 0.45
+      },
+      {
+        "name": "dsp",
+        "total_seconds": 192.062735,
+        "digital": "0:03:12",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 12,
+        "percent": 0.45
+      },
+      {
+        "name": "bolero-clk-rsc",
+        "total_seconds": 189.981342,
+        "digital": "0:03:09",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 9,
+        "percent": 0.44
+      },
+      {
+        "name": "sound",
+        "total_seconds": 59.710771,
+        "digital": "0:00:59",
+        "decimal": "0.00",
+        "text": "59 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 59,
+        "percent": 0.14
+      },
+      {
+        "name": "comm",
+        "total_seconds": 18.77798,
+        "digital": "0:00:18",
+        "decimal": "0.00",
+        "text": "18 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 18,
+        "percent": 0.04
+      },
+      {
+        "name": "process",
+        "total_seconds": 18.77798,
+        "digital": "0:00:18",
+        "decimal": "0.00",
+        "text": "18 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 18,
+        "percent": 0.04
+      },
+      {
+        "name": "sys",
+        "total_seconds": 10.151435,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.02
+      },
+      {
+        "name": "stdint",
+        "total_seconds": 8.897566,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.02
+      },
+      {
+        "name": "unistd",
+        "total_seconds": 8.897566,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.02
+      },
+      {
+        "name": "wanbai.hpp",
+        "total_seconds": 8.897566,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.02
+      },
+      {
+        "name": "asoc",
+        "total_seconds": 2.081393,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0
+      },
+      {
+        "name": "device_event",
+        "total_seconds": 2.081393,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0
+      },
+      {
+        "name": "codecs",
+        "total_seconds": 2.081393,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0
+      },
+      {
+        "name": "dt-bindings",
+        "total_seconds": 2.081393,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0
+      },
+      {
+        "name": "bengal-port-config",
+        "total_seconds": 2.081393,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0
+      },
+      {
+        "name": "msm-pcm-routing-v2",
+        "total_seconds": 2.081393,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0
+      },
+      {
+        "name": "bolero-cdc-registers",
+        "total_seconds": 0.663719,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 17964.183731,
+        "machine_name_id": "ec8a3c47-a211-428a-a257-e7e32768eddb",
+        "digital": "4:59:24",
+        "decimal": "4.98",
+        "text": "4 hrs 59 mins",
+        "hours": 4,
+        "minutes": 59,
+        "seconds": 24,
+        "percent": 56.74
+      },
+      {
+        "name": "mengdeMac-Pro.local",
+        "total_seconds": 13698.200675,
+        "machine_name_id": "606120b0-73b5-4a52-99e5-2e07edf1b6ad",
+        "digital": "3:48:18",
+        "decimal": "3.80",
+        "text": "3 hrs 48 mins",
+        "hours": 3,
+        "minutes": 48,
+        "seconds": 18,
+        "percent": 43.26
+      }
+    ],
+    "projects": [
+      {
+        "name": "react-demo",
+        "total_seconds": 13698.200675,
+        "digital": "3:48:18",
+        "decimal": "3.80",
+        "text": "3 hrs 48 mins",
+        "hours": 3,
+        "minutes": 48,
+        "seconds": 18,
+        "percent": 43.26
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 12127.79385,
+        "digital": "3:22:07",
+        "decimal": "3.37",
+        "text": "3 hrs 22 mins",
+        "hours": 3,
+        "minutes": 22,
+        "seconds": 7,
+        "percent": 38.3
+      },
+      {
+        "name": "Kernel_driver_hack-main",
+        "total_seconds": 4761.84414,
+        "digital": "1:19:21",
+        "decimal": "1.32",
+        "text": "1 hr 19 mins",
+        "hours": 1,
+        "minutes": 19,
+        "seconds": 21,
+        "percent": 15.04
+      },
+      {
+        "name": "NGK_android_kernel_xiaomi_sm8250-t-caf",
+        "total_seconds": 972.942792,
+        "digital": "0:16:12",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 12,
+        "percent": 3.07
+      },
+      {
+        "name": "Realking_imm_kernel_sm8250-base",
+        "total_seconds": 101.602949,
+        "digital": "0:01:41",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 41,
+        "percent": 0.32
+      }
+    ],
+    "range": {
+      "start": "2023-10-03T16:00:00Z",
+      "end": "2023-10-04T15:59:59Z",
+      "date": "2023-10-04",
+      "text": "Wed Oct 4th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
