@@ -1,0 +1,489 @@
+[
+  {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 2917.067827,
+        "digital": "0:48:37",
+        "decimal": "0.80",
+        "text": "48 mins",
+        "hours": 0,
+        "minutes": 48,
+        "seconds": 37,
+        "percent": 76.29
+      },
+      {
+        "name": "Kotlin",
+        "total_seconds": 780.258,
+        "digital": "0:13:00",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 0,
+        "percent": 20.41
+      },
+      {
+        "name": "Text",
+        "total_seconds": 126.32,
+        "digital": "0:02:06",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 6,
+        "percent": 3.3
+      },
+      {
+        "name": "Properties",
+        "total_seconds": 0.017,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 3,
+      "total_seconds": 3823.662827,
+      "digital": "1:03",
+      "decimal": "1.05",
+      "text": "1 hr 3 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2917.067827,
+        "digital": "0:48:37",
+        "decimal": "0.80",
+        "text": "48 mins",
+        "hours": 0,
+        "minutes": 48,
+        "seconds": 37,
+        "percent": 76.29
+      },
+      {
+        "name": "IntelliJ",
+        "total_seconds": 906.595,
+        "digital": "0:15:06",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 6,
+        "percent": 23.71
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 3823.662827,
+        "digital": "1:03:43",
+        "decimal": "1.05",
+        "text": "1 hr 3 mins",
+        "hours": 1,
+        "minutes": 3,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3823.662827,
+        "digital": "1:03:43",
+        "decimal": "1.05",
+        "text": "1 hr 3 mins",
+        "hours": 1,
+        "minutes": 3,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "api",
+        "total_seconds": 1918.058576,
+        "digital": "0:31:58",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 58,
+        "percent": 30.03
+      },
+      {
+        "name": "roku-ui",
+        "total_seconds": 1715.35617,
+        "digital": "0:28:35",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 35,
+        "percent": 26.86
+      },
+      {
+        "name": "Wakatime",
+        "total_seconds": 1132.397825,
+        "digital": "0:18:52",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 52,
+        "percent": 17.73
+      },
+      {
+        "name": "GistRawUrl",
+        "total_seconds": 627.382802,
+        "digital": "0:10:27",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 27,
+        "percent": 9.82
+      },
+      {
+        "name": "react",
+        "total_seconds": 505.885331,
+        "digital": "0:08:25",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 25,
+        "percent": 7.92
+      },
+      {
+        "name": "okhttp3.Request",
+        "total_seconds": 124.312,
+        "digital": "0:02:04",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 4,
+        "percent": 1.95
+      },
+      {
+        "name": "util.HttpUtil",
+        "total_seconds": 122.561,
+        "digital": "0:02:02",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 2,
+        "percent": 1.92
+      },
+      {
+        "name": "DoughnutChart",
+        "total_seconds": 105.920559,
+        "digital": "0:01:45",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 45,
+        "percent": 1.66
+      },
+      {
+        "name": "Test",
+        "total_seconds": 74.979188,
+        "digital": "0:01:14",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 14,
+        "percent": 1.17
+      },
+      {
+        "name": "org.springframework",
+        "total_seconds": 12.579,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.2
+      },
+      {
+        "name": "com.github",
+        "total_seconds": 12.579,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.2
+      },
+      {
+        "name": "io.github",
+        "total_seconds": 12.131,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.19
+      },
+      {
+        "name": "apexcharts",
+        "total_seconds": 8.539542,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.13
+      },
+      {
+        "name": "react-apexcharts",
+        "total_seconds": 7.669234,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.12
+      },
+      {
+        "name": "okhttp3.OkHttpClient",
+        "total_seconds": 1.751,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.03
+      },
+      {
+        "name": "okhttp3.RequestBody",
+        "total_seconds": 1.751,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.03
+      },
+      {
+        "name": "okhttp3.Headers",
+        "total_seconds": 1.751,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.03
+      },
+      {
+        "name": "org.jsoup",
+        "total_seconds": 0.487,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.01
+      },
+      {
+        "name": "com.google",
+        "total_seconds": 0.28,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "bean.LW",
+        "total_seconds": 0.255,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "com.alibaba",
+        "total_seconds": 0.098,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "okhttp3.Response",
+        "total_seconds": 0.042,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "okio.buffer",
+        "total_seconds": 0.042,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "org.brotli",
+        "total_seconds": 0.042,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "okio.IOException",
+        "total_seconds": 0.042,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "okhttp3.Interceptor",
+        "total_seconds": 0.042,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "okhttp3.ResponseBody",
+        "total_seconds": 0.042,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "okio.source",
+        "total_seconds": 0.042,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 3823.662827,
+        "machine_name_id": "ec8a3c47-a211-428a-a257-e7e32768eddb",
+        "digital": "1:03:43",
+        "decimal": "1.05",
+        "text": "1 hr 3 mins",
+        "hours": 1,
+        "minutes": 3,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "react-demo",
+        "total_seconds": 2917.067827,
+        "color": null,
+        "digital": "0:48:37",
+        "decimal": "0.80",
+        "text": "48 mins",
+        "hours": 0,
+        "minutes": 48,
+        "seconds": 37,
+        "percent": 76.29
+      },
+      {
+        "name": "untitled",
+        "total_seconds": 893.979,
+        "color": null,
+        "digital": "0:14:53",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 53,
+        "percent": 23.38
+      },
+      {
+        "name": "DewuWork",
+        "total_seconds": 12.579,
+        "color": null,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.33
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 0.037,
+        "color": null,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "range": {
+      "start": "2023-10-05T16:00:00Z",
+      "end": "2023-10-06T15:59:59Z",
+      "date": "2023-10-06",
+      "text": "Fri Oct 6th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
