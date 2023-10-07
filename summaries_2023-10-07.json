@@ -1,0 +1,188 @@
+[
+  {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 6738.486328,
+        "digital": "1:52:18",
+        "decimal": "1.87",
+        "text": "1 hr 52 mins",
+        "hours": 1,
+        "minutes": 52,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 52,
+      "total_seconds": 6738.486328,
+      "digital": "1:52",
+      "decimal": "1.87",
+      "text": "1 hr 52 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 6738.486328,
+        "digital": "1:52:18",
+        "decimal": "1.87",
+        "text": "1 hr 52 mins",
+        "hours": 1,
+        "minutes": 52,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 6738.486328,
+        "digital": "1:52:18",
+        "decimal": "1.87",
+        "text": "1 hr 52 mins",
+        "hours": 1,
+        "minutes": 52,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 6738.486328,
+        "digital": "1:52:18",
+        "decimal": "1.87",
+        "text": "1 hr 52 mins",
+        "hours": 1,
+        "minutes": 52,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "Wakatime",
+        "total_seconds": 5603.667184,
+        "digital": "1:33:23",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 23,
+        "percent": 35.25
+      },
+      {
+        "name": "GistRawUrl",
+        "total_seconds": 4793.475896,
+        "digital": "1:19:53",
+        "decimal": "1.32",
+        "text": "1 hr 19 mins",
+        "hours": 1,
+        "minutes": 19,
+        "seconds": 53,
+        "percent": 30.16
+      },
+      {
+        "name": "roku-ui",
+        "total_seconds": 1679.280702,
+        "digital": "0:27:59",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 59,
+        "percent": 10.56
+      },
+      {
+        "name": "api",
+        "total_seconds": 1217.912323,
+        "digital": "0:20:17",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 17,
+        "percent": 7.66
+      },
+      {
+        "name": "Util",
+        "total_seconds": 867.674343,
+        "digital": "0:14:27",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 27,
+        "percent": 5.46
+      },
+      {
+        "name": "react",
+        "total_seconds": 810.191288,
+        "digital": "0:13:30",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 30,
+        "percent": 5.1
+      },
+      {
+        "name": "Test",
+        "total_seconds": 461.368379,
+        "digital": "0:07:41",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 41,
+        "percent": 2.9
+      },
+      {
+        "name": "DoughnutChart",
+        "total_seconds": 461.368379,
+        "digital": "0:07:41",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 41,
+        "percent": 2.9
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 6738.486328,
+        "machine_name_id": "ec8a3c47-a211-428a-a257-e7e32768eddb",
+        "digital": "1:52:18",
+        "decimal": "1.87",
+        "text": "1 hr 52 mins",
+        "hours": 1,
+        "minutes": 52,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "react-demo",
+        "total_seconds": 6738.486328,
+        "digital": "1:52:18",
+        "decimal": "1.87",
+        "text": "1 hr 52 mins",
+        "hours": 1,
+        "minutes": 52,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-10-06T16:00:00Z",
+      "end": "2023-10-07T15:59:59Z",
+      "date": "2023-10-07",
+      "text": "Sat Oct 7th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
