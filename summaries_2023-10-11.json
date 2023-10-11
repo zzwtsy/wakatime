@@ -1,0 +1,276 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 5422.213674,
+        "digital": "1:30:22",
+        "decimal": "1.50",
+        "text": "1 hr 30 mins",
+        "hours": 1,
+        "minutes": 30,
+        "seconds": 22,
+        "percent": 98.61
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 71.14844,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 1.29
+      },
+      {
+        "name": "Text",
+        "total_seconds": 4.884,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.09
+      },
+      {
+        "name": "Properties",
+        "total_seconds": 0.123,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 31,
+      "total_seconds": 5498.369114,
+      "digital": "1:31",
+      "decimal": "1.52",
+      "text": "1 hr 31 mins"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 5427.220674,
+        "digital": "1:30:27",
+        "decimal": "1.50",
+        "text": "1 hr 30 mins",
+        "hours": 1,
+        "minutes": 30,
+        "seconds": 27,
+        "percent": 98.71
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 71.14844,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 1.29
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 5498.369114,
+        "digital": "1:31:38",
+        "decimal": "1.52",
+        "text": "1 hr 31 mins",
+        "hours": 1,
+        "minutes": 31,
+        "seconds": 38,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5498.369114,
+        "digital": "1:31:38",
+        "decimal": "1.52",
+        "text": "1 hr 31 mins",
+        "hours": 1,
+        "minutes": 31,
+        "seconds": 38,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "bean.Product",
+        "total_seconds": 4638.958674,
+        "digital": "1:17:18",
+        "decimal": "1.28",
+        "text": "1 hr 17 mins",
+        "hours": 1,
+        "minutes": 17,
+        "seconds": 18,
+        "percent": 32.33
+      },
+      {
+        "name": "bean.JSTGoodsInfo",
+        "total_seconds": 4638.958674,
+        "digital": "1:17:18",
+        "decimal": "1.28",
+        "text": "1 hr 17 mins",
+        "hours": 1,
+        "minutes": 17,
+        "seconds": 18,
+        "percent": 32.33
+      },
+      {
+        "name": "util.ExcelUtil",
+        "total_seconds": 4638.958674,
+        "digital": "1:17:18",
+        "decimal": "1.28",
+        "text": "1 hr 17 mins",
+        "hours": 1,
+        "minutes": 17,
+        "seconds": 18,
+        "percent": 32.33
+      },
+      {
+        "name": "com.alibaba",
+        "total_seconds": 268.178,
+        "digital": "0:04:28",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 28,
+        "percent": 1.87
+      },
+      {
+        "name": "roku-ui",
+        "total_seconds": 61.845203,
+        "digital": "0:01:01",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 1,
+        "percent": 0.43
+      },
+      {
+        "name": "StackedHorizontalChart",
+        "total_seconds": 51.929094,
+        "digital": "0:00:51",
+        "decimal": "0.00",
+        "text": "51 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 51,
+        "percent": 0.36
+      },
+      {
+        "name": "react",
+        "total_seconds": 19.219346,
+        "digital": "0:00:19",
+        "decimal": "0.00",
+        "text": "19 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 19,
+        "percent": 0.13
+      },
+      {
+        "name": "react-chartjs-2",
+        "total_seconds": 9.916109,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.07
+      },
+      {
+        "name": "chart",
+        "total_seconds": 9.916109,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.07
+      },
+      {
+        "name": "jsx-runtime",
+        "total_seconds": 9.303237,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.06
+      },
+      {
+        "name": "com.google",
+        "total_seconds": 0.079,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 5498.369114,
+        "machine_name_id": "ec8a3c47-a211-428a-a257-e7e32768eddb",
+        "digital": "1:31:38",
+        "decimal": "1.52",
+        "text": "1 hr 31 mins",
+        "hours": 1,
+        "minutes": 31,
+        "seconds": 38,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "untitled",
+        "total_seconds": 5427.220674,
+        "digital": "1:30:27",
+        "decimal": "1.50",
+        "text": "1 hr 30 mins",
+        "hours": 1,
+        "minutes": 30,
+        "seconds": 27,
+        "percent": 98.71
+      },
+      {
+        "name": "react-demo",
+        "total_seconds": 71.14844,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 1.29
+      }
+    ],
+    "range": {
+      "start": "2023-10-10T16:00:00Z",
+      "end": "2023-10-11T15:59:59Z",
+      "date": "2023-10-11",
+      "text": "Wed Oct 11th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
