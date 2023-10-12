@@ -1,0 +1,243 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 5023.637,
+        "digital": "1:23:43",
+        "decimal": "1.38",
+        "text": "1 hr 23 mins",
+        "hours": 1,
+        "minutes": 23,
+        "seconds": 43,
+        "percent": 93.85
+      },
+      {
+        "name": "Java",
+        "total_seconds": 168.212651,
+        "digital": "0:02:48",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 48,
+        "percent": 3.14
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 149.904808,
+        "digital": "0:02:29",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 29,
+        "percent": 2.8
+      },
+      {
+        "name": "ActionScript 3",
+        "total_seconds": 10.698,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.2
+      },
+      {
+        "name": "Text",
+        "total_seconds": 0.249,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "Properties",
+        "total_seconds": 0.062,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 29,
+      "total_seconds": 5352.763459,
+      "digital": "1:29",
+      "decimal": "1.48",
+      "text": "1 hr 29 mins"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 5202.858651,
+        "digital": "1:26:42",
+        "decimal": "1.43",
+        "text": "1 hr 26 mins",
+        "hours": 1,
+        "minutes": 26,
+        "seconds": 42,
+        "percent": 97.2
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 149.904808,
+        "digital": "0:02:29",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 29,
+        "percent": 2.8
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 5352.763459,
+        "digital": "1:29:12",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 12,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5352.763459,
+        "digital": "1:29:12",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 12,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "bean.JSTGoodsInfo",
+        "total_seconds": 144.475,
+        "digital": "0:02:24",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 24,
+        "percent": 27.51
+      },
+      {
+        "name": "bean.Product",
+        "total_seconds": 144.475,
+        "digital": "0:02:24",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 24,
+        "percent": 27.51
+      },
+      {
+        "name": "util.ExcelUtil",
+        "total_seconds": 144.475,
+        "digital": "0:02:24",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 24,
+        "percent": 27.51
+      },
+      {
+        "name": "com.alibaba",
+        "total_seconds": 91.591,
+        "digital": "0:01:31",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 31,
+        "percent": 17.44
+      },
+      {
+        "name": "com.google",
+        "total_seconds": 0.067,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.01
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 5352.763459,
+        "machine_name_id": "ec8a3c47-a211-428a-a257-e7e32768eddb",
+        "digital": "1:29:12",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 12,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "untitled",
+        "total_seconds": 5034.646,
+        "digital": "1:23:54",
+        "decimal": "1.38",
+        "text": "1 hr 23 mins",
+        "hours": 1,
+        "minutes": 23,
+        "seconds": 54,
+        "percent": 94.06
+      },
+      {
+        "name": "JavaTemp",
+        "total_seconds": 168.212651,
+        "digital": "0:02:48",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 48,
+        "percent": 3.14
+      },
+      {
+        "name": "react-demo",
+        "total_seconds": 149.904808,
+        "digital": "0:02:29",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 29,
+        "percent": 2.8
+      }
+    ],
+    "range": {
+      "start": "2023-10-11T16:00:00Z",
+      "end": "2023-10-12T15:59:59Z",
+      "date": "2023-10-12",
+      "text": "Thu Oct 12th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
