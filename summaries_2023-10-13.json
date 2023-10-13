@@ -1,0 +1,99 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JSON",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 0,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 0,
+        "machine_name_id": "ec8a3c47-a211-428a-a257-e7e32768eddb",
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "projects": [
+      {
+        "name": "untitled",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "range": {
+      "start": "2023-10-12T16:00:00Z",
+      "end": "2023-10-13T15:59:59Z",
+      "date": "2023-10-13",
+      "text": "Fri Oct 13th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
