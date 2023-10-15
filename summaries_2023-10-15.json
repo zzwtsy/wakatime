@@ -1,0 +1,276 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 1572.485,
+        "digital": "0:26:12",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 12,
+        "percent": 98.93
+      },
+      {
+        "name": "Text",
+        "total_seconds": 13.314,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.84
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 3.701,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.23
+      },
+      {
+        "name": "Properties",
+        "total_seconds": 0.024,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 26,
+      "total_seconds": 1589.524,
+      "digital": "0:26",
+      "decimal": "0.43",
+      "text": "26 mins"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 1589.524,
+        "digital": "0:26:29",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1589.524,
+        "digital": "0:26:29",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1589.524,
+        "digital": "0:26:29",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "bean.JSTGoodsInfo",
+        "total_seconds": 1495.487,
+        "digital": "0:24:55",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 55,
+        "percent": 30.91
+      },
+      {
+        "name": "util.ExcelUtil",
+        "total_seconds": 1495.487,
+        "digital": "0:24:55",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 55,
+        "percent": 30.91
+      },
+      {
+        "name": "bean.Product",
+        "total_seconds": 1495.487,
+        "digital": "0:24:55",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 55,
+        "percent": 30.91
+      },
+      {
+        "name": "okhttp3.ResponseBody",
+        "total_seconds": 45.566,
+        "digital": "0:00:45",
+        "decimal": "0.00",
+        "text": "45 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 45,
+        "percent": 0.94
+      },
+      {
+        "name": "okio.source",
+        "total_seconds": 45.566,
+        "digital": "0:00:45",
+        "decimal": "0.00",
+        "text": "45 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 45,
+        "percent": 0.94
+      },
+      {
+        "name": "okhttp3.Interceptor",
+        "total_seconds": 45.566,
+        "digital": "0:00:45",
+        "decimal": "0.00",
+        "text": "45 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 45,
+        "percent": 0.94
+      },
+      {
+        "name": "okio.IOException",
+        "total_seconds": 45.566,
+        "digital": "0:00:45",
+        "decimal": "0.00",
+        "text": "45 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 45,
+        "percent": 0.94
+      },
+      {
+        "name": "okhttp3.Response",
+        "total_seconds": 45.566,
+        "digital": "0:00:45",
+        "decimal": "0.00",
+        "text": "45 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 45,
+        "percent": 0.94
+      },
+      {
+        "name": "org.brotli",
+        "total_seconds": 45.566,
+        "digital": "0:00:45",
+        "decimal": "0.00",
+        "text": "45 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 45,
+        "percent": 0.94
+      },
+      {
+        "name": "okio.buffer",
+        "total_seconds": 45.566,
+        "digital": "0:00:45",
+        "decimal": "0.00",
+        "text": "45 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 45,
+        "percent": 0.94
+      },
+      {
+        "name": "com.alibaba",
+        "total_seconds": 26.857,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 0.56
+      },
+      {
+        "name": "com.google",
+        "total_seconds": 4.55,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.09
+      },
+      {
+        "name": "bean.Pikpak",
+        "total_seconds": 1.511,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.03
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 1589.524,
+        "machine_name_id": "ec8a3c47-a211-428a-a257-e7e32768eddb",
+        "digital": "0:26:29",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "untitled",
+        "total_seconds": 1589.524,
+        "digital": "0:26:29",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 29,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-10-14T16:00:00Z",
+      "end": "2023-10-15T15:59:59Z",
+      "date": "2023-10-15",
+      "text": "Sun Oct 15th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
