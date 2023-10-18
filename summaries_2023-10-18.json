@@ -1,0 +1,144 @@
+[
+  {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 1003.482105,
+        "digital": "0:16:43",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 16,
+      "total_seconds": 1003.482105,
+      "digital": "0:16",
+      "decimal": "0.27",
+      "text": "16 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1003.482105,
+        "digital": "0:16:43",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1003.482105,
+        "digital": "0:16:43",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1003.482105,
+        "digital": "0:16:43",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "react-chartjs-2",
+        "total_seconds": 1003.482105,
+        "digital": "0:16:43",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 43,
+        "percent": 33.33
+      },
+      {
+        "name": "roku-ui",
+        "total_seconds": 1003.482105,
+        "digital": "0:16:43",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 43,
+        "percent": 33.33
+      },
+      {
+        "name": "chart",
+        "total_seconds": 1003.482105,
+        "digital": "0:16:43",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 43,
+        "percent": 33.33
+      },
+      {
+        "name": "chartjs-plugin-colorschemes",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 1003.482105,
+        "machine_name_id": "018b3d6e-8f7e-4229-ac20-1d782008204c",
+        "digital": "0:16:43",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "react-demo",
+        "total_seconds": 1003.482105,
+        "digital": "0:16:43",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-10-17T16:00:00Z",
+      "end": "2023-10-18T15:59:59Z",
+      "date": "2023-10-18",
+      "text": "Wed Oct 18th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
