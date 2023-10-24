@@ -1,0 +1,364 @@
+[
+  {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 17605.165337,
+        "digital": "4:53:25",
+        "decimal": "4.88",
+        "text": "4 hrs 53 mins",
+        "hours": 4,
+        "minutes": 53,
+        "seconds": 25,
+        "percent": 93.27
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 1074.536814,
+        "digital": "0:17:54",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 54,
+        "percent": 5.69
+      },
+      {
+        "name": "Other",
+        "total_seconds": 171.640166,
+        "digital": "0:02:51",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 51,
+        "percent": 0.91
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 15.076678,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.08
+      },
+      {
+        "name": "TSConfig",
+        "total_seconds": 9.332269,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.05
+      }
+    ],
+    "grand_total": {
+      "hours": 5,
+      "minutes": 14,
+      "total_seconds": 18875.751264,
+      "digital": "5:14",
+      "decimal": "5.23",
+      "text": "5 hrs 14 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 18875.751264,
+        "digital": "5:14:35",
+        "decimal": "5.23",
+        "text": "5 hrs 14 mins",
+        "hours": 5,
+        "minutes": 14,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Mac",
+        "total_seconds": 18875.751264,
+        "digital": "5:14:35",
+        "decimal": "5.23",
+        "text": "5 hrs 14 mins",
+        "hours": 5,
+        "minutes": 14,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 18875.751264,
+        "digital": "5:14:35",
+        "decimal": "5.23",
+        "text": "5 hrs 14 mins",
+        "hours": 5,
+        "minutes": 14,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "roku-ui",
+        "total_seconds": 15310.150241,
+        "digital": "4:15:10",
+        "decimal": "4.25",
+        "text": "4 hrs 15 mins",
+        "hours": 4,
+        "minutes": 15,
+        "seconds": 10,
+        "percent": 13.48
+      },
+      {
+        "name": "big",
+        "total_seconds": 14173.815427,
+        "digital": "3:56:13",
+        "decimal": "3.93",
+        "text": "3 hrs 56 mins",
+        "hours": 3,
+        "minutes": 56,
+        "seconds": 13,
+        "percent": 12.48
+      },
+      {
+        "name": "Wakatime",
+        "total_seconds": 12585.633533,
+        "digital": "3:29:45",
+        "decimal": "3.48",
+        "text": "3 hrs 29 mins",
+        "hours": 3,
+        "minutes": 29,
+        "seconds": 45,
+        "percent": 11.08
+      },
+      {
+        "name": "StackedHorizontalBar",
+        "total_seconds": 11644.857603,
+        "digital": "3:14:04",
+        "decimal": "3.23",
+        "text": "3 hrs 14 mins",
+        "hours": 3,
+        "minutes": 14,
+        "seconds": 4,
+        "percent": 10.25
+      },
+      {
+        "name": "react",
+        "total_seconds": 11614.743474,
+        "digital": "3:13:34",
+        "decimal": "3.22",
+        "text": "3 hrs 13 mins",
+        "hours": 3,
+        "minutes": 13,
+        "seconds": 34,
+        "percent": 10.23
+      },
+      {
+        "name": "api",
+        "total_seconds": 11430.56171,
+        "digital": "3:10:30",
+        "decimal": "3.17",
+        "text": "3 hrs 10 mins",
+        "hours": 3,
+        "minutes": 10,
+        "seconds": 30,
+        "percent": 10.06
+      },
+      {
+        "name": "Utils",
+        "total_seconds": 6597.247248,
+        "digital": "1:49:57",
+        "decimal": "1.82",
+        "text": "1 hr 49 mins",
+        "hours": 1,
+        "minutes": 49,
+        "seconds": 57,
+        "percent": 5.81
+      },
+      {
+        "name": "core",
+        "total_seconds": 3867.164371,
+        "digital": "1:04:27",
+        "decimal": "1.07",
+        "text": "1 hr 4 mins",
+        "hours": 1,
+        "minutes": 4,
+        "seconds": 27,
+        "percent": 3.4
+      },
+      {
+        "name": "renderers",
+        "total_seconds": 3227.188685,
+        "digital": "0:53:47",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 47,
+        "percent": 2.84
+      },
+      {
+        "name": "charts",
+        "total_seconds": 3227.188685,
+        "digital": "0:53:47",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 47,
+        "percent": 2.84
+      },
+      {
+        "name": "server",
+        "total_seconds": 3227.188685,
+        "digital": "0:53:47",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 47,
+        "percent": 2.84
+      },
+      {
+        "name": "components",
+        "total_seconds": 3227.188685,
+        "digital": "0:53:47",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 47,
+        "percent": 2.84
+      },
+      {
+        "name": "shared",
+        "total_seconds": 3227.188685,
+        "digital": "0:53:47",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 47,
+        "percent": 2.84
+      },
+      {
+        "name": "light",
+        "total_seconds": 2543.655151,
+        "digital": "0:42:23",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 23,
+        "percent": 2.24
+      },
+      {
+        "name": "dark",
+        "total_seconds": 2543.655151,
+        "digital": "0:42:23",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 23,
+        "percent": 2.24
+      },
+      {
+        "name": "echarts",
+        "total_seconds": 2469.343919,
+        "digital": "0:41:09",
+        "decimal": "0.68",
+        "text": "41 mins",
+        "hours": 0,
+        "minutes": 41,
+        "seconds": 9,
+        "percent": 2.17
+      },
+      {
+        "name": "Chart",
+        "total_seconds": 1474.347031,
+        "digital": "0:24:34",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 34,
+        "percent": 1.3
+      },
+      {
+        "name": "GistRawUrl",
+        "total_seconds": 1155.071823,
+        "digital": "0:19:15",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 15,
+        "percent": 1.02
+      },
+      {
+        "name": "types",
+        "total_seconds": 15.790731,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.01
+      },
+      {
+        "name": "Dashboard",
+        "total_seconds": 12.42416,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.01
+      }
+    ],
+    "machines": [
+      {
+        "name": "mengdeMac-Pro.lan",
+        "total_seconds": 18875.751264,
+        "machine_name_id": "6f70215f-363f-4cb3-874e-759aba9934be",
+        "digital": "5:14:35",
+        "decimal": "5.23",
+        "text": "5 hrs 14 mins",
+        "hours": 5,
+        "minutes": 14,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "react-demo",
+        "total_seconds": 18875.751264,
+        "digital": "5:14:35",
+        "decimal": "5.23",
+        "text": "5 hrs 14 mins",
+        "hours": 5,
+        "minutes": 14,
+        "seconds": 35,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-10-23T16:00:00Z",
+      "end": "2023-10-24T15:59:59Z",
+      "date": "2023-10-24",
+      "text": "Tue Oct 24th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
