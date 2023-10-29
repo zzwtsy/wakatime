@@ -1,0 +1,354 @@
+[
+  {
+    "languages": [
+      {
+        "name": "YAML",
+        "total_seconds": 3633.285838,
+        "digital": "1:00:33",
+        "decimal": "1.00",
+        "text": "1 hr",
+        "hours": 1,
+        "minutes": 0,
+        "seconds": 33,
+        "percent": 48.59
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 2839.063857,
+        "digital": "0:47:19",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 19,
+        "percent": 37.97
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 715.984596,
+        "digital": "0:11:55",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 55,
+        "percent": 9.58
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 167.288116,
+        "digital": "0:02:47",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 47,
+        "percent": 2.24
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 111.448569,
+        "digital": "0:01:51",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 51,
+        "percent": 1.49
+      },
+      {
+        "name": "XML",
+        "total_seconds": 8.671261,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.12
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 1.771718,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.02
+      }
+    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 4,
+      "total_seconds": 7477.513955,
+      "digital": "2:04",
+      "decimal": "2.07",
+      "text": "2 hrs 4 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 7477.513955,
+        "digital": "2:04:37",
+        "decimal": "2.07",
+        "text": "2 hrs 4 mins",
+        "hours": 2,
+        "minutes": 4,
+        "seconds": 37,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Mac",
+        "total_seconds": 5574.114819,
+        "digital": "1:32:54",
+        "decimal": "1.53",
+        "text": "1 hr 32 mins",
+        "hours": 1,
+        "minutes": 32,
+        "seconds": 54,
+        "percent": 74.55
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 1903.399136,
+        "digital": "0:31:43",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 43,
+        "percent": 25.45
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 7477.513955,
+        "digital": "2:04:37",
+        "decimal": "2.07",
+        "text": "2 hrs 4 mins",
+        "hours": 2,
+        "minutes": 4,
+        "seconds": 37,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "roku-ui",
+        "total_seconds": 1908.018391,
+        "digital": "0:31:48",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 48,
+        "percent": 9.69
+      },
+      {
+        "name": "react",
+        "total_seconds": 1908.018391,
+        "digital": "0:31:48",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 48,
+        "percent": 9.69
+      },
+      {
+        "name": "StackedHorizontalBar",
+        "total_seconds": 1908.018391,
+        "digital": "0:31:48",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 48,
+        "percent": 9.69
+      },
+      {
+        "name": "Wakatime",
+        "total_seconds": 1908.018391,
+        "digital": "0:31:48",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 48,
+        "percent": 9.69
+      },
+      {
+        "name": "DoughnutChart",
+        "total_seconds": 1908.018391,
+        "digital": "0:31:48",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 48,
+        "percent": 9.69
+      },
+      {
+        "name": "utils",
+        "total_seconds": 1908.018391,
+        "digital": "0:31:48",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 48,
+        "percent": 9.69
+      },
+      {
+        "name": "api",
+        "total_seconds": 1908.018391,
+        "digital": "0:31:48",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 48,
+        "percent": 9.69
+      },
+      {
+        "name": "types",
+        "total_seconds": 1908.018391,
+        "digital": "0:31:48",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 48,
+        "percent": 9.69
+      },
+      {
+        "name": "big",
+        "total_seconds": 1908.018391,
+        "digital": "0:31:48",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 48,
+        "percent": 9.69
+      },
+      {
+        "name": "vite",
+        "total_seconds": 875.482686,
+        "digital": "0:14:35",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 35,
+        "percent": 4.45
+      },
+      {
+        "name": "plugin-react",
+        "total_seconds": 875.482686,
+        "digital": "0:14:35",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 35,
+        "percent": 4.45
+      },
+      {
+        "name": "\"/src/main.tsx\"",
+        "total_seconds": 715.984596,
+        "digital": "0:11:55",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 55,
+        "percent": 3.64
+      },
+      {
+        "name": "Tools",
+        "total_seconds": 55.56278,
+        "digital": "0:00:55",
+        "decimal": "0.00",
+        "text": "55 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 55,
+        "percent": 0.28
+      }
+    ],
+    "machines": [
+      {
+        "name": "mengdeMac-Pro.lan",
+        "total_seconds": 5574.114819,
+        "machine_name_id": "6f70215f-363f-4cb3-874e-759aba9934be",
+        "digital": "1:32:54",
+        "decimal": "1.53",
+        "text": "1 hr 32 mins",
+        "hours": 1,
+        "minutes": 32,
+        "seconds": 54,
+        "percent": 74.55
+      },
+      {
+        "name": "meng",
+        "total_seconds": 1903.399136,
+        "machine_name_id": "ec8a3c47-a211-428a-a257-e7e32768eddb",
+        "digital": "0:31:43",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 43,
+        "percent": 25.45
+      }
+    ],
+    "projects": [
+      {
+        "name": "react-demo",
+        "total_seconds": 6298.770676,
+        "digital": "1:44:58",
+        "decimal": "1.73",
+        "text": "1 hr 44 mins",
+        "hours": 1,
+        "minutes": 44,
+        "seconds": 58,
+        "percent": 84.24
+      },
+      {
+        "name": "wakatime-dashboard-vue",
+        "total_seconds": 1178.743279,
+        "digital": "0:19:38",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 38,
+        "percent": 15.76
+      },
+      {
+        "name": "wakatime-dashboard",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "range": {
+      "start": "2023-10-28T16:00:00Z",
+      "end": "2023-10-29T15:59:59Z",
+      "date": "2023-10-29",
+      "text": "Sun Oct 29th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
