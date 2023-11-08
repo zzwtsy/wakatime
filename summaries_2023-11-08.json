@@ -1,0 +1,178 @@
+[
+  {
+    "grand_total": {
+      "hours": 1,
+      "minutes": 32,
+      "total_seconds": 5563.105,
+      "digital": "1:32",
+      "decimal": "1.53",
+      "text": "1 hr 32 mins"
+    },
+    "range": {
+      "start": "2023-11-07T16:00:00Z",
+      "end": "2023-11-08T15:59:59Z",
+      "date": "2023-11-08",
+      "text": "Wed Nov 8th 2023",
+      "timezone": "Asia/Shanghai"
+    },
+    "projects": [
+      {
+        "name": "FC2Service",
+        "total_seconds": 5563.105,
+        "color": null,
+        "digital": "1:32:43",
+        "decimal": "1.53",
+        "text": "1 hr 32 mins",
+        "hours": 1,
+        "minutes": 32,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 5563.002,
+        "digital": "1:32:43",
+        "decimal": "1.53",
+        "text": "1 hr 32 mins",
+        "hours": 1,
+        "minutes": 32,
+        "seconds": 43,
+        "percent": 100
+      },
+      {
+        "name": "Properties",
+        "total_seconds": 0.103,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "org.jsoup",
+        "total_seconds": 3577.282,
+        "digital": "0:59:37",
+        "decimal": "0.98",
+        "text": "59 mins",
+        "hours": 0,
+        "minutes": 59,
+        "seconds": 37,
+        "percent": 63.35
+      },
+      {
+        "name": "org.springframework",
+        "total_seconds": 679.277,
+        "digital": "0:11:19",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 19,
+        "percent": 12.03
+      },
+      {
+        "name": "cn.zzwtsy",
+        "total_seconds": 679.187,
+        "digital": "0:11:19",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 19,
+        "percent": 12.03
+      },
+      {
+        "name": "jakarta.persistence",
+        "total_seconds": 354.598,
+        "digital": "0:05:54",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 54,
+        "percent": 6.28
+      },
+      {
+        "name": "org.junit",
+        "total_seconds": 350.308,
+        "digital": "0:05:50",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 50,
+        "percent": 6.2
+      },
+      {
+        "name": "org.jetbrains",
+        "total_seconds": 6.392,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.11
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 5563.105,
+        "machine_name_id": "ec8a3c47-a211-428a-a257-e7e32768eddb",
+        "digital": "1:32:43",
+        "decimal": "1.53",
+        "text": "1 hr 32 mins",
+        "hours": 1,
+        "minutes": 32,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 5563.105,
+        "digital": "1:32:43",
+        "decimal": "1.53",
+        "text": "1 hr 32 mins",
+        "hours": 1,
+        "minutes": 32,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 5563.105,
+        "digital": "1:32:43",
+        "decimal": "1.53",
+        "text": "1 hr 32 mins",
+        "hours": 1,
+        "minutes": 32,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5563.105,
+        "digital": "1:32:43",
+        "decimal": "1.53",
+        "text": "1 hr 32 mins",
+        "hours": 1,
+        "minutes": 32,
+        "seconds": 43,
+        "percent": 100
+      }
+    ]
+  }
+]
