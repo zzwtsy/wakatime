@@ -1,0 +1,178 @@
+[
+  {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 33,
+      "total_seconds": 2013.178,
+      "digital": "0:33",
+      "decimal": "0.55",
+      "text": "33 mins"
+    },
+    "range": {
+      "start": "2023-11-13T16:00:00Z",
+      "end": "2023-11-14T15:59:59Z",
+      "date": "2023-11-14",
+      "text": "Tue Nov 14th 2023",
+      "timezone": "Asia/Shanghai"
+    },
+    "projects": [
+      {
+        "name": "FC2Service",
+        "total_seconds": 2013.178,
+        "color": null,
+        "digital": "0:33:33",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 2013.178,
+        "digital": "0:33:33",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "cn.zzwtsy",
+        "total_seconds": 1771.876,
+        "digital": "0:29:31",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 31,
+        "percent": 49.59
+      },
+      {
+        "name": "org.springframework",
+        "total_seconds": 1711.71,
+        "digital": "0:28:31",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 31,
+        "percent": 47.91
+      },
+      {
+        "name": "com.rometools",
+        "total_seconds": 78.692,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 2.2
+      },
+      {
+        "name": "org.junit",
+        "total_seconds": 9.096,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.25
+      },
+      {
+        "name": "org.jetbrains",
+        "total_seconds": 1.117,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.03
+      },
+      {
+        "name": "jakarta.persistence",
+        "total_seconds": 0.553,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.02
+      },
+      {
+        "name": "org.jsoup",
+        "total_seconds": 0.039,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 2013.178,
+        "machine_name_id": "ec8a3c47-a211-428a-a257-e7e32768eddb",
+        "digital": "0:33:33",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 2013.178,
+        "digital": "0:33:33",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2013.178,
+        "digital": "0:33:33",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2013.178,
+        "digital": "0:33:33",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 33,
+        "percent": 100
+      }
+    ]
+  }
+]
