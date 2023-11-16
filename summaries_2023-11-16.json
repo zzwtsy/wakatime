@@ -1,0 +1,211 @@
+[
+  {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 37,
+      "total_seconds": 2252.929,
+      "digital": "0:37",
+      "decimal": "0.62",
+      "text": "37 mins"
+    },
+    "range": {
+      "start": "2023-11-15T16:00:00Z",
+      "end": "2023-11-16T15:59:59Z",
+      "date": "2023-11-16",
+      "text": "Thu Nov 16th 2023",
+      "timezone": "Asia/Shanghai"
+    },
+    "projects": [
+      {
+        "name": "FC2Service",
+        "total_seconds": 2252.929,
+        "color": null,
+        "digital": "0:37:32",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 32,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 2252.929,
+        "digital": "0:37:32",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 32,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "okhttp3.Headers",
+        "total_seconds": 748.874,
+        "digital": "0:12:28",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 28,
+        "percent": 25.58
+      },
+      {
+        "name": "okhttp3.RequestBody",
+        "total_seconds": 748.874,
+        "digital": "0:12:28",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 28,
+        "percent": 25.58
+      },
+      {
+        "name": "cn.zzwtsy",
+        "total_seconds": 456.82,
+        "digital": "0:07:36",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 36,
+        "percent": 15.61
+      },
+      {
+        "name": "okhttp3.OkHttpClient",
+        "total_seconds": 403.585,
+        "digital": "0:06:43",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 43,
+        "percent": 13.79
+      },
+      {
+        "name": "okhttp3.Request",
+        "total_seconds": 338.485,
+        "digital": "0:05:38",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 38,
+        "percent": 11.56
+      },
+      {
+        "name": "okhttp3.FormBody",
+        "total_seconds": 182.141,
+        "digital": "0:03:02",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 2,
+        "percent": 6.22
+      },
+      {
+        "name": "okhttp3",
+        "total_seconds": 30.206,
+        "digital": "0:00:30",
+        "decimal": "0.00",
+        "text": "30 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 30,
+        "percent": 1.03
+      },
+      {
+        "name": "org.jetbrains",
+        "total_seconds": 16.006,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.55
+      },
+      {
+        "name": "org.junit",
+        "total_seconds": 1.153,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.04
+      },
+      {
+        "name": "org.springframework",
+        "total_seconds": 1.153,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.04
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 2252.929,
+        "machine_name_id": "018bd388-69bd-4489-a7a0-56831d47a9d5",
+        "digital": "0:37:32",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 32,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 2252.929,
+        "digital": "0:37:32",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 32,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2252.929,
+        "digital": "0:37:32",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 32,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2252.929,
+        "digital": "0:37:32",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 32,
+        "percent": 100
+      }
+    ]
+  }
+]
