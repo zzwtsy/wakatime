@@ -1,0 +1,167 @@
+[
+  {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 54,
+      "total_seconds": 3251.707,
+      "digital": "0:54",
+      "decimal": "0.90",
+      "text": "54 mins"
+    },
+    "range": {
+      "start": "2023-11-20T16:00:00Z",
+      "end": "2023-11-21T15:59:59Z",
+      "date": "2023-11-21",
+      "text": "Tue Nov 21st 2023",
+      "timezone": "Asia/Shanghai"
+    },
+    "projects": [
+      {
+        "name": "FC2Service",
+        "total_seconds": 3251.707,
+        "color": null,
+        "digital": "0:54:11",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 3251.707,
+        "digital": "0:54:11",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "cn.zzwtsy",
+        "total_seconds": 2851.773,
+        "digital": "0:47:31",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 31,
+        "percent": 35.84
+      },
+      {
+        "name": "org.springframework",
+        "total_seconds": 1732.264,
+        "digital": "0:28:52",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 52,
+        "percent": 21.77
+      },
+      {
+        "name": "org.junit",
+        "total_seconds": 1047.5,
+        "digital": "0:17:27",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 27,
+        "percent": 13.17
+      },
+      {
+        "name": "org.hibernate",
+        "total_seconds": 979.332,
+        "digital": "0:16:19",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 19,
+        "percent": 12.31
+      },
+      {
+        "name": "jakarta.persistence",
+        "total_seconds": 979.332,
+        "digital": "0:16:19",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 19,
+        "percent": 12.31
+      },
+      {
+        "name": "com.fasterxml",
+        "total_seconds": 365.949,
+        "digital": "0:06:05",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 5,
+        "percent": 4.6
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 3251.707,
+        "machine_name_id": "ec8a3c47-a211-428a-a257-e7e32768eddb",
+        "digital": "0:54:11",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 3251.707,
+        "digital": "0:54:11",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 3251.707,
+        "digital": "0:54:11",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3251.707,
+        "digital": "0:54:11",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 11,
+        "percent": 100
+      }
+    ]
+  }
+]
