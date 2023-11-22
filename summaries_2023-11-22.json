@@ -1,0 +1,485 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 9657.857865,
+        "digital": "2:40:57",
+        "decimal": "2.67",
+        "text": "2 hrs 40 mins",
+        "hours": 2,
+        "minutes": 40,
+        "seconds": 57,
+        "percent": 99.01
+      },
+      {
+        "name": "SQL",
+        "total_seconds": 50.001623,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 0.51
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 46.226512,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.47
+      }
+    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 42,
+      "total_seconds": 9754.086,
+      "digital": "2:42",
+      "decimal": "2.70",
+      "text": "2 hrs 42 mins"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 9657.857865,
+        "digital": "2:40:57",
+        "decimal": "2.67",
+        "text": "2 hrs 40 mins",
+        "hours": 2,
+        "minutes": 40,
+        "seconds": 57,
+        "percent": 99.01
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 96.228135,
+        "digital": "0:01:36",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 36,
+        "percent": 0.99
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 9754.086,
+        "digital": "2:42:34",
+        "decimal": "2.70",
+        "text": "2 hrs 42 mins",
+        "hours": 2,
+        "minutes": 42,
+        "seconds": 34,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 9754.086,
+        "digital": "2:42:34",
+        "decimal": "2.70",
+        "text": "2 hrs 42 mins",
+        "hours": 2,
+        "minutes": 42,
+        "seconds": 34,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "cn.zzwtsy",
+        "total_seconds": 8883.575865,
+        "digital": "2:28:03",
+        "decimal": "2.47",
+        "text": "2 hrs 28 mins",
+        "hours": 2,
+        "minutes": 28,
+        "seconds": 3,
+        "percent": 27.65
+      },
+      {
+        "name": "org.springframework",
+        "total_seconds": 7262.480865,
+        "digital": "2:01:02",
+        "decimal": "2.02",
+        "text": "2 hrs 1 min",
+        "hours": 2,
+        "minutes": 1,
+        "seconds": 2,
+        "percent": 22.6
+      },
+      {
+        "name": "io.github",
+        "total_seconds": 6542.051488,
+        "digital": "1:49:02",
+        "decimal": "1.82",
+        "text": "1 hr 49 mins",
+        "hours": 1,
+        "minutes": 49,
+        "seconds": 2,
+        "percent": 20.36
+      },
+      {
+        "name": "org.jsoup",
+        "total_seconds": 2849.243,
+        "digital": "0:47:29",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 29,
+        "percent": 8.87
+      },
+      {
+        "name": "jakarta.persistence",
+        "total_seconds": 2136.276,
+        "digital": "0:35:36",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 36,
+        "percent": 6.65
+      },
+      {
+        "name": "org.hibernate",
+        "total_seconds": 2136.276,
+        "digital": "0:35:36",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 36,
+        "percent": 6.65
+      },
+      {
+        "name": "okhttp3.Headers",
+        "total_seconds": 847.152,
+        "digital": "0:14:07",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 7,
+        "percent": 2.64
+      },
+      {
+        "name": "org.junit",
+        "total_seconds": 461.3,
+        "digital": "0:07:41",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 41,
+        "percent": 1.44
+      },
+      {
+        "name": "com.fasterxml",
+        "total_seconds": 80.061,
+        "digital": "0:01:20",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 20,
+        "percent": 0.25
+      },
+      {
+        "name": "\"https://media.fc2.com/counter_empjs.php?id=7097\"",
+        "total_seconds": 46.226512,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.14
+      },
+      {
+        "name": "\"https://static.fc2.com/contents/js/jQuery.1.7.1.js\"",
+        "total_seconds": 46.226512,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.14
+      },
+      {
+        "name": "\"//static.fc2.com/contents/js/u/page/0ZcOTLytzb9-TLyuxuwuz.js\"",
+        "total_seconds": 46.226512,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.14
+      },
+      {
+        "name": "\"https://media.fc2.com/counter_empjs.php?id=6014&amp;ad_id=435196\"",
+        "total_seconds": 46.226512,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.14
+      },
+      {
+        "name": "\"//static.fc2.com/share/js/service/sc.js\"",
+        "total_seconds": 46.226512,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.14
+      },
+      {
+        "name": "\"/contents_source/js/u/search/55cPLHouwu0ux.js\"",
+        "total_seconds": 46.226512,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.14
+      },
+      {
+        "name": "\"//static.fc2.com/contents/js/u/consumer/qCCCDHv3c_u3Lytx79u3fuuwuyuw.js?tt4avva\"",
+        "total_seconds": 46.226512,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.14
+      },
+      {
+        "name": "\"https://media.fc2.com/counter_empjs.php?id=6014&amp;ad_id=430594\"",
+        "total_seconds": 46.226512,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.14
+      },
+      {
+        "name": "\"//static.fc2.com/contents/js/u/page/x7NOXd0t2b8_fLyuxuwuy.js\"",
+        "total_seconds": 46.226512,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.14
+      },
+      {
+        "name": "\"https://media.fc2.com/counter_empjs.php?id=6095&amp;ad_id=430594\"",
+        "total_seconds": 46.226512,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.14
+      },
+      {
+        "name": "\"//static.fc2.com/contents/js/lib/underscoe_string_js/underscore.string.min.js\"",
+        "total_seconds": 46.226512,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.14
+      },
+      {
+        "name": "\"https://media.fc2.com/counter_empjs.php?id=6095&amp;ad_id=435196\"",
+        "total_seconds": 46.226512,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.14
+      },
+      {
+        "name": "\"//static.fc2.com/contents/js/lib/underscore_js/underscore.js?140131\"",
+        "total_seconds": 46.226512,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.14
+      },
+      {
+        "name": "\"https://media.fc2.com/counter_empjs.php?id=6014&amp;ad_id=430771\"",
+        "total_seconds": 46.226512,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.14
+      },
+      {
+        "name": "\"https://media.fc2.com/counter_empjs.php?id=6095&amp;ad_id=430771\"",
+        "total_seconds": 46.226512,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.14
+      },
+      {
+        "name": "\"https://gdpr.fc2.com/share/js/gdpr/pp_agreement.pc.ja.20180518.js\"",
+        "total_seconds": 46.226512,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.14
+      },
+      {
+        "name": "\"/contents_source/js/u/page/w58tuPRlx67sbsLsA.js\"",
+        "total_seconds": 46.226512,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.14
+      },
+      {
+        "name": "\"/contents_source/js/base.js?150108\"",
+        "total_seconds": 46.226512,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.14
+      },
+      {
+        "name": "\"/contents_source/js/u/plg/3b_mnNpx4emnfuuwuyuw.js\"",
+        "total_seconds": 46.226512,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.14
+      },
+      {
+        "name": "\"//static.fc2.com/share/fc2parts/js/common_design.js\"",
+        "total_seconds": 46.226512,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.14
+      },
+      {
+        "name": "com.rometools",
+        "total_seconds": 6.091,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.02
+      },
+      {
+        "name": "okhttp3.FormBody",
+        "total_seconds": 0.683,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 9754.086,
+        "machine_name_id": "ec8a3c47-a211-428a-a257-e7e32768eddb",
+        "digital": "2:42:34",
+        "decimal": "2.70",
+        "text": "2 hrs 42 mins",
+        "hours": 2,
+        "minutes": 42,
+        "seconds": 34,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "FC2Service",
+        "total_seconds": 9657.857865,
+        "digital": "2:40:57",
+        "decimal": "2.67",
+        "text": "2 hrs 40 mins",
+        "hours": 2,
+        "minutes": 40,
+        "seconds": 57,
+        "percent": 99.01
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 96.228135,
+        "digital": "0:01:36",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 36,
+        "percent": 0.99
+      }
+    ],
+    "range": {
+      "start": "2023-11-21T16:00:00Z",
+      "end": "2023-11-22T15:59:59Z",
+      "date": "2023-11-22",
+      "text": "Wed Nov 22nd 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
