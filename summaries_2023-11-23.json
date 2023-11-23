@@ -1,0 +1,177 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 545.82,
+        "digital": "0:09:05",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 9,
+      "total_seconds": 545.82,
+      "digital": "0:09",
+      "decimal": "0.15",
+      "text": "9 mins"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 545.82,
+        "digital": "0:09:05",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 545.82,
+        "digital": "0:09:05",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 545.82,
+        "digital": "0:09:05",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "cn.zzwtsy",
+        "total_seconds": 545.693,
+        "digital": "0:09:05",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 5,
+        "percent": 33.34
+      },
+      {
+        "name": "org.springframework",
+        "total_seconds": 544.896,
+        "digital": "0:09:04",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 4,
+        "percent": 33.29
+      },
+      {
+        "name": "io.github",
+        "total_seconds": 544.008,
+        "digital": "0:09:04",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 4,
+        "percent": 33.24
+      },
+      {
+        "name": "org.jsoup",
+        "total_seconds": 1.292,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.08
+      },
+      {
+        "name": "org.junit",
+        "total_seconds": 0.403,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.02
+      },
+      {
+        "name": "com.rometools",
+        "total_seconds": 0.253,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.02
+      },
+      {
+        "name": "okhttp3.Headers",
+        "total_seconds": 0.132,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.01
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 545.82,
+        "machine_name_id": "018bfa66-2f51-46d4-b3d0-ec1bc2697885",
+        "digital": "0:09:05",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "FC2Service",
+        "total_seconds": 545.82,
+        "digital": "0:09:05",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-11-22T16:00:00Z",
+      "end": "2023-11-23T15:59:59Z",
+      "date": "2023-11-23",
+      "text": "Thu Nov 23rd 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
