@@ -1,0 +1,133 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 1666.848,
+        "digital": "0:27:46",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 46,
+        "percent": 100
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 27,
+      "total_seconds": 1666.848,
+      "digital": "0:27",
+      "decimal": "0.45",
+      "text": "27 mins"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 1666.848,
+        "digital": "0:27:46",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 46,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1666.848,
+        "digital": "0:27:46",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 46,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1666.848,
+        "digital": "0:27:46",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 46,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "org.junit",
+        "total_seconds": 1666.848,
+        "digital": "0:27:46",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 46,
+        "percent": 33.33
+      },
+      {
+        "name": "org.springframework",
+        "total_seconds": 1666.848,
+        "digital": "0:27:46",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 46,
+        "percent": 33.33
+      },
+      {
+        "name": "cn.zzwtsy",
+        "total_seconds": 1666.848,
+        "digital": "0:27:46",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 46,
+        "percent": 33.33
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 1666.848,
+        "machine_name_id": "018c1633-7261-4e02-9a84-024407aa92c8",
+        "digital": "0:27:46",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 46,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "FC2Service",
+        "total_seconds": 1666.848,
+        "digital": "0:27:46",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 46,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-11-28T16:00:00Z",
+      "end": "2023-11-29T15:59:59Z",
+      "date": "2023-11-29",
+      "text": "Wed Nov 29th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
