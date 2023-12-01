@@ -669,3 +669,5 @@ summaries_2023-11-28.json
 summaries_2023-11-29.json
 
 summaries_2023-11-30.json
+
+summaries_2023-12-01.json
