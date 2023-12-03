@@ -1,0 +1,474 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 15513.597,
+        "digital": "4:18:33",
+        "decimal": "4.30",
+        "text": "4 hrs 18 mins",
+        "hours": 4,
+        "minutes": 18,
+        "seconds": 33,
+        "percent": 99.01
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 78.532,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.5
+      },
+      {
+        "name": "Java",
+        "total_seconds": 47.346,
+        "digital": "0:00:47",
+        "decimal": "0.00",
+        "text": "47 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 47,
+        "percent": 0.3
+      },
+      {
+        "name": "XML",
+        "total_seconds": 28.994,
+        "digital": "0:00:28",
+        "decimal": "0.00",
+        "text": "28 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 28,
+        "percent": 0.19
+      }
+    ],
+    "grand_total": {
+      "hours": 4,
+      "minutes": 21,
+      "total_seconds": 15668.469,
+      "digital": "4:21",
+      "decimal": "4.35",
+      "text": "4 hrs 21 mins"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 15668.469,
+        "digital": "4:21:08",
+        "decimal": "4.35",
+        "text": "4 hrs 21 mins",
+        "hours": 4,
+        "minutes": 21,
+        "seconds": 8,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 15668.469,
+        "digital": "4:21:08",
+        "decimal": "4.35",
+        "text": "4 hrs 21 mins",
+        "hours": 4,
+        "minutes": 21,
+        "seconds": 8,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 15668.469,
+        "digital": "4:21:08",
+        "decimal": "4.35",
+        "text": "4 hrs 21 mins",
+        "hours": 4,
+        "minutes": 21,
+        "seconds": 8,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "org.springframework",
+        "total_seconds": 6945.074,
+        "digital": "1:55:45",
+        "decimal": "1.92",
+        "text": "1 hr 55 mins",
+        "hours": 1,
+        "minutes": 55,
+        "seconds": 45,
+        "percent": 23.75
+      },
+      {
+        "name": "cn.zzwtsy",
+        "total_seconds": 5384.779,
+        "digital": "1:29:44",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 44,
+        "percent": 18.42
+      },
+      {
+        "name": "io.github",
+        "total_seconds": 4516.971,
+        "digital": "1:15:16",
+        "decimal": "1.25",
+        "text": "1 hr 15 mins",
+        "hours": 1,
+        "minutes": 15,
+        "seconds": 16,
+        "percent": 15.45
+      },
+      {
+        "name": "org.ktorm",
+        "total_seconds": 3868.585,
+        "digital": "1:04:28",
+        "decimal": "1.07",
+        "text": "1 hr 4 mins",
+        "hours": 1,
+        "minutes": 4,
+        "seconds": 28,
+        "percent": 13.23
+      },
+      {
+        "name": "org.jsoup",
+        "total_seconds": 3860.235,
+        "digital": "1:04:20",
+        "decimal": "1.07",
+        "text": "1 hr 4 mins",
+        "hours": 1,
+        "minutes": 4,
+        "seconds": 20,
+        "percent": 13.2
+      },
+      {
+        "name": "com.example",
+        "total_seconds": 2355.576,
+        "digital": "0:39:15",
+        "decimal": "0.65",
+        "text": "39 mins",
+        "hours": 0,
+        "minutes": 39,
+        "seconds": 15,
+        "percent": 8.06
+      },
+      {
+        "name": "org.junit",
+        "total_seconds": 690.931,
+        "digital": "0:11:30",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 30,
+        "percent": 2.36
+      },
+      {
+        "name": "org.jetbrains",
+        "total_seconds": 416.691,
+        "digital": "0:06:56",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 56,
+        "percent": 1.43
+      },
+      {
+        "name": "okhttp3.Headers",
+        "total_seconds": 204.713,
+        "digital": "0:03:24",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 24,
+        "percent": 0.7
+      },
+      {
+        "name": "okhttp3",
+        "total_seconds": 149.897,
+        "digital": "0:02:29",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 29,
+        "percent": 0.51
+      },
+      {
+        "name": "okhttp3.brotli",
+        "total_seconds": 149.897,
+        "digital": "0:02:29",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 29,
+        "percent": 0.51
+      },
+      {
+        "name": "javax.management",
+        "total_seconds": 147.062,
+        "digital": "0:02:27",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 27,
+        "percent": 0.5
+      },
+      {
+        "name": "javax.sql",
+        "total_seconds": 118.877,
+        "digital": "0:01:58",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 58,
+        "percent": 0.41
+      },
+      {
+        "name": "net.sf",
+        "total_seconds": 92.607,
+        "digital": "0:01:32",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 32,
+        "percent": 0.32
+      },
+      {
+        "name": "domain.MagnetLinksEntity",
+        "total_seconds": 47.213,
+        "digital": "0:00:47",
+        "decimal": "0.00",
+        "text": "47 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 47,
+        "percent": 0.16
+      },
+      {
+        "name": "service.MagnetLinksService",
+        "total_seconds": 47.026,
+        "digital": "0:00:47",
+        "decimal": "0.00",
+        "text": "47 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 47,
+        "percent": 0.16
+      },
+      {
+        "name": "utils.ResultBean",
+        "total_seconds": 46.72,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.16
+      },
+      {
+        "name": "springframework.web",
+        "total_seconds": 46.72,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.16
+      },
+      {
+        "name": "springframework.beans",
+        "total_seconds": 46.72,
+        "digital": "0:00:46",
+        "decimal": "0.00",
+        "text": "46 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 46,
+        "percent": 0.16
+      },
+      {
+        "name": "jakarta.persistence",
+        "total_seconds": 36.207,
+        "digital": "0:00:36",
+        "decimal": "0.00",
+        "text": "36 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 36,
+        "percent": 0.12
+      },
+      {
+        "name": "org.hibernate",
+        "total_seconds": 36.207,
+        "digital": "0:00:36",
+        "decimal": "0.00",
+        "text": "36 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 36,
+        "percent": 0.12
+      },
+      {
+        "name": "com.rometools",
+        "total_seconds": 14.361,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 0.05
+      },
+      {
+        "name": "com.fasterxml",
+        "total_seconds": 9.82,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.03
+      },
+      {
+        "name": "okhttp3.FormBody",
+        "total_seconds": 4.094,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.01
+      },
+      {
+        "name": "baomidou.mybatisplus",
+        "total_seconds": 0.626,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "springframework.stereotype",
+        "total_seconds": 0.439,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "mapper.MagnetLinksMapper",
+        "total_seconds": 0.439,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "service.PreviewPicturesService",
+        "total_seconds": 0.133,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "domain.PreviewPicturesEntity",
+        "total_seconds": 0.133,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "apache.ibatis",
+        "total_seconds": 0.084,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 15668.469,
+        "machine_name_id": "018c0526-db59-480f-be96-c7e060a9f5b4",
+        "digital": "4:21:08",
+        "decimal": "4.35",
+        "text": "4 hrs 21 mins",
+        "hours": 4,
+        "minutes": 21,
+        "seconds": 8,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "demo",
+        "total_seconds": 9403.656,
+        "digital": "2:36:43",
+        "decimal": "2.60",
+        "text": "2 hrs 36 mins",
+        "hours": 2,
+        "minutes": 36,
+        "seconds": 43,
+        "percent": 60.02
+      },
+      {
+        "name": "FC2Service",
+        "total_seconds": 6264.813,
+        "digital": "1:44:24",
+        "decimal": "1.73",
+        "text": "1 hr 44 mins",
+        "hours": 1,
+        "minutes": 44,
+        "seconds": 24,
+        "percent": 39.98
+      }
+    ],
+    "range": {
+      "start": "2023-12-02T16:00:00Z",
+      "end": "2023-12-03T15:59:59Z",
+      "date": "2023-12-03",
+      "text": "Sun Dec 3rd 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
