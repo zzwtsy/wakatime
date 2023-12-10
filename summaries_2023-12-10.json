@@ -1,0 +1,310 @@
+[
+  {
+    "grand_total": {
+      "hours": 2,
+      "minutes": 49,
+      "total_seconds": 10145.085,
+      "digital": "2:49",
+      "decimal": "2.82",
+      "text": "2 hrs 49 mins"
+    },
+    "range": {
+      "start": "2023-12-09T16:00:00Z",
+      "end": "2023-12-10T15:59:59Z",
+      "date": "2023-12-10",
+      "text": "Sun Dec 10th 2023",
+      "timezone": "Asia/Shanghai"
+    },
+    "projects": [
+      {
+        "name": "work-tool-compose",
+        "total_seconds": 10145.085,
+        "color": null,
+        "digital": "2:49:05",
+        "decimal": "2.82",
+        "text": "2 hrs 49 mins",
+        "hours": 2,
+        "minutes": 49,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 10145.059,
+        "digital": "2:49:05",
+        "decimal": "2.82",
+        "text": "2 hrs 49 mins",
+        "hours": 2,
+        "minutes": 49,
+        "seconds": 5,
+        "percent": 100
+      },
+      {
+        "name": "Properties",
+        "total_seconds": 0.026,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "com.alibaba",
+        "total_seconds": 9339.016,
+        "digital": "2:35:39",
+        "decimal": "2.58",
+        "text": "2 hrs 35 mins",
+        "hours": 2,
+        "minutes": 35,
+        "seconds": 39,
+        "percent": 43.22
+      },
+      {
+        "name": "org.apache",
+        "total_seconds": 4847.379,
+        "digital": "1:20:47",
+        "decimal": "1.33",
+        "text": "1 hr 20 mins",
+        "hours": 1,
+        "minutes": 20,
+        "seconds": 47,
+        "percent": 22.43
+      },
+      {
+        "name": "vo.DeWuSaleGoodsExcelVo",
+        "total_seconds": 2185.502,
+        "digital": "0:36:25",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 25,
+        "percent": 10.11
+      },
+      {
+        "name": "util.ExcelUtil",
+        "total_seconds": 2181.594,
+        "digital": "0:36:21",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 21,
+        "percent": 10.1
+      },
+      {
+        "name": "entity.DeWuSaleGoodsExcelEntity",
+        "total_seconds": 2040.47,
+        "digital": "0:34:00",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 0,
+        "percent": 9.44
+      },
+      {
+        "name": "androidx.compose",
+        "total_seconds": 145.33,
+        "digital": "0:02:25",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 25,
+        "percent": 0.67
+      },
+      {
+        "name": "components.MyDataTable",
+        "total_seconds": 145.032,
+        "digital": "0:02:25",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 25,
+        "percent": 0.67
+      },
+      {
+        "name": "kotlinx.coroutines",
+        "total_seconds": 145.032,
+        "digital": "0:02:25",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 25,
+        "percent": 0.67
+      },
+      {
+        "name": "excel.DeWuGoodsExcelHandle",
+        "total_seconds": 145.032,
+        "digital": "0:02:25",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 25,
+        "percent": 0.67
+      },
+      {
+        "name": "components.Loading",
+        "total_seconds": 145.032,
+        "digital": "0:02:25",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 25,
+        "percent": 0.67
+      },
+      {
+        "name": "com.darkrockstudios",
+        "total_seconds": 145.032,
+        "digital": "0:02:25",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 25,
+        "percent": 0.67
+      },
+      {
+        "name": "util.Util",
+        "total_seconds": 145.032,
+        "digital": "0:02:25",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 25,
+        "percent": 0.67
+      },
+      {
+        "name": "com.seanproctor",
+        "total_seconds": 0.107,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "moe.tlaster",
+        "total_seconds": 0.065,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "screen.Table",
+        "total_seconds": 0.065,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "screen.Home",
+        "total_seconds": 0.065,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "screen.Setting",
+        "total_seconds": 0.065,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "enums.NavigationScreenType",
+        "total_seconds": 0.065,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 10145.085,
+        "machine_name_id": "ec8a3c47-a211-428a-a257-e7e32768eddb",
+        "digital": "2:49:05",
+        "decimal": "2.82",
+        "text": "2 hrs 49 mins",
+        "hours": 2,
+        "minutes": 49,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 10145.085,
+        "digital": "2:49:05",
+        "decimal": "2.82",
+        "text": "2 hrs 49 mins",
+        "hours": 2,
+        "minutes": 49,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 10145.085,
+        "digital": "2:49:05",
+        "decimal": "2.82",
+        "text": "2 hrs 49 mins",
+        "hours": 2,
+        "minutes": 49,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 10145.085,
+        "digital": "2:49:05",
+        "decimal": "2.82",
+        "text": "2 hrs 49 mins",
+        "hours": 2,
+        "minutes": 49,
+        "seconds": 5,
+        "percent": 100
+      }
+    ]
+  }
+]
