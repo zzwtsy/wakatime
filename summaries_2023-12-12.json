@@ -1,0 +1,144 @@
+[
+  {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 9,
+      "total_seconds": 551.102535,
+      "digital": "0:09",
+      "decimal": "0.15",
+      "text": "9 mins"
+    },
+    "range": {
+      "start": "2023-12-11T16:00:00Z",
+      "end": "2023-12-12T15:59:59Z",
+      "date": "2023-12-12",
+      "text": "Tue Dec 12th 2023",
+      "timezone": "Asia/Shanghai"
+    },
+    "projects": [
+      {
+        "name": "worktools",
+        "total_seconds": 551.102535,
+        "color": null,
+        "digital": "0:09:11",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "XAML",
+        "total_seconds": 469.56578,
+        "digital": "0:07:49",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 49,
+        "percent": 85.2
+      },
+      {
+        "name": "Binary",
+        "total_seconds": 41.472668,
+        "digital": "0:00:41",
+        "decimal": "0.00",
+        "text": "41 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 41,
+        "percent": 7.53
+      },
+      {
+        "name": "C#",
+        "total_seconds": 40.064087,
+        "digital": "0:00:40",
+        "decimal": "0.00",
+        "text": "40 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 40,
+        "percent": 7.27
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 551.102535,
+        "machine_name_id": "018c5e82-9943-41db-8537-2e5c6eed8dc8",
+        "digital": "0:09:11",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "Visual Studio",
+        "total_seconds": 551.102535,
+        "digital": "0:09:11",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 551.102535,
+        "digital": "0:09:11",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 509.629867,
+        "digital": "0:08:29",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 29,
+        "percent": 92.47
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 35.754854,
+        "digital": "0:00:35",
+        "decimal": "0.00",
+        "text": "35 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 35,
+        "percent": 6.49
+      },
+      {
+        "name": "Building",
+        "total_seconds": 5.717814,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 1.04
+      }
+    ]
+  }
+]
