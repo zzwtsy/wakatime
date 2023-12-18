@@ -1,0 +1,276 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 676.069,
+        "digital": "0:11:16",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 16,
+        "percent": 99.89
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 0.773,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.11
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 11,
+      "total_seconds": 676.842,
+      "digital": "0:11",
+      "decimal": "0.18",
+      "text": "11 mins"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 676.842,
+        "digital": "0:11:16",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 676.842,
+        "digital": "0:11:16",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 676.842,
+        "digital": "0:11:16",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "org.jetbrains",
+        "total_seconds": 664.77,
+        "digital": "0:11:04",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 4,
+        "percent": 34.01
+      },
+      {
+        "name": "top.colter",
+        "total_seconds": 612.413,
+        "digital": "0:10:12",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 12,
+        "percent": 31.33
+      },
+      {
+        "name": "util.Util",
+        "total_seconds": 612.39,
+        "digital": "0:10:12",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 12,
+        "percent": 31.33
+      },
+      {
+        "name": "androidx.compose",
+        "total_seconds": 10.753,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.55
+      },
+      {
+        "name": "moe.tlaster",
+        "total_seconds": 10.753,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.55
+      },
+      {
+        "name": "screen.Table",
+        "total_seconds": 10.753,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.55
+      },
+      {
+        "name": "screen.Home",
+        "total_seconds": 10.753,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.55
+      },
+      {
+        "name": "enums.NavigationScreenType",
+        "total_seconds": 10.753,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.55
+      },
+      {
+        "name": "screen.Setting",
+        "total_seconds": 10.753,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.55
+      },
+      {
+        "name": "com.alibaba",
+        "total_seconds": 0.368,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.02
+      },
+      {
+        "name": "kotlinx.serialization",
+        "total_seconds": 0.105,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.01
+      },
+      {
+        "name": "org.apache",
+        "total_seconds": 0.087,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "okhttp3.Request",
+        "total_seconds": 0.073,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "okhttp3.OkHttpClient",
+        "total_seconds": 0.073,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "okhttp3.Response",
+        "total_seconds": 0.073,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 676.842,
+        "machine_name_id": "018c0526-db59-480f-be96-c7e060a9f5b4",
+        "digital": "0:11:16",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "work-tool-compose",
+        "total_seconds": 676.842,
+        "digital": "0:11:16",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-12-17T16:00:00Z",
+      "end": "2023-12-18T15:59:59Z",
+      "date": "2023-12-18",
+      "text": "Mon Dec 18th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
