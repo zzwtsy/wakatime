@@ -1,0 +1,474 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 5863.351702,
+        "digital": "1:37:43",
+        "decimal": "1.62",
+        "text": "1 hr 37 mins",
+        "hours": 1,
+        "minutes": 37,
+        "seconds": 43,
+        "percent": 96.21
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 230.878298,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 3.79
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 41,
+      "total_seconds": 6094.23,
+      "digital": "1:41",
+      "decimal": "1.68",
+      "text": "1 hr 41 mins"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 5863.507702,
+        "digital": "1:37:43",
+        "decimal": "1.62",
+        "text": "1 hr 37 mins",
+        "hours": 1,
+        "minutes": 37,
+        "seconds": 43,
+        "percent": 96.21
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 230.722298,
+        "digital": "0:03:50",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 3.79
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 6094.23,
+        "digital": "1:41:34",
+        "decimal": "1.68",
+        "text": "1 hr 41 mins",
+        "hours": 1,
+        "minutes": 41,
+        "seconds": 34,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 6094.23,
+        "digital": "1:41:34",
+        "decimal": "1.68",
+        "text": "1 hr 41 mins",
+        "hours": 1,
+        "minutes": 41,
+        "seconds": 34,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "util.Util",
+        "total_seconds": 3829.508072,
+        "digital": "1:03:49",
+        "decimal": "1.05",
+        "text": "1 hr 3 mins",
+        "hours": 1,
+        "minutes": 3,
+        "seconds": 49,
+        "percent": 15.69
+      },
+      {
+        "name": "org.jetbrains",
+        "total_seconds": 3254.539072,
+        "digital": "0:54:14",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 14,
+        "percent": 13.34
+      },
+      {
+        "name": "top.colter",
+        "total_seconds": 3254.476072,
+        "digital": "0:54:14",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 14,
+        "percent": 13.34
+      },
+      {
+        "name": "util.ExcelUtil",
+        "total_seconds": 2741.491072,
+        "digital": "0:45:41",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 41,
+        "percent": 11.23
+      },
+      {
+        "name": "entity.DeWuSaleGoodsExcelEntity",
+        "total_seconds": 2741.491072,
+        "digital": "0:45:41",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 41,
+        "percent": 11.23
+      },
+      {
+        "name": "vo.DeWuSaleGoodsExcelVo",
+        "total_seconds": 2700.830072,
+        "digital": "0:45:00",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 0,
+        "percent": 11.07
+      },
+      {
+        "name": "androidx.compose",
+        "total_seconds": 821.389,
+        "digital": "0:13:41",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 41,
+        "percent": 3.37
+      },
+      {
+        "name": "components.MyDataTable",
+        "total_seconds": 797.067,
+        "digital": "0:13:17",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 17,
+        "percent": 3.27
+      },
+      {
+        "name": "com.darkrockstudios",
+        "total_seconds": 797.067,
+        "digital": "0:13:17",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 17,
+        "percent": 3.27
+      },
+      {
+        "name": "components.Loading",
+        "total_seconds": 797.067,
+        "digital": "0:13:17",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 17,
+        "percent": 3.27
+      },
+      {
+        "name": "kotlinx.coroutines",
+        "total_seconds": 797.067,
+        "digital": "0:13:17",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 17,
+        "percent": 3.27
+      },
+      {
+        "name": "handle.DeWuGoodsDataHandle",
+        "total_seconds": 759.453,
+        "digital": "0:12:39",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 39,
+        "percent": 3.11
+      },
+      {
+        "name": "util.JsonUtil",
+        "total_seconds": 356.212,
+        "digital": "0:05:56",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 56,
+        "percent": 1.46
+      },
+      {
+        "name": "com.alibaba",
+        "total_seconds": 331.17063,
+        "digital": "0:05:31",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 31,
+        "percent": 1.36
+      },
+      {
+        "name": "kotlinx.serialization",
+        "total_seconds": 323.569,
+        "digital": "0:05:23",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 23,
+        "percent": 1.33
+      },
+      {
+        "name": "excel.DeWuGoodsExcelHandle",
+        "total_seconds": 37.614,
+        "digital": "0:00:37",
+        "decimal": "0.00",
+        "text": "37 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 37,
+        "percent": 0.15
+      },
+      {
+        "name": "org.apache",
+        "total_seconds": 12.713,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.05
+      },
+      {
+        "name": "io.github",
+        "total_seconds": 9.15,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.04
+      },
+      {
+        "name": "cn.zzwtsy",
+        "total_seconds": 7.76,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.03
+      },
+      {
+        "name": "org.springframework",
+        "total_seconds": 7.713,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.03
+      },
+      {
+        "name": "org.ktorm",
+        "total_seconds": 7.545,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.03
+      },
+      {
+        "name": "okhttp3.Request",
+        "total_seconds": 5.378,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.02
+      },
+      {
+        "name": "okhttp3.Response",
+        "total_seconds": 5.378,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.02
+      },
+      {
+        "name": "okhttp3.OkHttpClient",
+        "total_seconds": 5.378,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.02
+      },
+      {
+        "name": "org.jsoup",
+        "total_seconds": 0.156,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "moe.tlaster",
+        "total_seconds": 0.079,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "screen.Setting",
+        "total_seconds": 0.079,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "enums.NavigationScreenType",
+        "total_seconds": 0.079,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "screen.Home",
+        "total_seconds": 0.079,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "screen.Table",
+        "total_seconds": 0.079,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "com.fasterxml",
+        "total_seconds": 0.022,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 6094.23,
+        "machine_name_id": "018c0526-db59-480f-be96-c7e060a9f5b4",
+        "digital": "1:41:34",
+        "decimal": "1.68",
+        "text": "1 hr 41 mins",
+        "hours": 1,
+        "minutes": 41,
+        "seconds": 34,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "work-tool-compose",
+        "total_seconds": 6077.411,
+        "digital": "1:41:17",
+        "decimal": "1.68",
+        "text": "1 hr 41 mins",
+        "hours": 1,
+        "minutes": 41,
+        "seconds": 17,
+        "percent": 99.72
+      },
+      {
+        "name": "FC2Service",
+        "total_seconds": 16.819,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.28
+      }
+    ],
+    "range": {
+      "start": "2023-12-18T16:00:00Z",
+      "end": "2023-12-19T15:59:59Z",
+      "date": "2023-12-19",
+      "text": "Tue Dec 19th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
