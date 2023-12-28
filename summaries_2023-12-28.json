@@ -1,0 +1,265 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JSON",
+        "total_seconds": 172.154,
+        "digital": "0:02:52",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 52,
+        "percent": 87.31
+      },
+      {
+        "name": "Kotlin",
+        "total_seconds": 25.023,
+        "digital": "0:00:25",
+        "decimal": "0.00",
+        "text": "25 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 25,
+        "percent": 12.69
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 3,
+      "total_seconds": 197.177,
+      "digital": "0:03",
+      "decimal": "0.05",
+      "text": "3 mins"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ",
+        "total_seconds": 197.177,
+        "digital": "0:03:17",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 17,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 197.177,
+        "digital": "0:03:17",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 17,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 197.177,
+        "digital": "0:03:17",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 17,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "kotlinx.serialization",
+        "total_seconds": 24.428,
+        "digital": "0:00:24",
+        "decimal": "0.00",
+        "text": "24 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 24,
+        "percent": 95.12
+      },
+      {
+        "name": "androidx.compose",
+        "total_seconds": 0.248,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.97
+      },
+      {
+        "name": "com.alibaba",
+        "total_seconds": 0.172,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.67
+      },
+      {
+        "name": "io.ktor",
+        "total_seconds": 0.089,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.35
+      },
+      {
+        "name": "util.HttpUtil",
+        "total_seconds": 0.089,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.35
+      },
+      {
+        "name": "entity.Hitokoto",
+        "total_seconds": 0.089,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.35
+      },
+      {
+        "name": "entity.BingWallpaperEntity",
+        "total_seconds": 0.089,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.35
+      },
+      {
+        "name": "components.Loading",
+        "total_seconds": 0.068,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.26
+      },
+      {
+        "name": "handle.DeWuGoodsDataHandle",
+        "total_seconds": 0.068,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.26
+      },
+      {
+        "name": "kotlinx.coroutines",
+        "total_seconds": 0.068,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.26
+      },
+      {
+        "name": "util.Util",
+        "total_seconds": 0.068,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.26
+      },
+      {
+        "name": "vo.DeWuSaleGoodsExcelVo",
+        "total_seconds": 0.068,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.26
+      },
+      {
+        "name": "com.darkrockstudios",
+        "total_seconds": 0.068,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.26
+      },
+      {
+        "name": "components.MyDataTable",
+        "total_seconds": 0.068,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.26
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 197.177,
+        "machine_name_id": "018c0526-db59-480f-be96-c7e060a9f5b4",
+        "digital": "0:03:17",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 17,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "work-tool-compose",
+        "total_seconds": 197.177,
+        "digital": "0:03:17",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 17,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2023-12-27T16:00:00Z",
+      "end": "2023-12-28T15:59:59Z",
+      "date": "2023-12-28",
+      "text": "Thu Dec 28th 2023",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
