@@ -1,0 +1,298 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 11221.978,
+        "digital": "3:07:01",
+        "decimal": "3.12",
+        "text": "3 hrs 7 mins",
+        "hours": 3,
+        "minutes": 7,
+        "seconds": 1,
+        "percent": 100
+      }
+    ],
+    "grand_total": {
+      "hours": 3,
+      "minutes": 7,
+      "total_seconds": 11221.978,
+      "digital": "3:07",
+      "decimal": "3.12",
+      "text": "3 hrs 7 mins"
+    },
+    "editors": [
+      {
+        "name": "Intellijidea",
+        "total_seconds": 11221.978,
+        "digital": "3:07:01",
+        "decimal": "3.12",
+        "text": "3 hrs 7 mins",
+        "hours": 3,
+        "minutes": 7,
+        "seconds": 1,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 11221.978,
+        "digital": "3:07:01",
+        "decimal": "3.12",
+        "text": "3 hrs 7 mins",
+        "hours": 3,
+        "minutes": 7,
+        "seconds": 1,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 11221.978,
+        "digital": "3:07:01",
+        "decimal": "3.12",
+        "text": "3 hrs 7 mins",
+        "hours": 3,
+        "minutes": 7,
+        "seconds": 1,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "org.springframework",
+        "total_seconds": 9821.885,
+        "digital": "2:43:41",
+        "decimal": "2.72",
+        "text": "2 hrs 43 mins",
+        "hours": 2,
+        "minutes": 43,
+        "seconds": 41,
+        "percent": 24.71
+      },
+      {
+        "name": "cn.zzwtsy",
+        "total_seconds": 9692.355,
+        "digital": "2:41:32",
+        "decimal": "2.68",
+        "text": "2 hrs 41 mins",
+        "hours": 2,
+        "minutes": 41,
+        "seconds": 32,
+        "percent": 24.38
+      },
+      {
+        "name": "io.github",
+        "total_seconds": 6063.275,
+        "digital": "1:41:03",
+        "decimal": "1.68",
+        "text": "1 hr 41 mins",
+        "hours": 1,
+        "minutes": 41,
+        "seconds": 3,
+        "percent": 15.25
+      },
+      {
+        "name": "org.jsoup",
+        "total_seconds": 4895.357,
+        "digital": "1:21:35",
+        "decimal": "1.35",
+        "text": "1 hr 21 mins",
+        "hours": 1,
+        "minutes": 21,
+        "seconds": 35,
+        "percent": 12.32
+      },
+      {
+        "name": "org.junit",
+        "total_seconds": 4773.639,
+        "digital": "1:19:33",
+        "decimal": "1.32",
+        "text": "1 hr 19 mins",
+        "hours": 1,
+        "minutes": 19,
+        "seconds": 33,
+        "percent": 12.01
+      },
+      {
+        "name": "net.coobird",
+        "total_seconds": 1172.499,
+        "digital": "0:19:32",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 32,
+        "percent": 2.95
+      },
+      {
+        "name": "okhttp3",
+        "total_seconds": 1172.499,
+        "digital": "0:19:32",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 32,
+        "percent": 2.95
+      },
+      {
+        "name": "okhttp3.brotli",
+        "total_seconds": 1172.499,
+        "digital": "0:19:32",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 32,
+        "percent": 2.95
+      },
+      {
+        "name": "kotlinx.coroutines",
+        "total_seconds": 681.297,
+        "digital": "0:11:21",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 21,
+        "percent": 1.71
+      },
+      {
+        "name": "org.babyfish",
+        "total_seconds": 130.903,
+        "digital": "0:02:10",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 10,
+        "percent": 0.33
+      },
+      {
+        "name": "org.jetbrains",
+        "total_seconds": 100.269,
+        "digital": "0:01:40",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 40,
+        "percent": 0.25
+      },
+      {
+        "name": "com.alibaba",
+        "total_seconds": 72.181,
+        "digital": "0:01:12",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 12,
+        "percent": 0.18
+      },
+      {
+        "name": "com.fasterxml",
+        "total_seconds": 0.891,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "bean.Product",
+        "total_seconds": 0.166,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "util.ExcelUtil",
+        "total_seconds": 0.166,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "bean.JSTGoodsInfo",
+        "total_seconds": 0.166,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "com.google",
+        "total_seconds": 0.127,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 11221.978,
+        "machine_name_id": "018c0526-db59-480f-be96-c7e060a9f5b4",
+        "digital": "3:07:01",
+        "decimal": "3.12",
+        "text": "3 hrs 7 mins",
+        "hours": 3,
+        "minutes": 7,
+        "seconds": 1,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "FC2Service",
+        "total_seconds": 11140.316,
+        "digital": "3:05:40",
+        "decimal": "3.08",
+        "text": "3 hrs 5 mins",
+        "hours": 3,
+        "minutes": 5,
+        "seconds": 40,
+        "percent": 99.27
+      },
+      {
+        "name": "untitled",
+        "total_seconds": 81.662,
+        "digital": "0:01:21",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 21,
+        "percent": 0.73
+      }
+    ],
+    "range": {
+      "start": "2024-01-02T16:00:00Z",
+      "end": "2024-01-03T15:59:59Z",
+      "date": "2024-01-03",
+      "text": "Wed Jan 3rd 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
