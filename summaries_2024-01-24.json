@@ -1,0 +1,386 @@
+[
+  {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 20735.819719,
+        "digital": "5:45:35",
+        "decimal": "5.75",
+        "text": "5 hrs 45 mins",
+        "hours": 5,
+        "minutes": 45,
+        "seconds": 35,
+        "percent": 99.99
+      },
+      {
+        "name": "TSConfig",
+        "total_seconds": 2.719521,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.01
+      }
+    ],
+    "grand_total": {
+      "hours": 5,
+      "minutes": 45,
+      "total_seconds": 20738.53924,
+      "digital": "5:45",
+      "decimal": "5.75",
+      "text": "5 hrs 45 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 20738.53924,
+        "digital": "5:45:38",
+        "decimal": "5.75",
+        "text": "5 hrs 45 mins",
+        "hours": 5,
+        "minutes": 45,
+        "seconds": 38,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 20738.53924,
+        "digital": "5:45:38",
+        "decimal": "5.75",
+        "text": "5 hrs 45 mins",
+        "hours": 5,
+        "minutes": 45,
+        "seconds": 38,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 20738.53924,
+        "digital": "5:45:38",
+        "decimal": "5.75",
+        "text": "5 hrs 45 mins",
+        "hours": 5,
+        "minutes": 45,
+        "seconds": 38,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "react-router-dom",
+        "total_seconds": 13155.837444,
+        "digital": "3:39:15",
+        "decimal": "3.65",
+        "text": "3 hrs 39 mins",
+        "hours": 3,
+        "minutes": 39,
+        "seconds": 15,
+        "percent": 27.34
+      },
+      {
+        "name": "semi-ui",
+        "total_seconds": 8017.324315,
+        "digital": "2:13:37",
+        "decimal": "2.22",
+        "text": "2 hrs 13 mins",
+        "hours": 2,
+        "minutes": 13,
+        "seconds": 37,
+        "percent": 16.66
+      },
+      {
+        "name": "react",
+        "total_seconds": 6537.429616,
+        "digital": "1:48:57",
+        "decimal": "1.80",
+        "text": "1 hr 48 mins",
+        "hours": 1,
+        "minutes": 48,
+        "seconds": 57,
+        "percent": 13.58
+      },
+      {
+        "name": "useTheme",
+        "total_seconds": 4447.051168,
+        "digital": "1:14:07",
+        "decimal": "1.23",
+        "text": "1 hr 14 mins",
+        "hours": 1,
+        "minutes": 14,
+        "seconds": 7,
+        "percent": 9.24
+      },
+      {
+        "name": "semi-icons",
+        "total_seconds": 3883.599797,
+        "digital": "1:04:43",
+        "decimal": "1.07",
+        "text": "1 hr 4 mins",
+        "hours": 1,
+        "minutes": 4,
+        "seconds": 43,
+        "percent": 8.07
+      },
+      {
+        "name": "App",
+        "total_seconds": 1383.146664,
+        "digital": "0:23:03",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 3,
+        "percent": 2.87
+      },
+      {
+        "name": "scene-react",
+        "total_seconds": 1248.564044,
+        "digital": "0:20:48",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 48,
+        "percent": 2.59
+      },
+      {
+        "name": "api",
+        "total_seconds": 1248.564044,
+        "digital": "0:20:48",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 48,
+        "percent": 2.59
+      },
+      {
+        "name": "ThemeProvider",
+        "total_seconds": 1246.392414,
+        "digital": "0:20:46",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 46,
+        "percent": 2.59
+      },
+      {
+        "name": "normalize",
+        "total_seconds": 1204.896159,
+        "digital": "0:20:04",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 4,
+        "percent": 2.5
+      },
+      {
+        "name": "globals",
+        "total_seconds": 1204.896159,
+        "digital": "0:20:04",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 4,
+        "percent": 2.5
+      },
+      {
+        "name": "client",
+        "total_seconds": 1204.896159,
+        "digital": "0:20:04",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 4,
+        "percent": 2.5
+      },
+      {
+        "name": "VideoListPage",
+        "total_seconds": 1076.301855,
+        "digital": "0:17:56",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 56,
+        "percent": 2.24
+      },
+      {
+        "name": "ThemeToggle",
+        "total_seconds": 919.592788,
+        "digital": "0:15:19",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 19,
+        "percent": 1.91
+      },
+      {
+        "name": "lucide-react",
+        "total_seconds": 563.451371,
+        "digital": "0:09:23",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 23,
+        "percent": 1.17
+      },
+      {
+        "name": "VideoInfoPage",
+        "total_seconds": 420.413024,
+        "digital": "0:07:00",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 0,
+        "percent": 0.87
+      },
+      {
+        "name": "router",
+        "total_seconds": 164.155446,
+        "digital": "0:02:44",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 44,
+        "percent": 0.34
+      },
+      {
+        "name": "path",
+        "total_seconds": 143.751052,
+        "digital": "0:02:23",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 23,
+        "percent": 0.3
+      },
+      {
+        "name": "PaginationData",
+        "total_seconds": 11.994416,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.02
+      },
+      {
+        "name": "alova",
+        "total_seconds": 11.994416,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.02
+      },
+      {
+        "name": "GlobalFetch",
+        "total_seconds": 11.994416,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.02
+      },
+      {
+        "name": "clsx",
+        "total_seconds": 8.897907,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.02
+      },
+      {
+        "name": "tailwind-merge",
+        "total_seconds": 8.897907,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.02
+      },
+      {
+        "name": "plugin-react",
+        "total_seconds": 1.410245,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0
+      },
+      {
+        "name": "vite",
+        "total_seconds": 1.410245,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 20738.53924,
+        "machine_name_id": "018d3610-5ad7-464a-9cfe-eb3b10b6aee1",
+        "digital": "5:45:38",
+        "decimal": "5.75",
+        "text": "5 hrs 45 mins",
+        "hours": 5,
+        "minutes": 45,
+        "seconds": 38,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "fc2-service",
+        "total_seconds": 20738.53924,
+        "digital": "5:45:38",
+        "decimal": "5.75",
+        "text": "5 hrs 45 mins",
+        "hours": 5,
+        "minutes": 45,
+        "seconds": 38,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-01-23T16:00:00Z",
+      "end": "2024-01-24T15:59:59Z",
+      "date": "2024-01-24",
+      "text": "Wed Jan 24th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
