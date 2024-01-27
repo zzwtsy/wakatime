@@ -1,0 +1,254 @@
+[
+  {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 2044.928378,
+        "digital": "0:34:04",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 4,
+        "percent": 100
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 34,
+      "total_seconds": 2044.928378,
+      "digital": "0:34",
+      "decimal": "0.57",
+      "text": "34 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2044.928378,
+        "digital": "0:34:04",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 4,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2044.928378,
+        "digital": "0:34:04",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 4,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2044.928378,
+        "digital": "0:34:04",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 4,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "react-router-dom",
+        "total_seconds": 2020.410523,
+        "digital": "0:33:40",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 40,
+        "percent": 25.37
+      },
+      {
+        "name": "App",
+        "total_seconds": 1779.036193,
+        "digital": "0:29:39",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 39,
+        "percent": 22.34
+      },
+      {
+        "name": "VideoListPage",
+        "total_seconds": 1779.036193,
+        "digital": "0:29:39",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 39,
+        "percent": 22.34
+      },
+      {
+        "name": "VideoInfoPage",
+        "total_seconds": 1779.036193,
+        "digital": "0:29:39",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 39,
+        "percent": 22.34
+      },
+      {
+        "name": "semi-ui",
+        "total_seconds": 262.854941,
+        "digital": "0:04:22",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 22,
+        "percent": 3.3
+      },
+      {
+        "name": "ThemeToggle",
+        "total_seconds": 239.135401,
+        "digital": "0:03:59",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 59,
+        "percent": 3
+      },
+      {
+        "name": "react",
+        "total_seconds": 45.527607,
+        "digital": "0:00:45",
+        "decimal": "0.00",
+        "text": "45 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 45,
+        "percent": 0.57
+      },
+      {
+        "name": "useTheme",
+        "total_seconds": 23.71954,
+        "digital": "0:00:23",
+        "decimal": "0.00",
+        "text": "23 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 23,
+        "percent": 0.3
+      },
+      {
+        "name": "semi-icons",
+        "total_seconds": 23.71954,
+        "digital": "0:00:23",
+        "decimal": "0.00",
+        "text": "23 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 23,
+        "percent": 0.3
+      },
+      {
+        "name": "ThemeProvider",
+        "total_seconds": 2.238929,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.03
+      },
+      {
+        "name": "globals",
+        "total_seconds": 2.238929,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.03
+      },
+      {
+        "name": "normalize",
+        "total_seconds": 2.238929,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.03
+      },
+      {
+        "name": "client",
+        "total_seconds": 2.238929,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.03
+      },
+      {
+        "name": "router",
+        "total_seconds": 2.238929,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.03
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 2044.928378,
+        "machine_name_id": "018c0526-db59-480f-be96-c7e060a9f5b4",
+        "digital": "0:34:04",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 4,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "fc2-service",
+        "total_seconds": 2044.928378,
+        "digital": "0:34:04",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 4,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-01-26T16:00:00Z",
+      "end": "2024-01-27T15:59:59Z",
+      "date": "2024-01-27",
+      "text": "Sat Jan 27th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
