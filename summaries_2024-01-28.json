@@ -1,0 +1,353 @@
+[
+  {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 869.439307,
+        "digital": "0:14:29",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 29,
+        "percent": 88.88
+      },
+      {
+        "name": "Python",
+        "total_seconds": 108.739326,
+        "digital": "0:01:48",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 48,
+        "percent": 11.12
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 16,
+      "total_seconds": 978.178633,
+      "digital": "0:16",
+      "decimal": "0.27",
+      "text": "16 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 978.178633,
+        "digital": "0:16:18",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 978.178633,
+        "digital": "0:16:18",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 978.178633,
+        "digital": "0:16:18",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "semi-ui",
+        "total_seconds": 869.439307,
+        "digital": "0:14:29",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 29,
+        "percent": 24.7
+      },
+      {
+        "name": "react-router-dom",
+        "total_seconds": 869.439307,
+        "digital": "0:14:29",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 29,
+        "percent": 24.7
+      },
+      {
+        "name": "ThemeToggle",
+        "total_seconds": 823.791015,
+        "digital": "0:13:43",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 43,
+        "percent": 23.4
+      },
+      {
+        "name": "module",
+        "total_seconds": 108.739326,
+        "digital": "0:01:48",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 48,
+        "percent": 3.09
+      },
+      {
+        "name": "cv2",
+        "total_seconds": 78.827797,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 2.24
+      },
+      {
+        "name": "numpy",
+        "total_seconds": 78.827797,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 2.24
+      },
+      {
+        "name": "time",
+        "total_seconds": 78.827797,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 2.24
+      },
+      {
+        "name": "PIL",
+        "total_seconds": 78.827797,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 2.24
+      },
+      {
+        "name": "collections",
+        "total_seconds": 78.827797,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 2.24
+      },
+      {
+        "name": "datetime",
+        "total_seconds": 78.827797,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 2.24
+      },
+      {
+        "name": "alova",
+        "total_seconds": 45.648292,
+        "digital": "0:00:45",
+        "decimal": "0.00",
+        "text": "45 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 45,
+        "percent": 1.3
+      },
+      {
+        "name": "api",
+        "total_seconds": 45.648292,
+        "digital": "0:00:45",
+        "decimal": "0.00",
+        "text": "45 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 45,
+        "percent": 1.3
+      },
+      {
+        "name": "VideoInfoDTO",
+        "total_seconds": 45.648292,
+        "digital": "0:00:45",
+        "decimal": "0.00",
+        "text": "45 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 45,
+        "percent": 1.3
+      },
+      {
+        "name": "adbutils",
+        "total_seconds": 29.911529,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 0.85
+      },
+      {
+        "name": "typing",
+        "total_seconds": 29.911529,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 0.85
+      },
+      {
+        "name": "uiautomator2",
+        "total_seconds": 29.911529,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 0.85
+      },
+      {
+        "name": "functools",
+        "total_seconds": 29.911529,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 0.85
+      },
+      {
+        "name": "subprocess",
+        "total_seconds": 29.911529,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 0.85
+      },
+      {
+        "name": "lxml",
+        "total_seconds": 29.911529,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 0.85
+      },
+      {
+        "name": "json",
+        "total_seconds": 29.911529,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 0.85
+      },
+      {
+        "name": "dataclasses",
+        "total_seconds": 29.911529,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 0.85
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 978.178633,
+        "machine_name_id": "018d4e63-37b9-4f6b-8b42-c5b089f3f493",
+        "digital": "0:16:18",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "fc2-service",
+        "total_seconds": 869.439307,
+        "digital": "0:14:29",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 29,
+        "percent": 88.88
+      },
+      {
+        "name": "StarRailCopilot",
+        "total_seconds": 108.739326,
+        "digital": "0:01:48",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 48,
+        "percent": 11.12
+      }
+    ],
+    "range": {
+      "start": "2024-01-27T16:00:00Z",
+      "end": "2024-01-28T15:59:59Z",
+      "date": "2024-01-28",
+      "text": "Sun Jan 28th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
