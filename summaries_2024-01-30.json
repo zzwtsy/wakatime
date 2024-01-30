@@ -1,0 +1,177 @@
+[
+  {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 1254.241108,
+        "digital": "0:20:54",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 54,
+        "percent": 100
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 20,
+      "total_seconds": 1254.241108,
+      "digital": "0:20",
+      "decimal": "0.33",
+      "text": "20 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1254.241108,
+        "digital": "0:20:54",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 54,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1254.241108,
+        "digital": "0:20:54",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 54,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1254.241108,
+        "digital": "0:20:54",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 54,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "VideoInfoDTO",
+        "total_seconds": 1254.241108,
+        "digital": "0:20:54",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 54,
+        "percent": 20
+      },
+      {
+        "name": "alova",
+        "total_seconds": 1254.241108,
+        "digital": "0:20:54",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 54,
+        "percent": 20
+      },
+      {
+        "name": "GlobalFetch",
+        "total_seconds": 1254.241108,
+        "digital": "0:20:54",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 54,
+        "percent": 20
+      },
+      {
+        "name": "react",
+        "total_seconds": 1254.241108,
+        "digital": "0:20:54",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 54,
+        "percent": 20
+      },
+      {
+        "name": "VideoBaseInfoListDTO",
+        "total_seconds": 1254.241108,
+        "digital": "0:20:54",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 54,
+        "percent": 20
+      },
+      {
+        "name": "Loading",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "semi-ui",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 1254.241108,
+        "machine_name_id": "018d5383-3a94-4555-a479-ad9a43ba3601",
+        "digital": "0:20:54",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 54,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "fc2-service",
+        "total_seconds": 1254.241108,
+        "digital": "0:20:54",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 54,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-01-29T16:00:00Z",
+      "end": "2024-01-30T15:59:59Z",
+      "date": "2024-01-30",
+      "text": "Tue Jan 30th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
