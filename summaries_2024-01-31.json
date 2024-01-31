@@ -1,0 +1,276 @@
+[
+  {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 1405.010788,
+        "digital": "0:23:25",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 23,
+      "total_seconds": 1405.010788,
+      "digital": "0:23",
+      "decimal": "0.38",
+      "text": "23 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1405.010788,
+        "digital": "0:23:25",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1405.010788,
+        "digital": "0:23:25",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1405.010788,
+        "digital": "0:23:25",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "semi-ui",
+        "total_seconds": 1079.302583,
+        "digital": "0:17:59",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 59,
+        "percent": 21.66
+      },
+      {
+        "name": "react-router-dom",
+        "total_seconds": 1071.602352,
+        "digital": "0:17:51",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 51,
+        "percent": 21.5
+      },
+      {
+        "name": "ThemeToggle",
+        "total_seconds": 1026.18919,
+        "digital": "0:17:06",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 6,
+        "percent": 20.59
+      },
+      {
+        "name": "VideoBaseInfoListDTO",
+        "total_seconds": 334.884779,
+        "digital": "0:05:34",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 34,
+        "percent": 6.72
+      },
+      {
+        "name": "VideoInfoDTO",
+        "total_seconds": 323.938044,
+        "digital": "0:05:23",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 23,
+        "percent": 6.5
+      },
+      {
+        "name": "react",
+        "total_seconds": 323.938044,
+        "digital": "0:05:23",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 23,
+        "percent": 6.5
+      },
+      {
+        "name": "alova",
+        "total_seconds": 323.938044,
+        "digital": "0:05:23",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 23,
+        "percent": 6.5
+      },
+      {
+        "name": "GlobalFetch",
+        "total_seconds": 323.938044,
+        "digital": "0:05:23",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 23,
+        "percent": 6.5
+      },
+      {
+        "name": "api",
+        "total_seconds": 42.166658,
+        "digital": "0:00:42",
+        "decimal": "0.00",
+        "text": "42 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 42,
+        "percent": 0.85
+      },
+      {
+        "name": "VideoList",
+        "total_seconds": 42.166658,
+        "digital": "0:00:42",
+        "decimal": "0.00",
+        "text": "42 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 42,
+        "percent": 0.85
+      },
+      {
+        "name": "Loading",
+        "total_seconds": 42.166658,
+        "digital": "0:00:42",
+        "decimal": "0.00",
+        "text": "42 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 42,
+        "percent": 0.85
+      },
+      {
+        "name": "scene-react",
+        "total_seconds": 42.166658,
+        "digital": "0:00:42",
+        "decimal": "0.00",
+        "text": "42 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 42,
+        "percent": 0.85
+      },
+      {
+        "name": "HomePage",
+        "total_seconds": 1.770161,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.04
+      },
+      {
+        "name": "VideoInfo",
+        "total_seconds": 1.770161,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.04
+      },
+      {
+        "name": "App",
+        "total_seconds": 1.770161,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.04
+      },
+      {
+        "name": "TagVideoPage",
+        "total_seconds": 1.770161,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.04
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 1405.010788,
+        "machine_name_id": "018d58ae-6eab-49c6-8681-53e29edf62a5",
+        "digital": "0:23:25",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "fc2-service",
+        "total_seconds": 1405.010788,
+        "digital": "0:23:25",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 25,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-01-30T16:00:00Z",
+      "end": "2024-01-31T15:59:59Z",
+      "date": "2024-01-31",
+      "text": "Wed Jan 31st 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
