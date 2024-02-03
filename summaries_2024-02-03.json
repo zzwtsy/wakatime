@@ -1,0 +1,386 @@
+[
+  {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 3115.004331,
+        "digital": "0:51:55",
+        "decimal": "0.85",
+        "text": "51 mins",
+        "hours": 0,
+        "minutes": 51,
+        "seconds": 55,
+        "percent": 100
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 51,
+      "total_seconds": 3115.004331,
+      "digital": "0:51",
+      "decimal": "0.85",
+      "text": "51 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3115.004331,
+        "digital": "0:51:55",
+        "decimal": "0.85",
+        "text": "51 mins",
+        "hours": 0,
+        "minutes": 51,
+        "seconds": 55,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 3115.004331,
+        "digital": "0:51:55",
+        "decimal": "0.85",
+        "text": "51 mins",
+        "hours": 0,
+        "minutes": 51,
+        "seconds": 55,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3115.004331,
+        "digital": "0:51:55",
+        "decimal": "0.85",
+        "text": "51 mins",
+        "hours": 0,
+        "minutes": 51,
+        "seconds": 55,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "semi-ui",
+        "total_seconds": 3088.427856,
+        "digital": "0:51:28",
+        "decimal": "0.85",
+        "text": "51 mins",
+        "hours": 0,
+        "minutes": 51,
+        "seconds": 28,
+        "percent": 32.61
+      },
+      {
+        "name": "react-router-dom",
+        "total_seconds": 3088.427856,
+        "digital": "0:51:28",
+        "decimal": "0.85",
+        "text": "51 mins",
+        "hours": 0,
+        "minutes": 51,
+        "seconds": 28,
+        "percent": 32.61
+      },
+      {
+        "name": "VideoBaseInfoListDTO",
+        "total_seconds": 3088.427856,
+        "digital": "0:51:28",
+        "decimal": "0.85",
+        "text": "51 mins",
+        "hours": 0,
+        "minutes": 51,
+        "seconds": 28,
+        "percent": 32.61
+      },
+      {
+        "name": "roku-ui",
+        "total_seconds": 18.796636,
+        "digital": "0:00:18",
+        "decimal": "0.00",
+        "text": "18 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 18,
+        "percent": 0.2
+      },
+      {
+        "name": "utils",
+        "total_seconds": 17.23315,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 0.18
+      },
+      {
+        "name": "charts",
+        "total_seconds": 16.080088,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.17
+      },
+      {
+        "name": "components",
+        "total_seconds": 16.080088,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.17
+      },
+      {
+        "name": "react",
+        "total_seconds": 14.853942,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 0.16
+      },
+      {
+        "name": "big",
+        "total_seconds": 10.159047,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.11
+      },
+      {
+        "name": "Chart",
+        "total_seconds": 10.159047,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.11
+      },
+      {
+        "name": "server",
+        "total_seconds": 10.159047,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.11
+      },
+      {
+        "name": "types",
+        "total_seconds": 10.159047,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.11
+      },
+      {
+        "name": "shared",
+        "total_seconds": 10.159047,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.11
+      },
+      {
+        "name": "useTheme",
+        "total_seconds": 7.484527,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.08
+      },
+      {
+        "name": "Dashboard",
+        "total_seconds": 7.074103,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.07
+      },
+      {
+        "name": "ThemeToggle",
+        "total_seconds": 7.074103,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.07
+      },
+      {
+        "name": "localStorageKeyEnum",
+        "total_seconds": 7.074103,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.07
+      },
+      {
+        "name": "localStorage",
+        "total_seconds": 7.074103,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.07
+      },
+      {
+        "name": "GithubIcon",
+        "total_seconds": 7.074103,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.07
+      },
+      {
+        "name": "light",
+        "total_seconds": 5.921041,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.06
+      },
+      {
+        "name": "core",
+        "total_seconds": 5.921041,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.06
+      },
+      {
+        "name": "renderers",
+        "total_seconds": 5.921041,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.06
+      },
+      {
+        "name": "features",
+        "total_seconds": 5.921041,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.06
+      },
+      {
+        "name": "dark",
+        "total_seconds": 5.921041,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.06
+      },
+      {
+        "name": "ThemeProvider",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 3115.004331,
+        "machine_name_id": "018d6a27-a0c8-42e6-a65e-abb70f4c8938",
+        "digital": "0:51:55",
+        "decimal": "0.85",
+        "text": "51 mins",
+        "hours": 0,
+        "minutes": 51,
+        "seconds": 55,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "fc2-service",
+        "total_seconds": 3088.427856,
+        "digital": "0:51:28",
+        "decimal": "0.85",
+        "text": "51 mins",
+        "hours": 0,
+        "minutes": 51,
+        "seconds": 28,
+        "percent": 99.15
+      },
+      {
+        "name": "wakatime-dashboard",
+        "total_seconds": 26.576475,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 0.85
+      }
+    ],
+    "range": {
+      "start": "2024-02-02T16:00:00Z",
+      "end": "2024-02-03T15:59:59Z",
+      "date": "2024-02-03",
+      "text": "Sat Feb 3rd 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
