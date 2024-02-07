@@ -1,0 +1,110 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 810.334553,
+        "digital": "0:13:30",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 30,
+        "percent": 100
+      },
+      {
+        "name": "Rust",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 13,
+      "total_seconds": 810.334553,
+      "digital": "0:13",
+      "decimal": "0.22",
+      "text": "13 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 810.334553,
+        "digital": "0:13:30",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 810.334553,
+        "digital": "0:13:30",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 810.334553,
+        "digital": "0:13:30",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Lenovo-laptop",
+        "total_seconds": 810.334553,
+        "machine_name_id": "018d7c29-23f5-4a32-8b76-9029c20edbde",
+        "digital": "0:13:30",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "slint_demo",
+        "total_seconds": 810.334553,
+        "digital": "0:13:30",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 30,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-02-06T16:00:00Z",
+      "end": "2024-02-07T15:59:59Z",
+      "date": "2024-02-07",
+      "text": "Wed Feb 7th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
