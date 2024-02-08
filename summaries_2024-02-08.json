@@ -1,0 +1,265 @@
+[
+  {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 10674.182777,
+        "digital": "2:57:54",
+        "decimal": "2.95",
+        "text": "2 hrs 57 mins",
+        "hours": 2,
+        "minutes": 57,
+        "seconds": 54,
+        "percent": 43.55
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 8267.013075,
+        "digital": "2:17:47",
+        "decimal": "2.28",
+        "text": "2 hrs 17 mins",
+        "hours": 2,
+        "minutes": 17,
+        "seconds": 47,
+        "percent": 33.73
+      },
+      {
+        "name": "Rust",
+        "total_seconds": 5507.378498,
+        "digital": "1:31:47",
+        "decimal": "1.52",
+        "text": "1 hr 31 mins",
+        "hours": 1,
+        "minutes": 31,
+        "seconds": 47,
+        "percent": 22.47
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 35.305747,
+        "digital": "0:00:35",
+        "decimal": "0.00",
+        "text": "35 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 35,
+        "percent": 0.14
+      },
+      {
+        "name": "Slint",
+        "total_seconds": 23.718991,
+        "digital": "0:00:23",
+        "decimal": "0.00",
+        "text": "23 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 23,
+        "percent": 0.1
+      }
+    ],
+    "grand_total": {
+      "hours": 6,
+      "minutes": 48,
+      "total_seconds": 24507.599088,
+      "digital": "6:48",
+      "decimal": "6.80",
+      "text": "6 hrs 48 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 24507.599088,
+        "digital": "6:48:27",
+        "decimal": "6.80",
+        "text": "6 hrs 48 mins",
+        "hours": 6,
+        "minutes": 48,
+        "seconds": 27,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 24507.599088,
+        "digital": "6:48:27",
+        "decimal": "6.80",
+        "text": "6 hrs 48 mins",
+        "hours": 6,
+        "minutes": 48,
+        "seconds": 27,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 24371.25019,
+        "digital": "6:46:11",
+        "decimal": "6.77",
+        "text": "6 hrs 46 mins",
+        "hours": 6,
+        "minutes": 46,
+        "seconds": 11,
+        "percent": 99.44
+      },
+      {
+        "name": "Building",
+        "total_seconds": 136.348898,
+        "digital": "0:02:16",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 16,
+        "percent": 0.56
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "react",
+        "total_seconds": 10674.182777,
+        "digital": "2:57:54",
+        "decimal": "2.95",
+        "text": "2 hrs 57 mins",
+        "hours": 2,
+        "minutes": 57,
+        "seconds": 54,
+        "percent": 11.11
+      },
+      {
+        "name": "DoughnutChart",
+        "total_seconds": 10674.182777,
+        "digital": "2:57:54",
+        "decimal": "2.95",
+        "text": "2 hrs 57 mins",
+        "hours": 2,
+        "minutes": 57,
+        "seconds": 54,
+        "percent": 11.11
+      },
+      {
+        "name": "types",
+        "total_seconds": 10674.182777,
+        "digital": "2:57:54",
+        "decimal": "2.95",
+        "text": "2 hrs 57 mins",
+        "hours": 2,
+        "minutes": 57,
+        "seconds": 54,
+        "percent": 11.11
+      },
+      {
+        "name": "Wakatime",
+        "total_seconds": 10674.182777,
+        "digital": "2:57:54",
+        "decimal": "2.95",
+        "text": "2 hrs 57 mins",
+        "hours": 2,
+        "minutes": 57,
+        "seconds": 54,
+        "percent": 11.11
+      },
+      {
+        "name": "utils",
+        "total_seconds": 10674.182777,
+        "digital": "2:57:54",
+        "decimal": "2.95",
+        "text": "2 hrs 57 mins",
+        "hours": 2,
+        "minutes": 57,
+        "seconds": 54,
+        "percent": 11.11
+      },
+      {
+        "name": "api",
+        "total_seconds": 10674.182777,
+        "digital": "2:57:54",
+        "decimal": "2.95",
+        "text": "2 hrs 57 mins",
+        "hours": 2,
+        "minutes": 57,
+        "seconds": 54,
+        "percent": 11.11
+      },
+      {
+        "name": "big",
+        "total_seconds": 10674.182777,
+        "digital": "2:57:54",
+        "decimal": "2.95",
+        "text": "2 hrs 57 mins",
+        "hours": 2,
+        "minutes": 57,
+        "seconds": 54,
+        "percent": 11.11
+      },
+      {
+        "name": "StackedHorizontalBar",
+        "total_seconds": 10674.182777,
+        "digital": "2:57:54",
+        "decimal": "2.95",
+        "text": "2 hrs 57 mins",
+        "hours": 2,
+        "minutes": 57,
+        "seconds": 54,
+        "percent": 11.11
+      },
+      {
+        "name": "roku-ui",
+        "total_seconds": 10674.182777,
+        "digital": "2:57:54",
+        "decimal": "2.95",
+        "text": "2 hrs 57 mins",
+        "hours": 2,
+        "minutes": 57,
+        "seconds": 54,
+        "percent": 11.11
+      }
+    ],
+    "machines": [
+      {
+        "name": "Lenovo-laptop",
+        "total_seconds": 24507.599088,
+        "machine_name_id": "018d8727-3c48-46fe-9184-bdeef8075e37",
+        "digital": "6:48:27",
+        "decimal": "6.80",
+        "text": "6 hrs 48 mins",
+        "hours": 6,
+        "minutes": 48,
+        "seconds": 27,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "slint_demo",
+        "total_seconds": 13798.110564,
+        "digital": "3:49:58",
+        "decimal": "3.82",
+        "text": "3 hrs 49 mins",
+        "hours": 3,
+        "minutes": 49,
+        "seconds": 58,
+        "percent": 56.3
+      },
+      {
+        "name": "wakatime-dashboard",
+        "total_seconds": 10709.488524,
+        "digital": "2:58:29",
+        "decimal": "2.97",
+        "text": "2 hrs 58 mins",
+        "hours": 2,
+        "minutes": 58,
+        "seconds": 29,
+        "percent": 43.7
+      }
+    ],
+    "range": {
+      "start": "2024-02-07T16:00:00Z",
+      "end": "2024-02-08T15:59:59Z",
+      "date": "2024-02-08",
+      "text": "Thu Feb 8th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
