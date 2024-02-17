@@ -1,0 +1,320 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 7683.690428,
+        "digital": "2:08:03",
+        "decimal": "2.13",
+        "text": "2 hrs 8 mins",
+        "hours": 2,
+        "minutes": 8,
+        "seconds": 3,
+        "percent": 50.25
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 5227.454737,
+        "digital": "1:27:07",
+        "decimal": "1.45",
+        "text": "1 hr 27 mins",
+        "hours": 1,
+        "minutes": 27,
+        "seconds": 7,
+        "percent": 34.19
+      },
+      {
+        "name": "Other",
+        "total_seconds": 2075.919466,
+        "digital": "0:34:35",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 35,
+        "percent": 13.58
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 193.030289,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 1.26
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 55.57705,
+        "digital": "0:00:55",
+        "decimal": "0.00",
+        "text": "55 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 55,
+        "percent": 0.36
+      },
+      {
+        "name": "Vue.js",
+        "total_seconds": 41.984864,
+        "digital": "0:00:41",
+        "decimal": "0.00",
+        "text": "41 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 41,
+        "percent": 0.27
+      },
+      {
+        "name": "SCSS",
+        "total_seconds": 9.27918,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.06
+      },
+      {
+        "name": "XML",
+        "total_seconds": 3.303075,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.02
+      }
+    ],
+    "grand_total": {
+      "hours": 4,
+      "minutes": 14,
+      "total_seconds": 15290.239089,
+      "digital": "4:14",
+      "decimal": "4.23",
+      "text": "4 hrs 14 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 15290.239089,
+        "digital": "4:14:50",
+        "decimal": "4.23",
+        "text": "4 hrs 14 mins",
+        "hours": 4,
+        "minutes": 14,
+        "seconds": 50,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 15290.239089,
+        "digital": "4:14:50",
+        "decimal": "4.23",
+        "text": "4 hrs 14 mins",
+        "hours": 4,
+        "minutes": 14,
+        "seconds": 50,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 15255.293527,
+        "digital": "4:14:15",
+        "decimal": "4.23",
+        "text": "4 hrs 14 mins",
+        "hours": 4,
+        "minutes": 14,
+        "seconds": 15,
+        "percent": 99.77
+      },
+      {
+        "name": "Building",
+        "total_seconds": 34.945562,
+        "digital": "0:00:34",
+        "decimal": "0.00",
+        "text": "34 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 34,
+        "percent": 0.23
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "common_type",
+        "total_seconds": 20.232406,
+        "digital": "0:00:20",
+        "decimal": "0.00",
+        "text": "20 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 20,
+        "percent": 16.67
+      },
+      {
+        "name": "index",
+        "total_seconds": 15.68096,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 12.92
+      },
+      {
+        "name": "vue-router",
+        "total_seconds": 15.68096,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 12.92
+      },
+      {
+        "name": "hospital_type",
+        "total_seconds": 15.106181,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 12.44
+      },
+      {
+        "name": "request",
+        "total_seconds": 13.912877,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 11.46
+      },
+      {
+        "name": "element-plus",
+        "total_seconds": 7.524794,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 6.2
+      },
+      {
+        "name": "axios",
+        "total_seconds": 7.524794,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 6.2
+      },
+      {
+        "name": "home_type",
+        "total_seconds": 6.778198,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 5.58
+      },
+      {
+        "name": "pinia",
+        "total_seconds": 6.319529,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 5.21
+      },
+      {
+        "name": "hospital",
+        "total_seconds": 6.319529,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 5.21
+      },
+      {
+        "name": "interface",
+        "total_seconds": 6.319529,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 5.21
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 15290.239089,
+        "machine_name_id": "018db6e2-b718-4f1d-96ea-b43c73dc4f6b",
+        "digital": "4:14:50",
+        "decimal": "4.23",
+        "text": "4 hrs 14 mins",
+        "hours": 4,
+        "minutes": 14,
+        "seconds": 50,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "convert_srgf",
+        "total_seconds": 14995.042212,
+        "digital": "4:09:55",
+        "decimal": "4.15",
+        "text": "4 hrs 9 mins",
+        "hours": 4,
+        "minutes": 9,
+        "seconds": 55,
+        "percent": 98.07
+      },
+      {
+        "name": "dashboard",
+        "total_seconds": 295.196877,
+        "digital": "0:04:55",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 55,
+        "percent": 1.93
+      }
+    ],
+    "range": {
+      "start": "2024-02-16T16:00:00Z",
+      "end": "2024-02-17T15:59:59Z",
+      "date": "2024-02-17",
+      "text": "Sat Feb 17th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
