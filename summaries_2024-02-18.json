@@ -1,0 +1,143 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 3745.357038,
+        "digital": "1:02:25",
+        "decimal": "1.03",
+        "text": "1 hr 2 mins",
+        "hours": 1,
+        "minutes": 2,
+        "seconds": 25,
+        "percent": 63.1
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 1298.252415,
+        "digital": "0:21:38",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 38,
+        "percent": 21.87
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 891.812387,
+        "digital": "0:14:51",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 51,
+        "percent": 15.03
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 38,
+      "total_seconds": 5935.42184,
+      "digital": "1:38",
+      "decimal": "1.63",
+      "text": "1 hr 38 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 5935.42184,
+        "digital": "1:38:55",
+        "decimal": "1.63",
+        "text": "1 hr 38 mins",
+        "hours": 1,
+        "minutes": 38,
+        "seconds": 55,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 5935.42184,
+        "digital": "1:38:55",
+        "decimal": "1.63",
+        "text": "1 hr 38 mins",
+        "hours": 1,
+        "minutes": 38,
+        "seconds": 55,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5919.015578,
+        "digital": "1:38:39",
+        "decimal": "1.63",
+        "text": "1 hr 38 mins",
+        "hours": 1,
+        "minutes": 38,
+        "seconds": 39,
+        "percent": 99.72
+      },
+      {
+        "name": "Building",
+        "total_seconds": 16.406262,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.28
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 5935.42184,
+        "machine_name_id": "018c0526-db59-480f-be96-c7e060a9f5b4",
+        "digital": "1:38:55",
+        "decimal": "1.63",
+        "text": "1 hr 38 mins",
+        "hours": 1,
+        "minutes": 38,
+        "seconds": 55,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "convert_srgf",
+        "total_seconds": 5043.609453,
+        "digital": "1:24:03",
+        "decimal": "1.40",
+        "text": "1 hr 24 mins",
+        "hours": 1,
+        "minutes": 24,
+        "seconds": 3,
+        "percent": 84.97
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 891.812387,
+        "digital": "0:14:51",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 51,
+        "percent": 15.03
+      }
+    ],
+    "range": {
+      "start": "2024-02-17T16:00:00Z",
+      "end": "2024-02-18T15:59:59Z",
+      "date": "2024-02-18",
+      "text": "Sun Feb 18th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
