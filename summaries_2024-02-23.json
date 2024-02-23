@@ -1,0 +1,99 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 2074.701959,
+        "digital": "0:34:34",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 34,
+        "percent": 100
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 34,
+      "total_seconds": 2074.701959,
+      "digital": "0:34",
+      "decimal": "0.57",
+      "text": "34 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2074.701959,
+        "digital": "0:34:34",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 34,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2074.701959,
+        "digital": "0:34:34",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 34,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2074.701959,
+        "digital": "0:34:34",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 34,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 2074.701959,
+        "machine_name_id": "ec8a3c47-a211-428a-a257-e7e32768eddb",
+        "digital": "0:34:34",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 34,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "Unknown Project",
+        "total_seconds": 2074.701959,
+        "digital": "0:34:34",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 34,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-02-22T16:00:00Z",
+      "end": "2024-02-23T15:59:59Z",
+      "date": "2024-02-23",
+      "text": "Fri Feb 23rd 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
