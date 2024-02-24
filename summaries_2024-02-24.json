@@ -1,0 +1,353 @@
+[
+  {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 61.223325,
+        "digital": "0:01:01",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 1,
+        "percent": 100
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 1,
+      "total_seconds": 61.223325,
+      "digital": "0:01",
+      "decimal": "0.02",
+      "text": "1 min"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 61.223325,
+        "digital": "0:01:01",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 1,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 61.223325,
+        "digital": "0:01:01",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 1,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 61.223325,
+        "digital": "0:01:01",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 1,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "react",
+        "total_seconds": 45.989761,
+        "digital": "0:00:45",
+        "decimal": "0.00",
+        "text": "45 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 45,
+        "percent": 13.21
+      },
+      {
+        "name": "roku-ui",
+        "total_seconds": 27.338618,
+        "digital": "0:00:27",
+        "decimal": "0.00",
+        "text": "27 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 27,
+        "percent": 7.85
+      },
+      {
+        "name": "utils",
+        "total_seconds": 25.218777,
+        "digital": "0:00:25",
+        "decimal": "0.00",
+        "text": "25 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 25,
+        "percent": 7.25
+      },
+      {
+        "name": "Wakatime",
+        "total_seconds": 22.914761,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 6.58
+      },
+      {
+        "name": "types",
+        "total_seconds": 22.914761,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 6.58
+      },
+      {
+        "name": "api",
+        "total_seconds": 22.914761,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 6.58
+      },
+      {
+        "name": "StackedHorizontalBar",
+        "total_seconds": 22.914761,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 6.58
+      },
+      {
+        "name": "big",
+        "total_seconds": 22.914761,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 6.58
+      },
+      {
+        "name": "DoughnutChart",
+        "total_seconds": 22.914761,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 6.58
+      },
+      {
+        "name": "useTheme",
+        "total_seconds": 14.0773,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 4.04
+      },
+      {
+        "name": "charts",
+        "total_seconds": 11.957459,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 3.44
+      },
+      {
+        "name": "light",
+        "total_seconds": 11.957459,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 3.44
+      },
+      {
+        "name": "components",
+        "total_seconds": 11.957459,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 3.44
+      },
+      {
+        "name": "features",
+        "total_seconds": 11.957459,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 3.44
+      },
+      {
+        "name": "dark",
+        "total_seconds": 11.957459,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 3.44
+      },
+      {
+        "name": "core",
+        "total_seconds": 11.957459,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 3.44
+      },
+      {
+        "name": "renderers",
+        "total_seconds": 11.957459,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 3.44
+      },
+      {
+        "name": "ThemeProvider",
+        "total_seconds": 2.730113,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.78
+      },
+      {
+        "name": "localStorageKeyEnum",
+        "total_seconds": 2.304016,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.66
+      },
+      {
+        "name": "ThemeToggle",
+        "total_seconds": 2.304016,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.66
+      },
+      {
+        "name": "localStorage",
+        "total_seconds": 2.304016,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.66
+      },
+      {
+        "name": "Dashboard",
+        "total_seconds": 2.304016,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.66
+      },
+      {
+        "name": "GithubIcon",
+        "total_seconds": 2.304016,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.66
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 61.223325,
+        "machine_name_id": "018c0526-db59-480f-be96-c7e060a9f5b4",
+        "digital": "0:01:01",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 1,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "wakatime-dashboard",
+        "total_seconds": 61.223325,
+        "digital": "0:01:01",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 1,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-02-23T16:00:00Z",
+      "end": "2024-02-24T15:59:59Z",
+      "date": "2024-02-24",
+      "text": "Sat Feb 24th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
