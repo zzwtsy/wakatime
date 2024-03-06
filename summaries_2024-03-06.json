@@ -1,0 +1,265 @@
+[
+  {
+    "languages": [
+      {
+        "name": "TOML",
+        "total_seconds": 236.787172,
+        "digital": "0:03:56",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 56,
+        "percent": 39.66
+      },
+      {
+        "name": "Rust",
+        "total_seconds": 180.102601,
+        "digital": "0:03:00",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 0,
+        "percent": 30.16
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 101.128415,
+        "digital": "0:01:41",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 41,
+        "percent": 16.94
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 79.051701,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 13.24
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 9,
+      "total_seconds": 597.069889,
+      "digital": "0:09",
+      "decimal": "0.15",
+      "text": "9 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 597.069889,
+        "digital": "0:09:57",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 57,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 597.069889,
+        "digital": "0:09:57",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 57,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 595.331417,
+        "digital": "0:09:55",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 55,
+        "percent": 99.71
+      },
+      {
+        "name": "Building",
+        "total_seconds": 1.738472,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.29
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "DoughnutChart",
+        "total_seconds": 79.051701,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 11.11
+      },
+      {
+        "name": "api",
+        "total_seconds": 79.051701,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 11.11
+      },
+      {
+        "name": "react",
+        "total_seconds": 79.051701,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 11.11
+      },
+      {
+        "name": "StackedHorizontalBar",
+        "total_seconds": 79.051701,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 11.11
+      },
+      {
+        "name": "roku-ui",
+        "total_seconds": 79.051701,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 11.11
+      },
+      {
+        "name": "utils",
+        "total_seconds": 79.051701,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 11.11
+      },
+      {
+        "name": "types",
+        "total_seconds": 79.051701,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 11.11
+      },
+      {
+        "name": "big",
+        "total_seconds": 79.051701,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 11.11
+      },
+      {
+        "name": "Wakatime",
+        "total_seconds": 79.051701,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 11.11
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 597.069889,
+        "machine_name_id": "018c0526-db59-480f-be96-c7e060a9f5b4",
+        "digital": "0:09:57",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 57,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "convert_srgf",
+        "total_seconds": 486.291926,
+        "digital": "0:08:06",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 6,
+        "percent": 81.45
+      },
+      {
+        "name": "wakatime-dashboard",
+        "total_seconds": 79.051701,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 13.24
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 31.726262,
+        "digital": "0:00:31",
+        "decimal": "0.00",
+        "text": "31 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 31,
+        "percent": 5.31
+      }
+    ],
+    "range": {
+      "start": "2024-03-05T16:00:00Z",
+      "end": "2024-03-06T15:59:59Z",
+      "date": "2024-03-06",
+      "text": "Wed Mar 6th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
