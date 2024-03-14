@@ -1,0 +1,309 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 336.889,
+        "digital": "0:05:36",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 5,
+      "total_seconds": 336.889,
+      "digital": "0:05",
+      "decimal": "0.08",
+      "text": "5 mins"
+    },
+    "editors": [
+      {
+        "name": "Intellijidea",
+        "total_seconds": 336.889,
+        "digital": "0:05:36",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 336.889,
+        "digital": "0:05:36",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 336.889,
+        "digital": "0:05:36",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "androidx.compose",
+        "total_seconds": 336.889,
+        "digital": "0:05:36",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 36,
+        "percent": 26.43
+      },
+      {
+        "name": "kotlinx.coroutines",
+        "total_seconds": 305.698,
+        "digital": "0:05:05",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 5,
+        "percent": 23.98
+      },
+      {
+        "name": "io.kamel",
+        "total_seconds": 305.284,
+        "digital": "0:05:05",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 5,
+        "percent": 23.95
+      },
+      {
+        "name": "api.Api",
+        "total_seconds": 305.284,
+        "digital": "0:05:05",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 5,
+        "percent": 23.95
+      },
+      {
+        "name": "com.darkrockstudios",
+        "total_seconds": 5.597,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.44
+      },
+      {
+        "name": "com.seanproctor",
+        "total_seconds": 5.254,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.41
+      },
+      {
+        "name": "enums.NavigationScreenType",
+        "total_seconds": 1.456,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.11
+      },
+      {
+        "name": "moe.tlaster",
+        "total_seconds": 1.456,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.11
+      },
+      {
+        "name": "screen.Home",
+        "total_seconds": 1.456,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.11
+      },
+      {
+        "name": "screen.Table",
+        "total_seconds": 1.456,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.11
+      },
+      {
+        "name": "screen.Setting",
+        "total_seconds": 1.456,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.11
+      },
+      {
+        "name": "components.DirectoryPickerComposable",
+        "total_seconds": 0.414,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.03
+      },
+      {
+        "name": "components.FilePickerComposable",
+        "total_seconds": 0.414,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.03
+      },
+      {
+        "name": "handle.DeWuGoodsDataHandle",
+        "total_seconds": 0.414,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.03
+      },
+      {
+        "name": "components.LoadingComposable",
+        "total_seconds": 0.414,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.03
+      },
+      {
+        "name": "util.Util",
+        "total_seconds": 0.414,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.03
+      },
+      {
+        "name": "components.DataTableComposable",
+        "total_seconds": 0.414,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.03
+      },
+      {
+        "name": "vo.DeWuSaleGoodsExcelVo",
+        "total_seconds": 0.414,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.03
+      },
+      {
+        "name": "handle.DownloadGoodsImageHandle",
+        "total_seconds": 0.414,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.03
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 336.889,
+        "machine_name_id": "018c0526-db59-480f-be96-c7e060a9f5b4",
+        "digital": "0:05:36",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "work-tool-compose",
+        "total_seconds": 336.889,
+        "digital": "0:05:36",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-03-13T16:00:00Z",
+      "end": "2024-03-14T15:59:59Z",
+      "date": "2024-03-14",
+      "text": "Thu Mar 14th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
