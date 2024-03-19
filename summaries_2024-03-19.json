@@ -1,0 +1,276 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Astro",
+        "total_seconds": 5806.022582,
+        "digital": "1:36:46",
+        "decimal": "1.60",
+        "text": "1 hr 36 mins",
+        "hours": 1,
+        "minutes": 36,
+        "seconds": 46,
+        "percent": 65.96
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 1375.064968,
+        "digital": "0:22:55",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 55,
+        "percent": 15.62
+      },
+      {
+        "name": "MDX",
+        "total_seconds": 968.363295,
+        "digital": "0:16:08",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 8,
+        "percent": 11
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 568.112612,
+        "digital": "0:09:28",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 28,
+        "percent": 6.45
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 57.892853,
+        "digital": "0:00:57",
+        "decimal": "0.00",
+        "text": "57 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 57,
+        "percent": 0.66
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 21.587412,
+        "digital": "0:00:21",
+        "decimal": "0.00",
+        "text": "21 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 21,
+        "percent": 0.25
+      },
+      {
+        "name": "TSConfig",
+        "total_seconds": 5.445701,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.06
+      }
+    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 26,
+      "total_seconds": 8802.489423,
+      "digital": "2:26",
+      "decimal": "2.43",
+      "text": "2 hrs 26 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 8802.489423,
+        "digital": "2:26:42",
+        "decimal": "2.43",
+        "text": "2 hrs 26 mins",
+        "hours": 2,
+        "minutes": 26,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 8802.489423,
+        "digital": "2:26:42",
+        "decimal": "2.43",
+        "text": "2 hrs 26 mins",
+        "hours": 2,
+        "minutes": 26,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 8802.489423,
+        "digital": "2:26:42",
+        "decimal": "2.43",
+        "text": "2 hrs 26 mins",
+        "hours": 2,
+        "minutes": 26,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "sitemap",
+        "total_seconds": 1375.064968,
+        "digital": "0:22:55",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 55,
+        "percent": 17.16
+      },
+      {
+        "name": "tailwind",
+        "total_seconds": 1375.064968,
+        "digital": "0:22:55",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 55,
+        "percent": 17.16
+      },
+      {
+        "name": "react",
+        "total_seconds": 1375.064968,
+        "digital": "0:22:55",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 55,
+        "percent": 17.16
+      },
+      {
+        "name": "mdx",
+        "total_seconds": 1375.064968,
+        "digital": "0:22:55",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 55,
+        "percent": 17.16
+      },
+      {
+        "name": "config",
+        "total_seconds": 1375.064968,
+        "digital": "0:22:55",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 55,
+        "percent": 17.16
+      },
+      {
+        "name": "tailwindcss",
+        "total_seconds": 568.112612,
+        "digital": "0:09:28",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 28,
+        "percent": 7.09
+      },
+      {
+        "name": "defaultTheme",
+        "total_seconds": 568.112612,
+        "digital": "0:09:28",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 28,
+        "percent": 7.09
+      },
+      {
+        "name": "utils",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "react-dropdown-menu",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "lucide-react",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 8802.489423,
+        "machine_name_id": "018e54e1-6b6a-4069-82dd-ead595eb6281",
+        "digital": "2:26:42",
+        "decimal": "2.43",
+        "text": "2 hrs 26 mins",
+        "hours": 2,
+        "minutes": 26,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "blog",
+        "total_seconds": 8802.489423,
+        "digital": "2:26:42",
+        "decimal": "2.43",
+        "text": "2 hrs 26 mins",
+        "hours": 2,
+        "minutes": 26,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-03-18T16:00:00Z",
+      "end": "2024-03-19T15:59:59Z",
+      "date": "2024-03-19",
+      "text": "Tue Mar 19th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
