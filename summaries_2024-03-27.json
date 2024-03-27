@@ -1,0 +1,177 @@
+[
+  {
+    "languages": [
+      {
+        "name": "CSS",
+        "total_seconds": 465.694289,
+        "digital": "0:07:45",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 45,
+        "percent": 86.12
+      },
+      {
+        "name": "Astro",
+        "total_seconds": 71.714807,
+        "digital": "0:01:11",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 11,
+        "percent": 13.26
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 2.412874,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.45
+      },
+      {
+        "name": "Image (svg)",
+        "total_seconds": 0.954447,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.18
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 9,
+      "total_seconds": 540.776417,
+      "digital": "0:09",
+      "decimal": "0.15",
+      "text": "9 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 540.776417,
+        "digital": "0:09:00",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 0,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 540.776417,
+        "digital": "0:09:00",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 0,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 540.776417,
+        "digital": "0:09:00",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 0,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "button",
+        "total_seconds": 1.991567,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 25
+      },
+      {
+        "name": "lucide-react",
+        "total_seconds": 1.991567,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 25
+      },
+      {
+        "name": "dropdown-menu",
+        "total_seconds": 1.991567,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 25
+      },
+      {
+        "name": "react",
+        "total_seconds": 1.991567,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 25
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 540.776417,
+        "machine_name_id": "018e7e3f-b7a9-4564-b8a7-ef76cbed731f",
+        "digital": "0:09:00",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 0,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "blog",
+        "total_seconds": 540.776417,
+        "digital": "0:09:00",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 0,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-03-26T16:00:00Z",
+      "end": "2024-03-27T15:59:59Z",
+      "date": "2024-03-27",
+      "text": "Wed Mar 27th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
