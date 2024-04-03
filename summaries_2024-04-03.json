@@ -1,0 +1,595 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Vue.js",
+        "total_seconds": 14060.961696,
+        "digital": "3:54:20",
+        "decimal": "3.90",
+        "text": "3 hrs 54 mins",
+        "hours": 3,
+        "minutes": 54,
+        "seconds": 20,
+        "percent": 67.86
+      },
+      {
+        "name": "Java",
+        "total_seconds": 4787.733143,
+        "digital": "1:19:47",
+        "decimal": "1.32",
+        "text": "1 hr 19 mins",
+        "hours": 1,
+        "minutes": 19,
+        "seconds": 47,
+        "percent": 23.11
+      },
+      {
+        "name": "Other",
+        "total_seconds": 827.322458,
+        "digital": "0:13:47",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 47,
+        "percent": 3.99
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 743.228138,
+        "digital": "0:12:23",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 23,
+        "percent": 3.59
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 144.827,
+        "digital": "0:02:24",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 24,
+        "percent": 0.7
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 79.970447,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 0.39
+      },
+      {
+        "name": "SQL",
+        "total_seconds": 24.07,
+        "digital": "0:00:24",
+        "decimal": "0.00",
+        "text": "24 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 24,
+        "percent": 0.12
+      },
+      {
+        "name": "Kotlin",
+        "total_seconds": 21.562,
+        "digital": "0:00:21",
+        "decimal": "0.00",
+        "text": "21 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 21,
+        "percent": 0.1
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 17.206305,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 0.08
+      },
+      {
+        "name": "Java Properties",
+        "total_seconds": 9.058746,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.04
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 3.125537,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.02
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 1.692004,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.01
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 0.537236,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 5,
+      "minutes": 45,
+      "total_seconds": 20721.29471,
+      "digital": "5:45",
+      "decimal": "5.75",
+      "text": "5 hrs 45 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 15775.204237,
+        "digital": "4:22:55",
+        "decimal": "4.37",
+        "text": "4 hrs 22 mins",
+        "hours": 4,
+        "minutes": 22,
+        "seconds": 55,
+        "percent": 76.13
+      },
+      {
+        "name": "Intellijidea",
+        "total_seconds": 4946.090473,
+        "digital": "1:22:26",
+        "decimal": "1.37",
+        "text": "1 hr 22 mins",
+        "hours": 1,
+        "minutes": 22,
+        "seconds": 26,
+        "percent": 23.87
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 20721.29471,
+        "digital": "5:45:21",
+        "decimal": "5.75",
+        "text": "5 hrs 45 mins",
+        "hours": 5,
+        "minutes": 45,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 20721.29471,
+        "digital": "5:45:21",
+        "decimal": "5.75",
+        "text": "5 hrs 45 mins",
+        "hours": 5,
+        "minutes": 45,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "springframework.web",
+        "total_seconds": 2553.237734,
+        "digital": "0:42:33",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 33,
+        "percent": 21.84
+      },
+      {
+        "name": "lombok.Setter",
+        "total_seconds": 1434.609,
+        "digital": "0:23:54",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 54,
+        "percent": 12.27
+      },
+      {
+        "name": "lombok.Getter",
+        "total_seconds": 1434.609,
+        "digital": "0:23:54",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 54,
+        "percent": 12.27
+      },
+      {
+        "name": "jakarta.persistence",
+        "total_seconds": 1385.696,
+        "digital": "0:23:05",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 5,
+        "percent": 11.85
+      },
+      {
+        "name": "vue",
+        "total_seconds": 727.610333,
+        "digital": "0:12:07",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 7,
+        "percent": 6.22
+      },
+      {
+        "name": "GlobalFetch",
+        "total_seconds": 679.240334,
+        "digital": "0:11:19",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 19,
+        "percent": 5.81
+      },
+      {
+        "name": "SearchOptionsType",
+        "total_seconds": 679.240334,
+        "digital": "0:11:19",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 19,
+        "percent": 5.81
+      },
+      {
+        "name": "PublicPoolTableDataType",
+        "total_seconds": 679.240334,
+        "digital": "0:11:19",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 19,
+        "percent": 5.81
+      },
+      {
+        "name": "alova",
+        "total_seconds": 679.240334,
+        "digital": "0:11:19",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 19,
+        "percent": 5.81
+      },
+      {
+        "name": "lombok.Data",
+        "total_seconds": 341.874409,
+        "digital": "0:05:41",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 41,
+        "percent": 2.92
+      },
+      {
+        "name": "cn.zzwtsy",
+        "total_seconds": 307.482,
+        "digital": "0:05:07",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 7,
+        "percent": 2.63
+      },
+      {
+        "name": "fasterxml.jackson",
+        "total_seconds": 201.103,
+        "digital": "0:03:21",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 21,
+        "percent": 1.72
+      },
+      {
+        "name": "\"/src/main.ts\"",
+        "total_seconds": 79.970447,
+        "digital": "0:01:19",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 19,
+        "percent": 0.68
+      },
+      {
+        "name": "zh-cn.min",
+        "total_seconds": 48.369999,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 0.41
+      },
+      {
+        "name": "router",
+        "total_seconds": 48.369999,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 0.41
+      },
+      {
+        "name": "index",
+        "total_seconds": 48.369999,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 0.41
+      },
+      {
+        "name": "App",
+        "total_seconds": 48.369999,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 0.41
+      },
+      {
+        "name": "css-vars",
+        "total_seconds": 48.369999,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 0.41
+      },
+      {
+        "name": "pinia",
+        "total_seconds": 48.369999,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 0.41
+      },
+      {
+        "name": "element-plus",
+        "total_seconds": 48.369999,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 0.41
+      },
+      {
+        "name": "springframework.boot",
+        "total_seconds": 43.046,
+        "digital": "0:00:43",
+        "decimal": "0.00",
+        "text": "43 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 43,
+        "percent": 0.37
+      },
+      {
+        "name": "springframework.stereotype",
+        "total_seconds": 26.629845,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 0.23
+      },
+      {
+        "name": "style",
+        "total_seconds": 24.451536,
+        "digital": "0:00:24",
+        "decimal": "0.00",
+        "text": "24 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 24,
+        "percent": 0.21
+      },
+      {
+        "name": "vxe-table",
+        "total_seconds": 24.451536,
+        "digital": "0:00:24",
+        "decimal": "0.00",
+        "text": "24 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 24,
+        "percent": 0.21
+      },
+      {
+        "name": "AsideComponent",
+        "total_seconds": 8.081133,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.07
+      },
+      {
+        "name": "es",
+        "total_seconds": 8.081133,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.07
+      },
+      {
+        "name": "BaseTableComponent",
+        "total_seconds": 8.081133,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.07
+      },
+      {
+        "name": "TableFilterComponent",
+        "total_seconds": 8.081133,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.07
+      },
+      {
+        "name": "ModifyCustomerInfoComponent",
+        "total_seconds": 8.081133,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.07
+      },
+      {
+        "name": "vue-router",
+        "total_seconds": 8.081133,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.07
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 20721.29471,
+        "machine_name_id": "018c0526-db59-480f-be96-c7e060a9f5b4",
+        "digital": "5:45:21",
+        "decimal": "5.75",
+        "text": "5 hrs 45 mins",
+        "hours": 5,
+        "minutes": 45,
+        "seconds": 21,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "customer-manage-system-web",
+        "total_seconds": 15775.204237,
+        "digital": "4:22:55",
+        "decimal": "4.37",
+        "text": "4 hrs 22 mins",
+        "hours": 4,
+        "minutes": 22,
+        "seconds": 55,
+        "percent": 76.13
+      },
+      {
+        "name": "crm",
+        "total_seconds": 4938.841473,
+        "digital": "1:22:18",
+        "decimal": "1.37",
+        "text": "1 hr 22 mins",
+        "hours": 1,
+        "minutes": 22,
+        "seconds": 18,
+        "percent": 23.83
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 7.249,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.03
+      }
+    ],
+    "range": {
+      "start": "2024-04-02T16:00:00Z",
+      "end": "2024-04-03T15:59:59Z",
+      "date": "2024-04-03",
+      "text": "Wed Apr 3rd 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
