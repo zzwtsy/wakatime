@@ -1,0 +1,254 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Vue.js",
+        "total_seconds": 4667.487,
+        "digital": "1:17:47",
+        "decimal": "1.28",
+        "text": "1 hr 17 mins",
+        "hours": 1,
+        "minutes": 17,
+        "seconds": 47,
+        "percent": 77.92
+      },
+      {
+        "name": "Java",
+        "total_seconds": 1007.057,
+        "digital": "0:16:47",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 47,
+        "percent": 16.81
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 158.907,
+        "digital": "0:02:38",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 38,
+        "percent": 2.65
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 156.321,
+        "digital": "0:02:36",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 36,
+        "percent": 2.61
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 39,
+      "total_seconds": 5989.772,
+      "digital": "1:39",
+      "decimal": "1.65",
+      "text": "1 hr 39 mins"
+    },
+    "editors": [
+      {
+        "name": "Intellijidea",
+        "total_seconds": 5989.772,
+        "digital": "1:39:49",
+        "decimal": "1.65",
+        "text": "1 hr 39 mins",
+        "hours": 1,
+        "minutes": 39,
+        "seconds": 49,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 5989.772,
+        "digital": "1:39:49",
+        "decimal": "1.65",
+        "text": "1 hr 39 mins",
+        "hours": 1,
+        "minutes": 39,
+        "seconds": 49,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5989.772,
+        "digital": "1:39:49",
+        "decimal": "1.65",
+        "text": "1 hr 39 mins",
+        "hours": 1,
+        "minutes": 39,
+        "seconds": 49,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "springframework.context",
+        "total_seconds": 1006.839,
+        "digital": "0:16:46",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 46,
+        "percent": 25.45
+      },
+      {
+        "name": "springframework.security",
+        "total_seconds": 682.105,
+        "digital": "0:11:22",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 22,
+        "percent": 17.24
+      },
+      {
+        "name": "springframework.web",
+        "total_seconds": 542.481,
+        "digital": "0:09:02",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 2,
+        "percent": 13.71
+      },
+      {
+        "name": "springframework.http",
+        "total_seconds": 521.593,
+        "digital": "0:08:41",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 41,
+        "percent": 13.18
+      },
+      {
+        "name": "fasterxml.jackson",
+        "total_seconds": 445.382,
+        "digital": "0:07:25",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 25,
+        "percent": 11.26
+      },
+      {
+        "name": "springframework.boot",
+        "total_seconds": 324.734,
+        "digital": "0:05:24",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 24,
+        "percent": 8.21
+      },
+      {
+        "name": "moment",
+        "total_seconds": 152.811,
+        "digital": "0:02:32",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 32,
+        "percent": 3.86
+      },
+      {
+        "name": "jakarta.annotation",
+        "total_seconds": 140.06,
+        "digital": "0:02:20",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 20,
+        "percent": 3.54
+      },
+      {
+        "name": "cn.zzwtsy",
+        "total_seconds": 140.06,
+        "digital": "0:02:20",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 20,
+        "percent": 3.54
+      },
+      {
+        "name": "lombok.extern",
+        "total_seconds": 0.218,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.01
+      },
+      {
+        "name": "babyfish.jimmer",
+        "total_seconds": 0.218,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.01
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 5989.772,
+        "machine_name_id": "018ed07a-16fb-4392-a9d7-84eb1aeaf894",
+        "digital": "1:39:49",
+        "decimal": "1.65",
+        "text": "1 hr 39 mins",
+        "hours": 1,
+        "minutes": 39,
+        "seconds": 49,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "cdc",
+        "total_seconds": 5989.772,
+        "digital": "1:39:49",
+        "decimal": "1.65",
+        "text": "1 hr 39 mins",
+        "hours": 1,
+        "minutes": 39,
+        "seconds": 49,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-04-11T16:00:00Z",
+      "end": "2024-04-12T15:59:59Z",
+      "date": "2024-04-12",
+      "text": "Fri Apr 12th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
