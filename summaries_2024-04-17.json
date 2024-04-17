@@ -1,0 +1,309 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Vue.js",
+        "total_seconds": 13425.55856,
+        "digital": "3:43:45",
+        "decimal": "3.72",
+        "text": "3 hrs 43 mins",
+        "hours": 3,
+        "minutes": 43,
+        "seconds": 45,
+        "percent": 92.88
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 565.77083,
+        "digital": "0:09:25",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 25,
+        "percent": 3.91
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 341.523327,
+        "digital": "0:05:41",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 41,
+        "percent": 2.36
+      },
+      {
+        "name": "JimmerDTO",
+        "total_seconds": 108.565472,
+        "digital": "0:01:48",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 48,
+        "percent": 0.75
+      },
+      {
+        "name": "GitIgnore file",
+        "total_seconds": 6.024,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.04
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 4.559,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.03
+      },
+      {
+        "name": "SQL",
+        "total_seconds": 1.782,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.01
+      },
+      {
+        "name": "Java",
+        "total_seconds": 1.156,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.01
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 0.03,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 4,
+      "minutes": 0,
+      "total_seconds": 14454.969189,
+      "digital": "4:00",
+      "decimal": "4.00",
+      "text": "4 hrs"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 14332.852717,
+        "digital": "3:58:52",
+        "decimal": "3.97",
+        "text": "3 hrs 58 mins",
+        "hours": 3,
+        "minutes": 58,
+        "seconds": 52,
+        "percent": 99.16
+      },
+      {
+        "name": "Intellijidea",
+        "total_seconds": 122.116472,
+        "digital": "0:02:02",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 2,
+        "percent": 0.84
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 14454.969189,
+        "digital": "4:00:54",
+        "decimal": "4.00",
+        "text": "4 hrs",
+        "hours": 4,
+        "minutes": 0,
+        "seconds": 54,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 14454.969189,
+        "digital": "4:00:54",
+        "decimal": "4.00",
+        "text": "4 hrs",
+        "hours": 4,
+        "minutes": 0,
+        "seconds": 54,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"/src/main.ts\"",
+        "total_seconds": 565.77083,
+        "digital": "0:09:25",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 25,
+        "percent": 99.58
+      },
+      {
+        "name": "springframework.boot",
+        "total_seconds": 0.709,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.12
+      },
+      {
+        "name": "babyfish.jimmer",
+        "total_seconds": 0.447,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.08
+      },
+      {
+        "name": "cn.zzwtsy",
+        "total_seconds": 0.366,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.06
+      },
+      {
+        "name": "jetbrains.annotations",
+        "total_seconds": 0.201,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.04
+      },
+      {
+        "name": "springframework.stereotype",
+        "total_seconds": 0.189,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.03
+      },
+      {
+        "name": "jakarta.annotation",
+        "total_seconds": 0.184,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.03
+      },
+      {
+        "name": "springframework.web",
+        "total_seconds": 0.115,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.02
+      },
+      {
+        "name": "lombok.extern",
+        "total_seconds": 0.115,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.02
+      },
+      {
+        "name": "fasterxml.jackson",
+        "total_seconds": 0.081,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.01
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 14454.969189,
+        "machine_name_id": "018c0526-db59-480f-be96-c7e060a9f5b4",
+        "digital": "4:00:54",
+        "decimal": "4.00",
+        "text": "4 hrs",
+        "hours": 4,
+        "minutes": 0,
+        "seconds": 54,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "cdc",
+        "total_seconds": 14454.969189,
+        "digital": "4:00:54",
+        "decimal": "4.00",
+        "text": "4 hrs",
+        "hours": 4,
+        "minutes": 0,
+        "seconds": 54,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-04-16T16:00:00Z",
+      "end": "2024-04-17T15:59:59Z",
+      "date": "2024-04-17",
+      "text": "Wed Apr 17th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
