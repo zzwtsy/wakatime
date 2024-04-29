@@ -1,46 +1,5 @@
 [
   {
-    "grand_total": {
-      "hours": 19,
-      "minutes": 37,
-      "total_seconds": 70625.17,
-      "digital": "19:37",
-      "decimal": "19.62",
-      "text": "19 hrs 37 mins"
-    },
-    "range": {
-      "start": "2024-04-28T16:00:00Z",
-      "end": "2024-04-29T15:59:59Z",
-      "date": "2024-04-29",
-      "text": "Mon Apr 29th 2024",
-      "timezone": "Asia/Shanghai"
-    },
-    "projects": [
-      {
-        "name": "chasing-dreams-crm",
-        "total_seconds": 45285.726409,
-        "color": null,
-        "digital": "12:34:45",
-        "decimal": "12.57",
-        "text": "12 hrs 34 mins",
-        "hours": 12,
-        "minutes": 34,
-        "seconds": 45,
-        "percent": 64.12
-      },
-      {
-        "name": "chasing-dreams-crm-web",
-        "total_seconds": 25339.443591,
-        "color": null,
-        "digital": "7:02:19",
-        "decimal": "7.03",
-        "text": "7 hrs 2 mins",
-        "hours": 7,
-        "minutes": 2,
-        "seconds": 19,
-        "percent": 35.88
-      }
-    ],
     "languages": [
       {
         "name": "Kotlin",
@@ -129,6 +88,75 @@
         "minutes": 0,
         "seconds": 14,
         "percent": 0.02
+      }
+    ],
+    "grand_total": {
+      "hours": 19,
+      "minutes": 37,
+      "total_seconds": 70625.17,
+      "digital": "19:37",
+      "decimal": "19.62",
+      "text": "19 hrs 37 mins"
+    },
+    "editors": [
+      {
+        "name": "Intellijidea",
+        "total_seconds": 45285.726409,
+        "digital": "12:34:45",
+        "decimal": "12.57",
+        "text": "12 hrs 34 mins",
+        "hours": 12,
+        "minutes": 34,
+        "seconds": 45,
+        "percent": 64.12
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 25339.443591,
+        "digital": "7:02:19",
+        "decimal": "7.03",
+        "text": "7 hrs 2 mins",
+        "hours": 7,
+        "minutes": 2,
+        "seconds": 19,
+        "percent": 35.88
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 70625.17,
+        "digital": "19:37:05",
+        "decimal": "19.62",
+        "text": "19 hrs 37 mins",
+        "hours": 19,
+        "minutes": 37,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 70598.829907,
+        "digital": "19:36:38",
+        "decimal": "19.60",
+        "text": "19 hrs 36 mins",
+        "hours": 19,
+        "minutes": 36,
+        "seconds": 38,
+        "percent": 99.96
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 26.340093,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 0.04
       }
     ],
     "dependencies": [
@@ -243,7 +271,7 @@
         "percent": 4.09
       },
       {
-        "name": "FollowUpLogPophover",
+        "name": "table",
         "total_seconds": 13058.856907,
         "digital": "3:37:38",
         "decimal": "3.62",
@@ -254,7 +282,7 @@
         "percent": 4.08
       },
       {
-        "name": "table",
+        "name": "FollowUpLogPophover",
         "total_seconds": 13058.856907,
         "digital": "3:37:38",
         "decimal": "3.62",
@@ -518,7 +546,29 @@
         "percent": 0.17
       },
       {
+        "name": "temp-dir",
+        "total_seconds": 547.484143,
+        "digital": "0:09:07",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 7,
+        "percent": 0.17
+      },
+      {
         "name": "fs-extra",
+        "total_seconds": 547.484143,
+        "digital": "0:09:07",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 7,
+        "percent": 0.17
+      },
+      {
+        "name": "adm-zip",
         "total_seconds": 547.484143,
         "digital": "0:09:07",
         "decimal": "0.15",
@@ -541,28 +591,6 @@
       },
       {
         "name": "http",
-        "total_seconds": 547.484143,
-        "digital": "0:09:07",
-        "decimal": "0.15",
-        "text": "9 mins",
-        "hours": 0,
-        "minutes": 9,
-        "seconds": 7,
-        "percent": 0.17
-      },
-      {
-        "name": "adm-zip",
-        "total_seconds": 547.484143,
-        "digital": "0:09:07",
-        "decimal": "0.15",
-        "text": "9 mins",
-        "hours": 0,
-        "minutes": 9,
-        "seconds": 7,
-        "percent": 0.17
-      },
-      {
-        "name": "temp-dir",
         "total_seconds": 547.484143,
         "digital": "0:09:07",
         "decimal": "0.15",
@@ -639,6 +667,17 @@
         "percent": 0.04
       },
       {
+        "name": "baseComponent",
+        "total_seconds": 88.757042,
+        "digital": "0:01:28",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 28,
+        "percent": 0.03
+      },
+      {
         "name": "foundation",
         "total_seconds": 88.757042,
         "digital": "0:01:28",
@@ -650,8 +689,19 @@
         "percent": 0.03
       },
       {
-        "name": "baseComponent",
-        "total_seconds": 88.757042,
+        "name": "PrivateRoute",
+        "total_seconds": 88.497456,
+        "digital": "0:01:28",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 28,
+        "percent": 0.03
+      },
+      {
+        "name": "PublicPool",
+        "total_seconds": 88.497456,
         "digital": "0:01:28",
         "decimal": "0.02",
         "text": "1 min",
@@ -683,29 +733,7 @@
         "percent": 0.03
       },
       {
-        "name": "PublicPool",
-        "total_seconds": 88.497456,
-        "digital": "0:01:28",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 28,
-        "percent": 0.03
-      },
-      {
         "name": "PageLayout",
-        "total_seconds": 88.497456,
-        "digital": "0:01:28",
-        "decimal": "0.02",
-        "text": "1 min",
-        "hours": 0,
-        "minutes": 1,
-        "seconds": 28,
-        "percent": 0.03
-      },
-      {
-        "name": "PrivateRoute",
         "total_seconds": 88.497456,
         "digital": "0:01:28",
         "decimal": "0.02",
@@ -804,28 +832,6 @@
         "percent": 0.01
       },
       {
-        "name": "constants",
-        "total_seconds": 38.87039,
-        "digital": "0:00:38",
-        "decimal": "0.00",
-        "text": "38 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 38,
-        "percent": 0.01
-      },
-      {
-        "name": "react-window",
-        "total_seconds": 38.87039,
-        "digital": "0:00:38",
-        "decimal": "0.00",
-        "text": "38 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 38,
-        "percent": 0.01
-      },
-      {
         "name": "ColumnFilter",
         "total_seconds": 38.87039,
         "digital": "0:00:38",
@@ -848,7 +854,29 @@
         "percent": 0.01
       },
       {
+        "name": "react-window",
+        "total_seconds": 38.87039,
+        "digital": "0:00:38",
+        "decimal": "0.00",
+        "text": "38 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 38,
+        "percent": 0.01
+      },
+      {
         "name": "base",
+        "total_seconds": 38.87039,
+        "digital": "0:00:38",
+        "decimal": "0.00",
+        "text": "38 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 38,
+        "percent": 0.01
+      },
+      {
+        "name": "constants",
         "total_seconds": 38.87039,
         "digital": "0:00:38",
         "decimal": "0.00",
@@ -881,18 +909,7 @@
         "percent": 0
       },
       {
-        "name": "navigation",
-        "total_seconds": 2.945957,
-        "digital": "0:00:02",
-        "decimal": "0.00",
-        "text": "2 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 2,
-        "percent": 0
-      },
-      {
-        "name": "Header",
+        "name": "SubNav",
         "total_seconds": 2.945957,
         "digital": "0:00:02",
         "decimal": "0.00",
@@ -914,7 +931,7 @@
         "percent": 0
       },
       {
-        "name": "SubNav",
+        "name": "navigation",
         "total_seconds": 2.945957,
         "digital": "0:00:02",
         "decimal": "0.00",
@@ -926,6 +943,17 @@
       },
       {
         "name": "Footer",
+        "total_seconds": 2.945957,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0
+      },
+      {
+        "name": "Header",
         "total_seconds": 2.945957,
         "digital": "0:00:02",
         "decimal": "0.00",
@@ -961,9 +989,9 @@
         "percent": 100
       }
     ],
-    "editors": [
+    "projects": [
       {
-        "name": "Intellijidea",
+        "name": "chasing-dreams-crm",
         "total_seconds": 45285.726409,
         "digital": "12:34:45",
         "decimal": "12.57",
@@ -974,7 +1002,7 @@
         "percent": 64.12
       },
       {
-        "name": "VS Code",
+        "name": "chasing-dreams-crm-web",
         "total_seconds": 25339.443591,
         "digital": "7:02:19",
         "decimal": "7.03",
@@ -985,42 +1013,12 @@
         "percent": 35.88
       }
     ],
-    "operating_systems": [
-      {
-        "name": "Windows",
-        "total_seconds": 70625.17,
-        "digital": "19:37:05",
-        "decimal": "19.62",
-        "text": "19 hrs 37 mins",
-        "hours": 19,
-        "minutes": 37,
-        "seconds": 5,
-        "percent": 100
-      }
-    ],
-    "categories": [
-      {
-        "name": "Coding",
-        "total_seconds": 70598.829907,
-        "digital": "19:36:38",
-        "decimal": "19.60",
-        "text": "19 hrs 36 mins",
-        "hours": 19,
-        "minutes": 36,
-        "seconds": 38,
-        "percent": 99.96
-      },
-      {
-        "name": "Debugging",
-        "total_seconds": 26.340093,
-        "digital": "0:00:26",
-        "decimal": "0.00",
-        "text": "26 secs",
-        "hours": 0,
-        "minutes": 0,
-        "seconds": 26,
-        "percent": 0.04
-      }
-    ]
+    "range": {
+      "start": "2024-04-28T16:00:00Z",
+      "end": "2024-04-29T15:59:59Z",
+      "date": "2024-04-29",
+      "text": "Mon Apr 29th 2024",
+      "timezone": "Asia/Shanghai"
+    }
   }
 ]
