@@ -1,0 +1,358 @@
+[
+  {
+    "languages": [
+      {
+        "name": "SQL",
+        "total_seconds": 14290.029486,
+        "digital": "3:58:10",
+        "decimal": "3.97",
+        "text": "3 hrs 58 mins",
+        "hours": 3,
+        "minutes": 58,
+        "seconds": 10,
+        "percent": 50.57
+      },
+      {
+        "name": "TSConfig",
+        "total_seconds": 12112.86092,
+        "digital": "3:21:52",
+        "decimal": "3.35",
+        "text": "3 hrs 21 mins",
+        "hours": 3,
+        "minutes": 21,
+        "seconds": 52,
+        "percent": 42.86
+      },
+      {
+        "name": "Kotlin",
+        "total_seconds": 1054.253685,
+        "digital": "0:17:34",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 34,
+        "percent": 3.73
+      },
+      {
+        "name": "Rust",
+        "total_seconds": 615.857007,
+        "digital": "0:10:15",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 15,
+        "percent": 2.18
+      },
+      {
+        "name": "PowerShell",
+        "total_seconds": 141.754162,
+        "digital": "0:02:21",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 21,
+        "percent": 0.5
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 28.902766,
+        "digital": "0:00:28",
+        "decimal": "0.00",
+        "text": "28 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 28,
+        "percent": 0.1
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 9.63778,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.03
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 5.121442,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.02
+      }
+    ],
+    "grand_total": {
+      "hours": 7,
+      "minutes": 50,
+      "total_seconds": 28258.417248,
+      "digital": "7:50",
+      "decimal": "7.83",
+      "text": "7 hrs 50 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 28221.91338,
+        "digital": "7:50:21",
+        "decimal": "7.83",
+        "text": "7 hrs 50 mins",
+        "hours": 7,
+        "minutes": 50,
+        "seconds": 21,
+        "percent": 99.87
+      },
+      {
+        "name": "Unknown Editor",
+        "total_seconds": 36.503868,
+        "digital": "0:00:36",
+        "decimal": "0.00",
+        "text": "36 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 36,
+        "percent": 0.13
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 28258.417248,
+        "digital": "7:50:58",
+        "decimal": "7.83",
+        "text": "7 hrs 50 mins",
+        "hours": 7,
+        "minutes": 50,
+        "seconds": 58,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 28258.417248,
+        "digital": "7:50:58",
+        "decimal": "7.83",
+        "text": "7 hrs 50 mins",
+        "hours": 7,
+        "minutes": 50,
+        "seconds": 58,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "com.google",
+        "total_seconds": 919.262028,
+        "digital": "0:15:19",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 19,
+        "percent": 41.89
+      },
+      {
+        "name": "bean.Pikpak",
+        "total_seconds": 919.262028,
+        "digital": "0:15:19",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 19,
+        "percent": 41.89
+      },
+      {
+        "name": "org.ktorm",
+        "total_seconds": 134.991657,
+        "digital": "0:02:14",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 14,
+        "percent": 6.15
+      },
+      {
+        "name": "org.springframework",
+        "total_seconds": 134.991657,
+        "digital": "0:02:14",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 14,
+        "percent": 6.15
+      },
+      {
+        "name": "App",
+        "total_seconds": 22.888658,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 1.04
+      },
+      {
+        "name": "vite",
+        "total_seconds": 13.43347,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.61
+      },
+      {
+        "name": "web",
+        "total_seconds": 13.3966,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.61
+      },
+      {
+        "name": "index",
+        "total_seconds": 13.3966,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.61
+      },
+      {
+        "name": "solid-js",
+        "total_seconds": 9.492058,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.43
+      },
+      {
+        "name": "solid",
+        "total_seconds": 9.492058,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.43
+      },
+      {
+        "name": "vite-plugin-solid",
+        "total_seconds": 3.941412,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.18
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng",
+        "total_seconds": 27642.560241,
+        "machine_name_id": "d40e0648-41ad-47c4-add7-ed407523aa22",
+        "digital": "7:40:42",
+        "decimal": "7.67",
+        "text": "7 hrs 40 mins",
+        "hours": 7,
+        "minutes": 40,
+        "seconds": 42,
+        "percent": 97.82
+      },
+      {
+        "name": "meng-desktop",
+        "total_seconds": 615.857007,
+        "machine_name_id": "814825ff-4309-474d-99da-12ea98a6b6ef",
+        "digital": "0:10:15",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 15,
+        "percent": 2.18
+      }
+    ],
+    "projects": [
+      {
+        "name": "Unknown Project",
+        "total_seconds": 15351.045676,
+        "color": null,
+        "digital": "4:15:51",
+        "decimal": "4.25",
+        "text": "4 hrs 15 mins",
+        "hours": 4,
+        "minutes": 15,
+        "seconds": 51,
+        "percent": 54.32
+      },
+      {
+        "name": "solid-demo-01",
+        "total_seconds": 12156.522908,
+        "color": null,
+        "digital": "3:22:36",
+        "decimal": "3.37",
+        "text": "3 hrs 22 mins",
+        "hours": 3,
+        "minutes": 22,
+        "seconds": 36,
+        "percent": 43.02
+      },
+      {
+        "name": "sysinfo",
+        "total_seconds": 615.857007,
+        "color": null,
+        "digital": "0:10:15",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 15,
+        "percent": 2.18
+      },
+      {
+        "name": "demo",
+        "total_seconds": 134.991657,
+        "color": null,
+        "digital": "0:02:14",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 14,
+        "percent": 0.48
+      }
+    ],
+    "range": {
+      "start": "2024-05-19T16:00:00Z",
+      "end": "2024-05-20T15:59:59Z",
+      "date": "2024-05-20",
+      "text": "Mon May 20th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
