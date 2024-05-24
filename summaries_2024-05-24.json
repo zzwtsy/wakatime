@@ -1,0 +1,166 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 2871.534,
+        "digital": "0:47:51",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 51,
+        "percent": 99.99
+      },
+      {
+        "name": "textmate",
+        "total_seconds": 0.261,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.01
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 47,
+      "total_seconds": 2871.795,
+      "digital": "0:47",
+      "decimal": "0.78",
+      "text": "47 mins"
+    },
+    "editors": [
+      {
+        "name": "Intellijidea",
+        "total_seconds": 2871.795,
+        "digital": "0:47:51",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 51,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2871.795,
+        "digital": "0:47:51",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 51,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2871.795,
+        "digital": "0:47:51",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 51,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "org.springframework",
+        "total_seconds": 2871.534,
+        "digital": "0:47:51",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 51,
+        "percent": 25.8
+      },
+      {
+        "name": "cn.zzwtsy",
+        "total_seconds": 2871.534,
+        "digital": "0:47:51",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 51,
+        "percent": 25.8
+      },
+      {
+        "name": "org.babyfish",
+        "total_seconds": 2869.405,
+        "digital": "0:47:49",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 49,
+        "percent": 25.78
+      },
+      {
+        "name": "org.slf4j",
+        "total_seconds": 2515.218,
+        "digital": "0:41:55",
+        "decimal": "0.68",
+        "text": "41 mins",
+        "hours": 0,
+        "minutes": 41,
+        "seconds": 55,
+        "percent": 22.6
+      },
+      {
+        "name": "org.aspectj",
+        "total_seconds": 2.129,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.02
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng-desktop",
+        "total_seconds": 2871.795,
+        "machine_name_id": "395b14dd-0227-453b-ac4e-7059943ccb84",
+        "digital": "0:47:51",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 51,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "chasing-dreams-crm",
+        "total_seconds": 2871.795,
+        "digital": "0:47:51",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 51,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-05-23T16:00:00Z",
+      "end": "2024-05-24T15:59:59Z",
+      "date": "2024-05-24",
+      "text": "Fri May 24th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
