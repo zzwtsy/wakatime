@@ -1,0 +1,188 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Markdown",
+        "total_seconds": 977.906,
+        "digital": "0:16:17",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 17,
+        "percent": 53.34
+      },
+      {
+        "name": "Kotlin",
+        "total_seconds": 850.516,
+        "digital": "0:14:10",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 10,
+        "percent": 46.39
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 4.247,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.23
+      },
+      {
+        "name": "SQL",
+        "total_seconds": 0.827,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.05
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 30,
+      "total_seconds": 1833.496,
+      "digital": "0:30",
+      "decimal": "0.50",
+      "text": "30 mins"
+    },
+    "editors": [
+      {
+        "name": "Intellijidea",
+        "total_seconds": 1833.496,
+        "digital": "0:30:33",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1833.496,
+        "digital": "0:30:33",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1833.496,
+        "digital": "0:30:33",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "org.jetbrains",
+        "total_seconds": 846.988,
+        "digital": "0:14:06",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 6,
+        "percent": 49.69
+      },
+      {
+        "name": "tech.argonariod",
+        "total_seconds": 846.988,
+        "digital": "0:14:06",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 6,
+        "percent": 49.69
+      },
+      {
+        "name": "com.fasterxml",
+        "total_seconds": 3.528,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.21
+      },
+      {
+        "name": "cn.zzwtsy",
+        "total_seconds": 3.528,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.21
+      },
+      {
+        "name": "org.babyfish",
+        "total_seconds": 3.528,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.21
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng-desktop",
+        "total_seconds": 1833.496,
+        "machine_name_id": "814825ff-4309-474d-99da-12ea98a6b6ef",
+        "digital": "0:30:33",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "chasing-dreams-crm",
+        "total_seconds": 1833.496,
+        "digital": "0:30:33",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-06-03T16:00:00Z",
+      "end": "2024-06-04T15:59:59Z",
+      "date": "2024-06-04",
+      "text": "Tue Jun 4th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
