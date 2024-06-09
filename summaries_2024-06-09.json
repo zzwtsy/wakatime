@@ -1,0 +1,364 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 13213.336519,
+        "digital": "3:40:13",
+        "decimal": "3.67",
+        "text": "3 hrs 40 mins",
+        "hours": 3,
+        "minutes": 40,
+        "seconds": 13,
+        "percent": 73.16
+      },
+      {
+        "name": "SQL",
+        "total_seconds": 1604.800585,
+        "digital": "0:26:44",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 44,
+        "percent": 8.89
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 1458.214235,
+        "digital": "0:24:18",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 18,
+        "percent": 8.07
+      },
+      {
+        "name": "Kotlin",
+        "total_seconds": 606.992,
+        "digital": "0:10:06",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 6,
+        "percent": 3.36
+      },
+      {
+        "name": "Other",
+        "total_seconds": 420.400439,
+        "digital": "0:07:00",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 0,
+        "percent": 2.33
+      },
+      {
+        "name": "XML",
+        "total_seconds": 372.445,
+        "digital": "0:06:12",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 12,
+        "percent": 2.06
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 272.183675,
+        "digital": "0:04:32",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 32,
+        "percent": 1.51
+      },
+      {
+        "name": "Go",
+        "total_seconds": 88.549018,
+        "digital": "0:01:28",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 28,
+        "percent": 0.49
+      },
+      {
+        "name": "Java Properties",
+        "total_seconds": 16.161,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.09
+      },
+      {
+        "name": "GitIgnore file",
+        "total_seconds": 8.595,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.05
+      }
+    ],
+    "grand_total": {
+      "hours": 5,
+      "minutes": 1,
+      "total_seconds": 18061.677471,
+      "digital": "5:01",
+      "decimal": "5.02",
+      "text": "5 hrs 1 min"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 17057.484471,
+        "digital": "4:44:17",
+        "decimal": "4.73",
+        "text": "4 hrs 44 mins",
+        "hours": 4,
+        "minutes": 44,
+        "seconds": 17,
+        "percent": 94.44
+      },
+      {
+        "name": "Intellijidea",
+        "total_seconds": 1004.193,
+        "digital": "0:16:44",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 44,
+        "percent": 5.56
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 18061.677471,
+        "digital": "5:01:01",
+        "decimal": "5.02",
+        "text": "5 hrs 1 min",
+        "hours": 5,
+        "minutes": 1,
+        "seconds": 1,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 17976.769881,
+        "digital": "4:59:36",
+        "decimal": "4.98",
+        "text": "4 hrs 59 mins",
+        "hours": 4,
+        "minutes": 59,
+        "seconds": 36,
+        "percent": 99.53
+      },
+      {
+        "name": "Building",
+        "total_seconds": 84.90759,
+        "digital": "0:01:24",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 24,
+        "percent": 0.47
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "io.ktor",
+        "total_seconds": 280.076,
+        "digital": "0:04:40",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 40,
+        "percent": 47.41
+      },
+      {
+        "name": "cn.zzwtsy",
+        "total_seconds": 155.641,
+        "digital": "0:02:35",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 35,
+        "percent": 26.35
+      },
+      {
+        "name": "kotlinx.css",
+        "total_seconds": 59.616,
+        "digital": "0:00:59",
+        "decimal": "0.00",
+        "text": "59 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 59,
+        "percent": 10.09
+      },
+      {
+        "name": "kotlinx.html",
+        "total_seconds": 59.616,
+        "digital": "0:00:59",
+        "decimal": "0.00",
+        "text": "59 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 59,
+        "percent": 10.09
+      },
+      {
+        "name": "org.babyfish",
+        "total_seconds": 29.998,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 5.08
+      },
+      {
+        "name": "kotlin.test",
+        "total_seconds": 4.855,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.82
+      },
+      {
+        "name": "org.springframework",
+        "total_seconds": 0.463,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.08
+      },
+      {
+        "name": "com.fasterxml",
+        "total_seconds": 0.283,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.05
+      },
+      {
+        "name": "org.slf4j",
+        "total_seconds": 0.18,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.03
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng-desktop",
+        "total_seconds": 18061.677471,
+        "machine_name_id": "ddff3399-7f0b-42a7-919a-6a56a6cb707f",
+        "digital": "5:01:01",
+        "decimal": "5.02",
+        "text": "5 hrs 1 min",
+        "hours": 5,
+        "minutes": 1,
+        "seconds": 1,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "one-panel-web-monitor",
+        "total_seconds": 13941.957462,
+        "digital": "3:52:21",
+        "decimal": "3.87",
+        "text": "3 hrs 52 mins",
+        "hours": 3,
+        "minutes": 52,
+        "seconds": 21,
+        "percent": 77.19
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 1604.800585,
+        "digital": "0:26:44",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 44,
+        "percent": 8.89
+      },
+      {
+        "name": "sysinfo",
+        "total_seconds": 1510.726424,
+        "digital": "0:25:10",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 10,
+        "percent": 8.36
+      },
+      {
+        "name": "1panel-web-monitor",
+        "total_seconds": 634.528,
+        "digital": "0:10:34",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 34,
+        "percent": 3.51
+      },
+      {
+        "name": "crm",
+        "total_seconds": 369.665,
+        "digital": "0:06:09",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 9,
+        "percent": 2.05
+      }
+    ],
+    "range": {
+      "start": "2024-06-08T16:00:00Z",
+      "end": "2024-06-09T15:59:59Z",
+      "date": "2024-06-09",
+      "text": "Sun Jun 9th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
