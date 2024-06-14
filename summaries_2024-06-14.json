@@ -1,0 +1,188 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Java",
+        "total_seconds": 2132.365,
+        "digital": "0:35:32",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 32,
+        "percent": 59.24
+      },
+      {
+        "name": "Kotlin",
+        "total_seconds": 1399.965,
+        "digital": "0:23:19",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 19,
+        "percent": 38.89
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 47.407,
+        "digital": "0:00:47",
+        "decimal": "0.00",
+        "text": "47 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 47,
+        "percent": 1.32
+      },
+      {
+        "name": "GUI_DESIGNER_FORM",
+        "total_seconds": 9.917,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.28
+      },
+      {
+        "name": "GitIgnore file",
+        "total_seconds": 9.891,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.27
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 59,
+      "total_seconds": 3599.545,
+      "digital": "0:59",
+      "decimal": "0.98",
+      "text": "59 mins"
+    },
+    "editors": [
+      {
+        "name": "Intellijidea",
+        "total_seconds": 3599.545,
+        "digital": "0:59:59",
+        "decimal": "0.98",
+        "text": "59 mins",
+        "hours": 0,
+        "minutes": 59,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 3599.545,
+        "digital": "0:59:59",
+        "decimal": "0.98",
+        "text": "59 mins",
+        "hours": 0,
+        "minutes": 59,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3599.545,
+        "digital": "0:59:59",
+        "decimal": "0.98",
+        "text": "59 mins",
+        "hours": 0,
+        "minutes": 59,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "cn.hwk",
+        "total_seconds": 209.59,
+        "digital": "0:03:29",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 29,
+        "percent": 83.87
+      },
+      {
+        "name": "formdev.flatlaf",
+        "total_seconds": 38.891,
+        "digital": "0:00:38",
+        "decimal": "0.00",
+        "text": "38 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 38,
+        "percent": 15.56
+      },
+      {
+        "name": "cn.zzwtsy",
+        "total_seconds": 1.406,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.56
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng-desktop",
+        "total_seconds": 3599.545,
+        "machine_name_id": "5ce98182-7677-4c9d-a22e-daaba19f5908",
+        "digital": "0:59:59",
+        "decimal": "0.98",
+        "text": "59 mins",
+        "hours": 0,
+        "minutes": 59,
+        "seconds": 59,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "vending-machine-swing",
+        "total_seconds": 2540.186,
+        "digital": "0:42:20",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 20,
+        "percent": 70.57
+      },
+      {
+        "name": "my-project",
+        "total_seconds": 1059.359,
+        "digital": "0:17:39",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 39,
+        "percent": 29.43
+      }
+    ],
+    "range": {
+      "start": "2024-06-13T16:00:00Z",
+      "end": "2024-06-14T15:59:59Z",
+      "date": "2024-06-14",
+      "text": "Fri Jun 14th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
