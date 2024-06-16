@@ -1,0 +1,132 @@
+[
+  {
+    "languages": [
+      {
+        "name": "YAML",
+        "total_seconds": 8149.454117,
+        "digital": "2:15:49",
+        "decimal": "2.25",
+        "text": "2 hrs 15 mins",
+        "hours": 2,
+        "minutes": 15,
+        "seconds": 49,
+        "percent": 65.15
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 2307.069885,
+        "digital": "0:38:27",
+        "decimal": "0.63",
+        "text": "38 mins",
+        "hours": 0,
+        "minutes": 38,
+        "seconds": 27,
+        "percent": 18.44
+      },
+      {
+        "name": "Other",
+        "total_seconds": 2052.465879,
+        "digital": "0:34:12",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 12,
+        "percent": 16.41
+      }
+    ],
+    "grand_total": {
+      "hours": 3,
+      "minutes": 28,
+      "total_seconds": 12508.989881,
+      "digital": "3:28",
+      "decimal": "3.47",
+      "text": "3 hrs 28 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 12508.989881,
+        "digital": "3:28:28",
+        "decimal": "3.47",
+        "text": "3 hrs 28 mins",
+        "hours": 3,
+        "minutes": 28,
+        "seconds": 28,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 12508.989881,
+        "digital": "3:28:28",
+        "decimal": "3.47",
+        "text": "3 hrs 28 mins",
+        "hours": 3,
+        "minutes": 28,
+        "seconds": 28,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 12508.989881,
+        "digital": "3:28:28",
+        "decimal": "3.47",
+        "text": "3 hrs 28 mins",
+        "hours": 3,
+        "minutes": 28,
+        "seconds": 28,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "meng-desktop",
+        "total_seconds": 12508.989881,
+        "machine_name_id": "5ce98182-7677-4c9d-a22e-daaba19f5908",
+        "digital": "3:28:28",
+        "decimal": "3.47",
+        "text": "3 hrs 28 mins",
+        "hours": 3,
+        "minutes": 28,
+        "seconds": 28,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "Unknown Project",
+        "total_seconds": 11570.892779,
+        "digital": "3:12:50",
+        "decimal": "3.20",
+        "text": "3 hrs 12 mins",
+        "hours": 3,
+        "minutes": 12,
+        "seconds": 50,
+        "percent": 92.5
+      },
+      {
+        "name": "qqwry",
+        "total_seconds": 938.097102,
+        "digital": "0:15:38",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 38,
+        "percent": 7.5
+      }
+    ],
+    "range": {
+      "start": "2024-06-15T16:00:00Z",
+      "end": "2024-06-16T15:59:59Z",
+      "date": "2024-06-16",
+      "text": "Sun Jun 16th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
