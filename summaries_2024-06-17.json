@@ -1,0 +1,188 @@
+[
+  {
+    "languages": [
+      {
+        "name": "HTML",
+        "total_seconds": 608.028361,
+        "digital": "0:10:08",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 8,
+        "percent": 100
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 10,
+      "total_seconds": 608.028361,
+      "digital": "0:10",
+      "decimal": "0.17",
+      "text": "10 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 608.028361,
+        "digital": "0:10:08",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 8,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 608.028361,
+        "digital": "0:10:08",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 8,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 608.028361,
+        "digital": "0:10:08",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 8,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"data/cache/common.js?SzK\"",
+        "total_seconds": 608.028361,
+        "digital": "0:10:08",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 8,
+        "percent": 12.5
+      },
+      {
+        "name": "\"https://17dbb31865cb3a8gg.9jxgqf.cn:8005/sc/4488?n=diqxkill\"",
+        "total_seconds": 608.028361,
+        "digital": "0:10:08",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 8,
+        "percent": 12.5
+      },
+      {
+        "name": "\"data/cache/html5notification.js?SzK\"",
+        "total_seconds": 608.028361,
+        "digital": "0:10:08",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 8,
+        "percent": 12.5
+      },
+      {
+        "name": "\"css/js/smain.js?20\"",
+        "total_seconds": 608.028361,
+        "digital": "0:10:08",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 8,
+        "percent": 12.5
+      },
+      {
+        "name": "\"https://hm.baidu.com/hm.js?0c759a09bb6ee745e163c498bc5d6846\"",
+        "total_seconds": 608.028361,
+        "digital": "0:10:08",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 8,
+        "percent": 12.5
+      },
+      {
+        "name": "\"data/cache/ajax.js?SzK\"",
+        "total_seconds": 608.028361,
+        "digital": "0:10:08",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 8,
+        "percent": 12.5
+      },
+      {
+        "name": "\"home.php?mod=spacecp&amp;ac=pm&amp;op=checknewpm&amp;rand=1718624787\"",
+        "total_seconds": 608.028361,
+        "digital": "0:10:08",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 8,
+        "percent": 12.5
+      },
+      {
+        "name": "\"css/js/jquery-3.6.0.min.js\"",
+        "total_seconds": 608.028361,
+        "digital": "0:10:08",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 8,
+        "percent": 12.5
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng-desktop",
+        "total_seconds": 608.028361,
+        "machine_name_id": "5ce98182-7677-4c9d-a22e-daaba19f5908",
+        "digital": "0:10:08",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 8,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "Unknown Project",
+        "total_seconds": 608.028361,
+        "digital": "0:10:08",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 8,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-06-16T16:00:00Z",
+      "end": "2024-06-17T15:59:59Z",
+      "date": "2024-06-17",
+      "text": "Mon Jun 17th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
