@@ -1,0 +1,133 @@
+[
+  {
+    "languages": [
+      {
+        "name": "HTML",
+        "total_seconds": 425.138257,
+        "digital": "0:07:05",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 5,
+        "percent": 100
+      },
+      {
+        "name": "Image (svg)",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 7,
+      "total_seconds": 425.138257,
+      "digital": "0:07",
+      "decimal": "0.12",
+      "text": "7 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 425.138257,
+        "digital": "0:07:05",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 425.138257,
+        "digital": "0:07:05",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 425.138257,
+        "digital": "0:07:05",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"/src/main.tsx\"",
+        "total_seconds": 425.138257,
+        "digital": "0:07:05",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng-desktop",
+        "total_seconds": 425.138257,
+        "machine_name_id": "5ce98182-7677-4c9d-a22e-daaba19f5908",
+        "digital": "0:07:05",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 5,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "wakatime-dashboard",
+        "total_seconds": 425.138257,
+        "digital": "0:07:05",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 5,
+        "percent": 100
+      },
+      {
+        "name": "blog",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "range": {
+      "start": "2024-06-20T16:00:00Z",
+      "end": "2024-06-21T15:59:59Z",
+      "date": "2024-06-21",
+      "text": "Fri Jun 21st 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
