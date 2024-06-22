@@ -1,0 +1,210 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JSON",
+        "total_seconds": 395.682768,
+        "digital": "0:06:35",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 35,
+        "percent": 52.03
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 346.759862,
+        "digital": "0:05:46",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 46,
+        "percent": 45.6
+      },
+      {
+        "name": "Other",
+        "total_seconds": 17.986117,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 2.37
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 12,
+      "total_seconds": 760.428747,
+      "digital": "0:12",
+      "decimal": "0.20",
+      "text": "12 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 760.428747,
+        "digital": "0:12:40",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 40,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 760.428747,
+        "digital": "0:12:40",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 40,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 760.428747,
+        "digital": "0:12:40",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 40,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "esbuild",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "npm",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "@types/react",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "notiflix",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "esbuild-plugin-less",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "compressing",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "@types/react-dom",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng-desktop",
+        "total_seconds": 760.428747,
+        "machine_name_id": "5ce98182-7677-4c9d-a22e-daaba19f5908",
+        "digital": "0:12:40",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 40,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "Unknown Project",
+        "total_seconds": 742.44263,
+        "digital": "0:12:22",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 22,
+        "percent": 97.63
+      },
+      {
+        "name": "RevivedUnblockInstaller",
+        "total_seconds": 17.986117,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 2.37
+      }
+    ],
+    "range": {
+      "start": "2024-06-21T16:00:00Z",
+      "end": "2024-06-22T15:59:59Z",
+      "date": "2024-06-22",
+      "text": "Sat Jun 22nd 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
