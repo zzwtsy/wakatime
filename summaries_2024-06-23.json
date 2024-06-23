@@ -1,0 +1,672 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 15636.472372,
+        "digital": "4:20:36",
+        "decimal": "4.33",
+        "text": "4 hrs 20 mins",
+        "hours": 4,
+        "minutes": 20,
+        "seconds": 36,
+        "percent": 54.33
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 4494.44718,
+        "digital": "1:14:54",
+        "decimal": "1.23",
+        "text": "1 hr 14 mins",
+        "hours": 1,
+        "minutes": 14,
+        "seconds": 54,
+        "percent": 15.61
+      },
+      {
+        "name": "Python",
+        "total_seconds": 4369.251063,
+        "digital": "1:12:49",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 49,
+        "percent": 15.18
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 2853.996848,
+        "digital": "0:47:33",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 33,
+        "percent": 9.92
+      },
+      {
+        "name": "Other",
+        "total_seconds": 1330.147915,
+        "digital": "0:22:10",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 10,
+        "percent": 4.62
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 52.288641,
+        "digital": "0:00:52",
+        "decimal": "0.00",
+        "text": "52 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 52,
+        "percent": 0.18
+      },
+      {
+        "name": "Docker",
+        "total_seconds": 16.957339,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.06
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 11.285256,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.04
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 11.204762,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.04
+      },
+      {
+        "name": "INI",
+        "total_seconds": 7.009426,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.02
+      }
+    ],
+    "grand_total": {
+      "hours": 7,
+      "minutes": 59,
+      "total_seconds": 28783.060802,
+      "digital": "7:59",
+      "decimal": "7.98",
+      "text": "7 hrs 59 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 28783.060802,
+        "digital": "7:59:43",
+        "decimal": "7.98",
+        "text": "7 hrs 59 mins",
+        "hours": 7,
+        "minutes": 59,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 28783.060802,
+        "digital": "7:59:43",
+        "decimal": "7.98",
+        "text": "7 hrs 59 mins",
+        "hours": 7,
+        "minutes": 59,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 20472.435923,
+        "digital": "5:41:12",
+        "decimal": "5.68",
+        "text": "5 hrs 41 mins",
+        "hours": 5,
+        "minutes": 41,
+        "seconds": 12,
+        "percent": 71.13
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 8310.624879,
+        "digital": "2:18:30",
+        "decimal": "2.30",
+        "text": "2 hrs 18 mins",
+        "hours": 2,
+        "minutes": 18,
+        "seconds": 30,
+        "percent": 28.87
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "urllib",
+        "total_seconds": 4369.251063,
+        "digital": "1:12:49",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 49,
+        "percent": 8.56
+      },
+      {
+        "name": "pprint",
+        "total_seconds": 4369.251063,
+        "digital": "1:12:49",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 49,
+        "percent": 8.56
+      },
+      {
+        "name": "base64",
+        "total_seconds": 4369.251063,
+        "digital": "1:12:49",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 49,
+        "percent": 8.56
+      },
+      {
+        "name": "reqable",
+        "total_seconds": 4369.251063,
+        "digital": "1:12:49",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 49,
+        "percent": 8.56
+      },
+      {
+        "name": "Crypto",
+        "total_seconds": 4369.251063,
+        "digital": "1:12:49",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 49,
+        "percent": 8.56
+      },
+      {
+        "name": "json",
+        "total_seconds": 4369.251063,
+        "digital": "1:12:49",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 49,
+        "percent": 8.56
+      },
+      {
+        "name": "notiflix",
+        "total_seconds": 2855.560925,
+        "digital": "0:47:35",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 35,
+        "percent": 5.6
+      },
+      {
+        "name": "config",
+        "total_seconds": 2837.627351,
+        "digital": "0:47:17",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 17,
+        "percent": 5.56
+      },
+      {
+        "name": "network",
+        "total_seconds": 2837.627351,
+        "digital": "0:47:17",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 17,
+        "percent": 5.56
+      },
+      {
+        "name": "npm",
+        "total_seconds": 823.351773,
+        "digital": "0:13:43",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 43,
+        "percent": 1.61
+      },
+      {
+        "name": "prettier",
+        "total_seconds": 805.418199,
+        "digital": "0:13:25",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 25,
+        "percent": 1.58
+      },
+      {
+        "name": "jest",
+        "total_seconds": 805.418199,
+        "digital": "0:13:25",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 25,
+        "percent": 1.58
+      },
+      {
+        "name": "@yarnpkg/sdks",
+        "total_seconds": 805.418199,
+        "digital": "0:13:25",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 25,
+        "percent": 1.58
+      },
+      {
+        "name": "core-js",
+        "total_seconds": 805.418199,
+        "digital": "0:13:25",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 25,
+        "percent": 1.58
+      },
+      {
+        "name": "node-windows",
+        "total_seconds": 805.418199,
+        "digital": "0:13:25",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 25,
+        "percent": 1.58
+      },
+      {
+        "name": "webpack",
+        "total_seconds": 805.418199,
+        "digital": "0:13:25",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 25,
+        "percent": 1.58
+      },
+      {
+        "name": "terser-webpack-plugin",
+        "total_seconds": 805.418199,
+        "digital": "0:13:25",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 25,
+        "percent": 1.58
+      },
+      {
+        "name": "@types/pino",
+        "total_seconds": 805.418199,
+        "digital": "0:13:25",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 25,
+        "percent": 1.58
+      },
+      {
+        "name": "pkg",
+        "total_seconds": 805.418199,
+        "digital": "0:13:25",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 25,
+        "percent": 1.58
+      },
+      {
+        "name": "@swc/core",
+        "total_seconds": 805.418199,
+        "digital": "0:13:25",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 25,
+        "percent": 1.58
+      },
+      {
+        "name": "pino",
+        "total_seconds": 805.418199,
+        "digital": "0:13:25",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 25,
+        "percent": 1.58
+      },
+      {
+        "name": "pino-pretty",
+        "total_seconds": 805.418199,
+        "digital": "0:13:25",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 25,
+        "percent": 1.58
+      },
+      {
+        "name": "swc-loader",
+        "total_seconds": 805.418199,
+        "digital": "0:13:25",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 25,
+        "percent": 1.58
+      },
+      {
+        "name": "typescript",
+        "total_seconds": 805.418199,
+        "digital": "0:13:25",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 25,
+        "percent": 1.58
+      },
+      {
+        "name": "webpack-cli",
+        "total_seconds": 805.418199,
+        "digital": "0:13:25",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 25,
+        "percent": 1.58
+      },
+      {
+        "name": "browserslist",
+        "total_seconds": 805.418199,
+        "digital": "0:13:25",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 25,
+        "percent": 1.58
+      },
+      {
+        "name": "@types/node",
+        "total_seconds": 805.418199,
+        "digital": "0:13:25",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 25,
+        "percent": 1.58
+      },
+      {
+        "name": "cross-env",
+        "total_seconds": 805.418199,
+        "digital": "0:13:25",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 25,
+        "percent": 1.58
+      },
+      {
+        "name": "unblock",
+        "total_seconds": 171.431657,
+        "digital": "0:02:51",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 51,
+        "percent": 0.34
+      },
+      {
+        "name": "RoundRectBtn",
+        "total_seconds": 171.431657,
+        "digital": "0:02:51",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 51,
+        "percent": 0.34
+      },
+      {
+        "name": "Badge",
+        "total_seconds": 171.431657,
+        "digital": "0:02:51",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 51,
+        "percent": 0.34
+      },
+      {
+        "name": "Input",
+        "total_seconds": 171.431657,
+        "digital": "0:02:51",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 51,
+        "percent": 0.34
+      },
+      {
+        "name": "VersionSelector",
+        "total_seconds": 171.431657,
+        "digital": "0:02:51",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 51,
+        "percent": 0.34
+      },
+      {
+        "name": "@types/react",
+        "total_seconds": 17.933574,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 0.04
+      },
+      {
+        "name": "compressing",
+        "total_seconds": 17.933574,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 0.04
+      },
+      {
+        "name": "esbuild",
+        "total_seconds": 17.933574,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 0.04
+      },
+      {
+        "name": "esbuild-plugin-less",
+        "total_seconds": 17.933574,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 0.04
+      },
+      {
+        "name": "@types/react-dom",
+        "total_seconds": 17.933574,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 0.04
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng-desktop",
+        "total_seconds": 28783.060802,
+        "machine_name_id": "5ce98182-7677-4c9d-a22e-daaba19f5908",
+        "digital": "7:59:43",
+        "decimal": "7.98",
+        "text": "7 hrs 59 mins",
+        "hours": 7,
+        "minutes": 59,
+        "seconds": 43,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "server",
+        "total_seconds": 19125.904133,
+        "digital": "5:18:45",
+        "decimal": "5.30",
+        "text": "5 hrs 18 mins",
+        "hours": 5,
+        "minutes": 18,
+        "seconds": 45,
+        "percent": 66.45
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 4633.226572,
+        "digital": "1:17:13",
+        "decimal": "1.28",
+        "text": "1 hr 17 mins",
+        "hours": 1,
+        "minutes": 17,
+        "seconds": 13,
+        "percent": 16.1
+      },
+      {
+        "name": "RevivedUnblockInstaller",
+        "total_seconds": 3383.702351,
+        "digital": "0:56:23",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 23,
+        "percent": 11.76
+      },
+      {
+        "name": "Documents",
+        "total_seconds": 885.986715,
+        "digital": "0:14:45",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 45,
+        "percent": 3.08
+      },
+      {
+        "name": "tmp",
+        "total_seconds": 754.241031,
+        "digital": "0:12:34",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 34,
+        "percent": 2.62
+      }
+    ],
+    "range": {
+      "start": "2024-06-22T16:00:00Z",
+      "end": "2024-06-23T15:59:59Z",
+      "date": "2024-06-23",
+      "text": "Sun Jun 23rd 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
