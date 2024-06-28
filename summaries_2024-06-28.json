@@ -1,0 +1,110 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JSON",
+        "total_seconds": 2.081873,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 100
+      },
+      {
+        "name": "Other",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 2.081873,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2.081873,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2.081873,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2.081873,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "meng-desktop",
+        "total_seconds": 2.081873,
+        "machine_name_id": "5ce98182-7677-4c9d-a22e-daaba19f5908",
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "Unknown Project",
+        "total_seconds": 2.081873,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-06-27T16:00:00Z",
+      "end": "2024-06-28T15:59:59Z",
+      "date": "2024-06-28",
+      "text": "Fri Jun 28th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
