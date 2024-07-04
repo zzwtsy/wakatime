@@ -1,0 +1,187 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 6981.611562,
+        "digital": "1:56:21",
+        "decimal": "1.93",
+        "text": "1 hr 56 mins",
+        "hours": 1,
+        "minutes": 56,
+        "seconds": 21,
+        "percent": 45.66
+      },
+      {
+        "name": "Dart",
+        "total_seconds": 3336.27577,
+        "digital": "0:55:36",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 36,
+        "percent": 21.82
+      },
+      {
+        "name": "XML",
+        "total_seconds": 2265.641422,
+        "digital": "0:37:45",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 45,
+        "percent": 14.82
+      },
+      {
+        "name": "Text",
+        "total_seconds": 1917.899382,
+        "digital": "0:31:57",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 57,
+        "percent": 12.54
+      },
+      {
+        "name": "Other",
+        "total_seconds": 578.954888,
+        "digital": "0:09:38",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 38,
+        "percent": 3.79
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 209.245594,
+        "digital": "0:03:29",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 29,
+        "percent": 1.37
+      }
+    ],
+    "grand_total": {
+      "hours": 4,
+      "minutes": 14,
+      "total_seconds": 15289.628618,
+      "digital": "4:14",
+      "decimal": "4.23",
+      "text": "4 hrs 14 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 15289.628618,
+        "digital": "4:14:49",
+        "decimal": "4.23",
+        "text": "4 hrs 14 mins",
+        "hours": 4,
+        "minutes": 14,
+        "seconds": 49,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 15289.628618,
+        "digital": "4:14:49",
+        "decimal": "4.23",
+        "text": "4 hrs 14 mins",
+        "hours": 4,
+        "minutes": 14,
+        "seconds": 49,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 15289.628618,
+        "digital": "4:14:49",
+        "decimal": "4.23",
+        "text": "4 hrs 14 mins",
+        "hours": 4,
+        "minutes": 14,
+        "seconds": 49,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "meng-desktop",
+        "total_seconds": 15289.628618,
+        "machine_name_id": "11f8978a-9ec3-4581-93eb-d091d44b9424",
+        "digital": "4:14:49",
+        "decimal": "4.23",
+        "text": "4 hrs 14 mins",
+        "hours": 4,
+        "minutes": 14,
+        "seconds": 49,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "blutter",
+        "total_seconds": 14672.32383,
+        "digital": "4:04:32",
+        "decimal": "4.07",
+        "text": "4 hrs 4 mins",
+        "hours": 4,
+        "minutes": 4,
+        "seconds": 32,
+        "percent": 95.96
+      },
+      {
+        "name": "flutter_application_1",
+        "total_seconds": 433.924026,
+        "digital": "0:07:13",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 13,
+        "percent": 2.84
+      },
+      {
+        "name": "frida-agent-example",
+        "total_seconds": 183.380762,
+        "digital": "0:03:03",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 3,
+        "percent": 1.2
+      },
+      {
+        "name": "untitled",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "range": {
+      "start": "2024-07-03T16:00:00Z",
+      "end": "2024-07-04T15:59:59Z",
+      "date": "2024-07-04",
+      "text": "Thu Jul 4th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
