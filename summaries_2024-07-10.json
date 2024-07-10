@@ -1,0 +1,210 @@
+[
+  {
+    "languages": [
+      {
+        "name": "MDX",
+        "total_seconds": 1220.989638,
+        "digital": "0:20:20",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 20,
+        "percent": 41.92
+      },
+      {
+        "name": "Astro",
+        "total_seconds": 1049.830768,
+        "digital": "0:17:29",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 29,
+        "percent": 36.04
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 640.167976,
+        "digital": "0:10:40",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 40,
+        "percent": 21.98
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 1.630616,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.06
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 48,
+      "total_seconds": 2912.618998,
+      "digital": "0:48",
+      "decimal": "0.80",
+      "text": "48 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2912.618998,
+        "digital": "0:48:32",
+        "decimal": "0.80",
+        "text": "48 mins",
+        "hours": 0,
+        "minutes": 48,
+        "seconds": 32,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2912.618998,
+        "digital": "0:48:32",
+        "decimal": "0.80",
+        "text": "48 mins",
+        "hours": 0,
+        "minutes": 48,
+        "seconds": 32,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2912.618998,
+        "digital": "0:48:32",
+        "decimal": "0.80",
+        "text": "48 mins",
+        "hours": 0,
+        "minutes": 48,
+        "seconds": 32,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "mdx",
+        "total_seconds": 640.167976,
+        "digital": "0:10:40",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 40,
+        "percent": 19.98
+      },
+      {
+        "name": "sitemap",
+        "total_seconds": 640.167976,
+        "digital": "0:10:40",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 40,
+        "percent": 19.98
+      },
+      {
+        "name": "tailwind",
+        "total_seconds": 640.167976,
+        "digital": "0:10:40",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 40,
+        "percent": 19.98
+      },
+      {
+        "name": "react",
+        "total_seconds": 640.167976,
+        "digital": "0:10:40",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 40,
+        "percent": 19.98
+      },
+      {
+        "name": "config",
+        "total_seconds": 640.167976,
+        "digital": "0:10:40",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 40,
+        "percent": 19.98
+      },
+      {
+        "name": "tailwind-merge",
+        "total_seconds": 1.630616,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.05
+      },
+      {
+        "name": "clsx",
+        "total_seconds": 1.630616,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.05
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng-desktop",
+        "total_seconds": 2912.618998,
+        "machine_name_id": "5ce98182-7677-4c9d-a22e-daaba19f5908",
+        "digital": "0:48:32",
+        "decimal": "0.80",
+        "text": "48 mins",
+        "hours": 0,
+        "minutes": 48,
+        "seconds": 32,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "blog",
+        "total_seconds": 2912.618998,
+        "digital": "0:48:32",
+        "decimal": "0.80",
+        "text": "48 mins",
+        "hours": 0,
+        "minutes": 48,
+        "seconds": 32,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-07-09T16:00:00Z",
+      "end": "2024-07-10T15:59:59Z",
+      "date": "2024-07-10",
+      "text": "Wed Jul 10th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
