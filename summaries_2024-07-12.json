@@ -1,0 +1,165 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Dart",
+        "total_seconds": 15974.249279,
+        "digital": "4:26:14",
+        "decimal": "4.43",
+        "text": "4 hrs 26 mins",
+        "hours": 4,
+        "minutes": 26,
+        "seconds": 14,
+        "percent": 44.94
+      },
+      {
+        "name": "Other",
+        "total_seconds": 14833.143221,
+        "digital": "4:07:13",
+        "decimal": "4.12",
+        "text": "4 hrs 7 mins",
+        "hours": 4,
+        "minutes": 7,
+        "seconds": 13,
+        "percent": 41.73
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 3840.997646,
+        "digital": "1:04:00",
+        "decimal": "1.07",
+        "text": "1 hr 4 mins",
+        "hours": 1,
+        "minutes": 4,
+        "seconds": 0,
+        "percent": 10.81
+      },
+      {
+        "name": "XML",
+        "total_seconds": 694.503902,
+        "digital": "0:11:34",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 34,
+        "percent": 1.95
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 200.516402,
+        "digital": "0:03:20",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 20,
+        "percent": 0.56
+      },
+      {
+        "name": "Text",
+        "total_seconds": 1.573746,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 9,
+      "minutes": 52,
+      "total_seconds": 35544.984196,
+      "digital": "9:52",
+      "decimal": "9.87",
+      "text": "9 hrs 52 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 35544.984196,
+        "digital": "9:52:24",
+        "decimal": "9.87",
+        "text": "9 hrs 52 mins",
+        "hours": 9,
+        "minutes": 52,
+        "seconds": 24,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 35544.984196,
+        "digital": "9:52:24",
+        "decimal": "9.87",
+        "text": "9 hrs 52 mins",
+        "hours": 9,
+        "minutes": 52,
+        "seconds": 24,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 35544.984196,
+        "digital": "9:52:24",
+        "decimal": "9.87",
+        "text": "9 hrs 52 mins",
+        "hours": 9,
+        "minutes": 52,
+        "seconds": 24,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "meng-desktop",
+        "total_seconds": 35544.984196,
+        "machine_name_id": "5ce98182-7677-4c9d-a22e-daaba19f5908",
+        "digital": "9:52:24",
+        "decimal": "9.87",
+        "text": "9 hrs 52 mins",
+        "hours": 9,
+        "minutes": 52,
+        "seconds": 24,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "blutter",
+        "total_seconds": 27805.955939,
+        "digital": "7:43:25",
+        "decimal": "7.72",
+        "text": "7 hrs 43 mins",
+        "hours": 7,
+        "minutes": 43,
+        "seconds": 25,
+        "percent": 78.23
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 7739.028257,
+        "digital": "2:08:59",
+        "decimal": "2.13",
+        "text": "2 hrs 8 mins",
+        "hours": 2,
+        "minutes": 8,
+        "seconds": 59,
+        "percent": 21.77
+      }
+    ],
+    "range": {
+      "start": "2024-07-11T16:00:00Z",
+      "end": "2024-07-12T15:59:59Z",
+      "date": "2024-07-12",
+      "text": "Fri Jul 12th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
