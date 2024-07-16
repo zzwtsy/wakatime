@@ -1,0 +1,165 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 30005.266414,
+        "digital": "8:20:05",
+        "decimal": "8.33",
+        "text": "8 hrs 20 mins",
+        "hours": 8,
+        "minutes": 20,
+        "seconds": 5,
+        "percent": 75.73
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 5790.405908,
+        "digital": "1:36:30",
+        "decimal": "1.60",
+        "text": "1 hr 36 mins",
+        "hours": 1,
+        "minutes": 36,
+        "seconds": 30,
+        "percent": 14.61
+      },
+      {
+        "name": "Other",
+        "total_seconds": 1951.296291,
+        "digital": "0:32:31",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 31,
+        "percent": 4.92
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 1872.235419,
+        "digital": "0:31:12",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 12,
+        "percent": 4.73
+      },
+      {
+        "name": "Git",
+        "total_seconds": 2.891996,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.01
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 0.468513,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 11,
+      "minutes": 0,
+      "total_seconds": 39622.564541,
+      "digital": "11:00",
+      "decimal": "11.00",
+      "text": "11 hrs"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 39622.564541,
+        "digital": "11:00:22",
+        "decimal": "11.00",
+        "text": "11 hrs",
+        "hours": 11,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 39622.564541,
+        "digital": "11:00:22",
+        "decimal": "11.00",
+        "text": "11 hrs",
+        "hours": 11,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 39211.268485,
+        "digital": "10:53:31",
+        "decimal": "10.88",
+        "text": "10 hrs 53 mins",
+        "hours": 10,
+        "minutes": 53,
+        "seconds": 31,
+        "percent": 98.96
+      },
+      {
+        "name": "Building",
+        "total_seconds": 411.296056,
+        "digital": "0:06:51",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 51,
+        "percent": 1.04
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "meng-desktop",
+        "total_seconds": 39622.564541,
+        "machine_name_id": "5ce98182-7677-4c9d-a22e-daaba19f5908",
+        "digital": "11:00:22",
+        "decimal": "11.00",
+        "text": "11 hrs",
+        "hours": 11,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "sysinfo",
+        "total_seconds": 39622.564541,
+        "digital": "11:00:22",
+        "decimal": "11.00",
+        "text": "11 hrs",
+        "hours": 11,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-07-15T16:00:00Z",
+      "end": "2024-07-16T15:59:59Z",
+      "date": "2024-07-16",
+      "text": "Tue Jul 16th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
