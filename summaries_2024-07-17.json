@@ -1,0 +1,497 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 14196.895734,
+        "digital": "3:56:36",
+        "decimal": "3.93",
+        "text": "3 hrs 56 mins",
+        "hours": 3,
+        "minutes": 56,
+        "seconds": 36,
+        "percent": 39.85
+      },
+      {
+        "name": "Other",
+        "total_seconds": 8339.627135,
+        "digital": "2:18:59",
+        "decimal": "2.30",
+        "text": "2 hrs 18 mins",
+        "hours": 2,
+        "minutes": 18,
+        "seconds": 59,
+        "percent": 23.41
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 4858.208989,
+        "digital": "1:20:58",
+        "decimal": "1.33",
+        "text": "1 hr 20 mins",
+        "hours": 1,
+        "minutes": 20,
+        "seconds": 58,
+        "percent": 13.64
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 2747.335484,
+        "digital": "0:45:47",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 47,
+        "percent": 7.71
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 1931.303489,
+        "digital": "0:32:11",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 11,
+        "percent": 5.42
+      },
+      {
+        "name": "Bash",
+        "total_seconds": 1205.624687,
+        "digital": "0:20:05",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 5,
+        "percent": 3.38
+      },
+      {
+        "name": "Text",
+        "total_seconds": 814.867666,
+        "digital": "0:13:34",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 34,
+        "percent": 2.29
+      },
+      {
+        "name": "Makefile",
+        "total_seconds": 622.37697,
+        "digital": "0:10:22",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 22,
+        "percent": 1.75
+      },
+      {
+        "name": "Gettext Catalog",
+        "total_seconds": 367.58467,
+        "digital": "0:06:07",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 7,
+        "percent": 1.03
+      },
+      {
+        "name": "C",
+        "total_seconds": 188.882266,
+        "digital": "0:03:08",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 8,
+        "percent": 0.53
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 126.287691,
+        "digital": "0:02:06",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 6,
+        "percent": 0.35
+      },
+      {
+        "name": "XML",
+        "total_seconds": 124.542651,
+        "digital": "0:02:04",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 4,
+        "percent": 0.35
+      },
+      {
+        "name": "Diff",
+        "total_seconds": 41.073558,
+        "digital": "0:00:41",
+        "decimal": "0.00",
+        "text": "41 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 41,
+        "percent": 0.12
+      },
+      {
+        "name": "Lua",
+        "total_seconds": 32.770638,
+        "digital": "0:00:32",
+        "decimal": "0.00",
+        "text": "32 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 32,
+        "percent": 0.09
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 31.755167,
+        "digital": "0:00:31",
+        "decimal": "0.00",
+        "text": "31 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 31,
+        "percent": 0.09
+      }
+    ],
+    "grand_total": {
+      "hours": 9,
+      "minutes": 53,
+      "total_seconds": 35629.136795,
+      "digital": "9:53",
+      "decimal": "9.88",
+      "text": "9 hrs 53 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 35629.136795,
+        "digital": "9:53:49",
+        "decimal": "9.88",
+        "text": "9 hrs 53 mins",
+        "hours": 9,
+        "minutes": 53,
+        "seconds": 49,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 25448.037454,
+        "digital": "7:04:08",
+        "decimal": "7.07",
+        "text": "7 hrs 4 mins",
+        "hours": 7,
+        "minutes": 4,
+        "seconds": 8,
+        "percent": 71.42
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 10181.099341,
+        "digital": "2:49:41",
+        "decimal": "2.82",
+        "text": "2 hrs 49 mins",
+        "hours": 2,
+        "minutes": 49,
+        "seconds": 41,
+        "percent": 28.58
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 35627.987299,
+        "digital": "9:53:47",
+        "decimal": "9.88",
+        "text": "9 hrs 53 mins",
+        "hours": 9,
+        "minutes": 53,
+        "seconds": 47,
+        "percent": 100
+      },
+      {
+        "name": "Building",
+        "total_seconds": 1.149496,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "asm",
+        "total_seconds": 114.566543,
+        "digital": "0:01:54",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 54,
+        "percent": 17.85
+      },
+      {
+        "name": "linux",
+        "total_seconds": 114.566543,
+        "digital": "0:01:54",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 54,
+        "percent": 17.85
+      },
+      {
+        "name": "unistd",
+        "total_seconds": 74.315723,
+        "digital": "0:01:14",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 14,
+        "percent": 11.58
+      },
+      {
+        "name": "stdarg",
+        "total_seconds": 59.893326,
+        "digital": "0:00:59",
+        "decimal": "0.00",
+        "text": "59 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 59,
+        "percent": 9.33
+      },
+      {
+        "name": "assert",
+        "total_seconds": 59.893326,
+        "digital": "0:00:59",
+        "decimal": "0.00",
+        "text": "59 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 59,
+        "percent": 9.33
+      },
+      {
+        "name": "ctype",
+        "total_seconds": 59.893326,
+        "digital": "0:00:59",
+        "decimal": "0.00",
+        "text": "59 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 59,
+        "percent": 9.33
+      },
+      {
+        "name": "dirent",
+        "total_seconds": 14.422397,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 2.25
+      },
+      {
+        "name": "iwinfo",
+        "total_seconds": 14.422397,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 2.25
+      },
+      {
+        "name": "signal",
+        "total_seconds": 14.422397,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 2.25
+      },
+      {
+        "name": "inttypes",
+        "total_seconds": 14.422397,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 2.25
+      },
+      {
+        "name": "errno",
+        "total_seconds": 14.422397,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 2.25
+      },
+      {
+        "name": "endian",
+        "total_seconds": 14.422397,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 2.25
+      },
+      {
+        "name": "sys",
+        "total_seconds": 14.422397,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 2.25
+      },
+      {
+        "name": "stdint",
+        "total_seconds": 14.422397,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 2.25
+      },
+      {
+        "name": "fcntl",
+        "total_seconds": 14.422397,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 2.25
+      },
+      {
+        "name": "dlfcn",
+        "total_seconds": 14.422397,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 2.25
+      },
+      {
+        "name": "arpa",
+        "total_seconds": 14.422397,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 2.25
+      }
+    ],
+    "machines": [
+      {
+        "name": "archlinux",
+        "total_seconds": 25448.037454,
+        "machine_name_id": "9644574c-1ba1-4809-ac32-87836060a06d",
+        "digital": "7:04:08",
+        "decimal": "7.07",
+        "text": "7 hrs 4 mins",
+        "hours": 7,
+        "minutes": 4,
+        "seconds": 8,
+        "percent": 71.42
+      },
+      {
+        "name": "meng-desktop",
+        "total_seconds": 10181.099341,
+        "machine_name_id": "ddff3399-7f0b-42a7-919a-6a56a6cb707f",
+        "digital": "2:49:41",
+        "decimal": "2.82",
+        "text": "2 hrs 49 mins",
+        "hours": 2,
+        "minutes": 49,
+        "seconds": 41,
+        "percent": 28.58
+      }
+    ],
+    "projects": [
+      {
+        "name": "sysinfo",
+        "total_seconds": 18453.202615,
+        "digital": "5:07:33",
+        "decimal": "5.12",
+        "text": "5 hrs 7 mins",
+        "hours": 5,
+        "minutes": 7,
+        "seconds": 33,
+        "percent": 51.79
+      },
+      {
+        "name": "immortalwrt",
+        "total_seconds": 9689.54213,
+        "digital": "2:41:29",
+        "decimal": "2.68",
+        "text": "2 hrs 41 mins",
+        "hours": 2,
+        "minutes": 41,
+        "seconds": 29,
+        "percent": 27.2
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 7486.39205,
+        "digital": "2:04:46",
+        "decimal": "2.07",
+        "text": "2 hrs 4 mins",
+        "hours": 2,
+        "minutes": 4,
+        "seconds": 46,
+        "percent": 21.01
+      }
+    ],
+    "range": {
+      "start": "2024-07-16T16:00:00Z",
+      "end": "2024-07-17T15:59:59Z",
+      "date": "2024-07-17",
+      "text": "Wed Jul 17th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
