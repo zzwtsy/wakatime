@@ -1,0 +1,187 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 32790.10968,
+        "digital": "9:06:30",
+        "decimal": "9.10",
+        "text": "9 hrs 6 mins",
+        "hours": 9,
+        "minutes": 6,
+        "seconds": 30,
+        "percent": 73.72
+      },
+      {
+        "name": "Protocol Buffer",
+        "total_seconds": 10148.67284,
+        "digital": "2:49:08",
+        "decimal": "2.82",
+        "text": "2 hrs 49 mins",
+        "hours": 2,
+        "minutes": 49,
+        "seconds": 8,
+        "percent": 22.82
+      },
+      {
+        "name": "Other",
+        "total_seconds": 866.47582,
+        "digital": "0:14:26",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 26,
+        "percent": 1.95
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 439.954963,
+        "digital": "0:07:19",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 19,
+        "percent": 0.99
+      },
+      {
+        "name": "SQL",
+        "total_seconds": 231.762857,
+        "digital": "0:03:51",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 51,
+        "percent": 0.52
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 0.471475,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 12,
+      "minutes": 21,
+      "total_seconds": 44477.447635,
+      "digital": "12:21",
+      "decimal": "12.35",
+      "text": "12 hrs 21 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 44477.447635,
+        "digital": "12:21:17",
+        "decimal": "12.35",
+        "text": "12 hrs 21 mins",
+        "hours": 12,
+        "minutes": 21,
+        "seconds": 17,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 44477.447635,
+        "digital": "12:21:17",
+        "decimal": "12.35",
+        "text": "12 hrs 21 mins",
+        "hours": 12,
+        "minutes": 21,
+        "seconds": 17,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 44457.262259,
+        "digital": "12:20:57",
+        "decimal": "12.33",
+        "text": "12 hrs 20 mins",
+        "hours": 12,
+        "minutes": 20,
+        "seconds": 57,
+        "percent": 99.95
+      },
+      {
+        "name": "Building",
+        "total_seconds": 12.888954,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.03
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 7.296422,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.02
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "meng-desktop",
+        "total_seconds": 44477.447635,
+        "machine_name_id": "ddff3399-7f0b-42a7-919a-6a56a6cb707f",
+        "digital": "12:21:17",
+        "decimal": "12.35",
+        "text": "12 hrs 21 mins",
+        "hours": 12,
+        "minutes": 21,
+        "seconds": 17,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "server_monitor",
+        "total_seconds": 37603.35692,
+        "digital": "10:26:43",
+        "decimal": "10.43",
+        "text": "10 hrs 26 mins",
+        "hours": 10,
+        "minutes": 26,
+        "seconds": 43,
+        "percent": 84.54
+      },
+      {
+        "name": "sysinfo",
+        "total_seconds": 6874.090715,
+        "digital": "1:54:34",
+        "decimal": "1.90",
+        "text": "1 hr 54 mins",
+        "hours": 1,
+        "minutes": 54,
+        "seconds": 34,
+        "percent": 15.46
+      }
+    ],
+    "range": {
+      "start": "2024-07-18T16:00:00Z",
+      "end": "2024-07-19T15:59:59Z",
+      "date": "2024-07-19",
+      "text": "Fri Jul 19th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
