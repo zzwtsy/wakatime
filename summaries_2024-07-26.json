@@ -1,0 +1,782 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Vue.js",
+        "total_seconds": 17600.906,
+        "digital": "4:53:20",
+        "decimal": "4.88",
+        "text": "4 hrs 53 mins",
+        "hours": 4,
+        "minutes": 53,
+        "seconds": 20,
+        "percent": 85.92
+      },
+      {
+        "name": "Kotlin",
+        "total_seconds": 1938.917,
+        "digital": "0:32:18",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 18,
+        "percent": 9.46
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 449.801,
+        "digital": "0:07:29",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 29,
+        "percent": 2.2
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 406.103,
+        "digital": "0:06:46",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 46,
+        "percent": 1.98
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.38
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 12.14,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.06
+      }
+    ],
+    "grand_total": {
+      "hours": 5,
+      "minutes": 41,
+      "total_seconds": 20486.074,
+      "digital": "5:41",
+      "decimal": "5.68",
+      "text": "5 hrs 41 mins"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ IDEA",
+        "total_seconds": 15539.164349,
+        "digital": "4:18:59",
+        "decimal": "4.30",
+        "text": "4 hrs 18 mins",
+        "hours": 4,
+        "minutes": 18,
+        "seconds": 59,
+        "percent": 75.85
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 4946.909651,
+        "digital": "1:22:26",
+        "decimal": "1.37",
+        "text": "1 hr 22 mins",
+        "hours": 1,
+        "minutes": 22,
+        "seconds": 26,
+        "percent": 24.15
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 20486.074,
+        "digital": "5:41:26",
+        "decimal": "5.68",
+        "text": "5 hrs 41 mins",
+        "hours": 5,
+        "minutes": 41,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 20486.074,
+        "digital": "5:41:26",
+        "decimal": "5.68",
+        "text": "5 hrs 41 mins",
+        "hours": 5,
+        "minutes": 41,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "org.babyfish",
+        "total_seconds": 1730.105,
+        "digital": "0:28:50",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 50,
+        "percent": 12.08
+      },
+      {
+        "name": "cn.zzwtsy",
+        "total_seconds": 1690.567,
+        "digital": "0:28:10",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 10,
+        "percent": 11.8
+      },
+      {
+        "name": "com.fasterxml",
+        "total_seconds": 1654.593,
+        "digital": "0:27:34",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 34,
+        "percent": 11.55
+      },
+      {
+        "name": "jakarta.websocket",
+        "total_seconds": 1641.482,
+        "digital": "0:27:21",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 21,
+        "percent": 11.46
+      },
+      {
+        "name": "org.slf4j",
+        "total_seconds": 1641.482,
+        "digital": "0:27:21",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 21,
+        "percent": 11.46
+      },
+      {
+        "name": "org.springframework",
+        "total_seconds": 1641.482,
+        "digital": "0:27:21",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 21,
+        "percent": 11.46
+      },
+      {
+        "name": "adm-zip",
+        "total_seconds": 311.49,
+        "digital": "0:05:11",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 11,
+        "percent": 2.17
+      },
+      {
+        "name": "uuid",
+        "total_seconds": 311.483,
+        "digital": "0:05:11",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 11,
+        "percent": 2.17
+      },
+      {
+        "name": "fs-extra",
+        "total_seconds": 281.552,
+        "digital": "0:04:41",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 41,
+        "percent": 1.97
+      },
+      {
+        "name": "temp-dir",
+        "total_seconds": 276.389,
+        "digital": "0:04:36",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 36,
+        "percent": 1.93
+      },
+      {
+        "name": "fs",
+        "total_seconds": 233.283,
+        "digital": "0:03:53",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 53,
+        "percent": 1.63
+      },
+      {
+        "name": "http",
+        "total_seconds": 233.283,
+        "digital": "0:03:53",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 53,
+        "percent": 1.63
+      },
+      {
+        "name": "pinia",
+        "total_seconds": 187.334,
+        "digital": "0:03:07",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 7,
+        "percent": 1.31
+      },
+      {
+        "name": "vue",
+        "total_seconds": 187.334,
+        "digital": "0:03:07",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 7,
+        "percent": 1.31
+      },
+      {
+        "name": "vue-router",
+        "total_seconds": 82.256,
+        "digital": "0:01:22",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 22,
+        "percent": 0.57
+      },
+      {
+        "name": "@tsconfig/node20",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.55
+      },
+      {
+        "name": "@rushstack/eslint-patch",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.55
+      },
+      {
+        "name": "npm",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.55
+      },
+      {
+        "name": "prettier",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.55
+      },
+      {
+        "name": "@vue/eslint-config-typescript",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.55
+      },
+      {
+        "name": "vue-tsc",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.55
+      },
+      {
+        "name": "typescript",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.55
+      },
+      {
+        "name": "eslint-plugin-vue",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.55
+      },
+      {
+        "name": "radix-vue",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.55
+      },
+      {
+        "name": "autoprefixer",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.55
+      },
+      {
+        "name": "tailwindcss",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.55
+      },
+      {
+        "name": "@vitejs/plugin-vue",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.55
+      },
+      {
+        "name": "flag-icons",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.55
+      },
+      {
+        "name": "@types/node",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.55
+      },
+      {
+        "name": "tailwind-merge",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.55
+      },
+      {
+        "name": "@vue/eslint-config-prettier",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.55
+      },
+      {
+        "name": "tailwindcss-animate",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.55
+      },
+      {
+        "name": "npm-run-all2",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.55
+      },
+      {
+        "name": "postcss",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.55
+      },
+      {
+        "name": "lucide-vue-next",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.55
+      },
+      {
+        "name": "clsx",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.55
+      },
+      {
+        "name": "vite",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.55
+      },
+      {
+        "name": "https-proxy-agent",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.55
+      },
+      {
+        "name": "eslint",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.55
+      },
+      {
+        "name": "@vueuse/core",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.55
+      },
+      {
+        "name": "@vue/tsconfig",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.55
+      },
+      {
+        "name": "class-variance-authority",
+        "total_seconds": 78.207,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.55
+      },
+      {
+        "name": "dynamic",
+        "total_seconds": 17.253,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 0.12
+      },
+      {
+        "name": "kotlin.Boolean",
+        "total_seconds": 13.12,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.09
+      },
+      {
+        "name": "kotlin.String",
+        "total_seconds": 13.116,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.09
+      },
+      {
+        "name": "kotlin.Int",
+        "total_seconds": 13.114,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.09
+      },
+      {
+        "name": "kotlin.Long",
+        "total_seconds": 13.114,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.09
+      },
+      {
+        "name": "kotlin.Any",
+        "total_seconds": 13.111,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.09
+      },
+      {
+        "name": "kotlin.jvm",
+        "total_seconds": 13.104,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.09
+      },
+      {
+        "name": "stringify",
+        "total_seconds": 6.688,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.05
+      },
+      {
+        "name": "rng",
+        "total_seconds": 6.688,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.05
+      },
+      {
+        "name": "kotlin.Unit",
+        "total_seconds": 0.02,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "kotlin.Suppress",
+        "total_seconds": 0.02,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "kotlin.collections",
+        "total_seconds": 0.009,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "kotlin.Cloneable",
+        "total_seconds": 0.007,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "kotlin.Float",
+        "total_seconds": 0.002,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng-desktop",
+        "total_seconds": 20486.074,
+        "machine_name_id": "5ce98182-7677-4c9d-a22e-daaba19f5908",
+        "digital": "5:41:26",
+        "decimal": "5.68",
+        "text": "5 hrs 41 mins",
+        "hours": 5,
+        "minutes": 41,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "PandaMonitor",
+        "total_seconds": 20486.074,
+        "digital": "5:41:26",
+        "decimal": "5.68",
+        "text": "5 hrs 41 mins",
+        "hours": 5,
+        "minutes": 41,
+        "seconds": 26,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-07-25T16:00:00Z",
+      "end": "2024-07-26T15:59:59Z",
+      "date": "2024-07-26",
+      "text": "Fri Jul 26th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
