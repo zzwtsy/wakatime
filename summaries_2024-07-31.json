@@ -1,0 +1,110 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Text",
+        "total_seconds": 564.59815,
+        "digital": "0:09:24",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 24,
+        "percent": 51.22
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 537.712795,
+        "digital": "0:08:57",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 57,
+        "percent": 48.78
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 18,
+      "total_seconds": 1102.310945,
+      "digital": "0:18",
+      "decimal": "0.30",
+      "text": "18 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1102.310945,
+        "digital": "0:18:22",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 22,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1102.310945,
+        "digital": "0:18:22",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 22,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1102.310945,
+        "digital": "0:18:22",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 22,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "meng-desktop",
+        "total_seconds": 1102.310945,
+        "machine_name_id": "5ce98182-7677-4c9d-a22e-daaba19f5908",
+        "digital": "0:18:22",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 22,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "Unknown Project",
+        "total_seconds": 1102.310945,
+        "digital": "0:18:22",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 22,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-07-30T16:00:00Z",
+      "end": "2024-07-31T15:59:59Z",
+      "date": "2024-07-31",
+      "text": "Wed Jul 31st 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
