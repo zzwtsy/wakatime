@@ -1,0 +1,188 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Vue.js",
+        "total_seconds": 323.388163,
+        "digital": "0:05:23",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 23,
+        "percent": 65.61
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 164.002161,
+        "digital": "0:02:44",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 44,
+        "percent": 33.27
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 5.528541,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 1.12
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 8,
+      "total_seconds": 492.918865,
+      "digital": "0:08",
+      "decimal": "0.13",
+      "text": "8 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 492.918865,
+        "digital": "0:08:12",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 12,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 492.918865,
+        "digital": "0:08:12",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 12,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 492.918865,
+        "digital": "0:08:12",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 12,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "vue",
+        "total_seconds": 5.532802,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 16.67
+      },
+      {
+        "name": "static",
+        "total_seconds": 5.532802,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 16.67
+      },
+      {
+        "name": "vue-sonner",
+        "total_seconds": 5.532802,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 16.67
+      },
+      {
+        "name": "core",
+        "total_seconds": 5.532802,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 16.67
+      },
+      {
+        "name": "types",
+        "total_seconds": 5.532802,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 16.67
+      },
+      {
+        "name": "eslint-config",
+        "total_seconds": 5.528541,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 16.66
+      }
+    ],
+    "machines": [
+      {
+        "name": "meng-desktop",
+        "total_seconds": 492.918865,
+        "machine_name_id": "ddff3399-7f0b-42a7-919a-6a56a6cb707f",
+        "digital": "0:08:12",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 12,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "PandaMonitor",
+        "total_seconds": 492.918865,
+        "digital": "0:08:12",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 12,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-08-12T16:00:00Z",
+      "end": "2024-08-13T15:59:59Z",
+      "date": "2024-08-13",
+      "text": "Tue Aug 13th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
