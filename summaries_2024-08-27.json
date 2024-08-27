@@ -1,0 +1,99 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 124.903597,
+        "digital": "0:02:04",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 4,
+        "percent": 100
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 2,
+      "total_seconds": 124.903597,
+      "digital": "0:02",
+      "decimal": "0.03",
+      "text": "2 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 124.903597,
+        "digital": "0:02:04",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 4,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 124.903597,
+        "digital": "0:02:04",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 4,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 124.903597,
+        "digital": "0:02:04",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 4,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 124.903597,
+        "machine_name_id": "a5e915bd-9cf3-4388-b548-5a0c094154b8",
+        "digital": "0:02:04",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 4,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "panda-monitor",
+        "total_seconds": 124.903597,
+        "digital": "0:02:04",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 4,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-08-26T16:00:00Z",
+      "end": "2024-08-27T15:59:59Z",
+      "date": "2024-08-27",
+      "text": "Tue Aug 27th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
