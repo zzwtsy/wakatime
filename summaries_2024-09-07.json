@@ -1,0 +1,26 @@
+[
+  {
+    "languages": [],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 0,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs"
+    },
+    "editors": [],
+    "operating_systems": [],
+    "categories": [],
+    "dependencies": [],
+    "machines": [],
+    "projects": [],
+    "range": {
+      "start": "2024-09-06T16:00:00Z",
+      "end": "2024-09-07T15:59:59Z",
+      "date": "2024-09-07",
+      "text": "Sat Sep 7th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
