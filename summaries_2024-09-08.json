@@ -1,0 +1,143 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 26155.752561,
+        "digital": "7:15:55",
+        "decimal": "7.25",
+        "text": "7 hrs 15 mins",
+        "hours": 7,
+        "minutes": 15,
+        "seconds": 55,
+        "percent": 98.51
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 376.357982,
+        "digital": "0:06:16",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 16,
+        "percent": 1.42
+      },
+      {
+        "name": "Other",
+        "total_seconds": 19.766751,
+        "digital": "0:00:19",
+        "decimal": "0.00",
+        "text": "19 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 19,
+        "percent": 0.07
+      }
+    ],
+    "grand_total": {
+      "hours": 7,
+      "minutes": 22,
+      "total_seconds": 26551.877294,
+      "digital": "7:22",
+      "decimal": "7.37",
+      "text": "7 hrs 22 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 26551.877294,
+        "digital": "7:22:31",
+        "decimal": "7.37",
+        "text": "7 hrs 22 mins",
+        "hours": 7,
+        "minutes": 22,
+        "seconds": 31,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 26551.877294,
+        "digital": "7:22:31",
+        "decimal": "7.37",
+        "text": "7 hrs 22 mins",
+        "hours": 7,
+        "minutes": 22,
+        "seconds": 31,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 26349.086926,
+        "digital": "7:19:09",
+        "decimal": "7.32",
+        "text": "7 hrs 19 mins",
+        "hours": 7,
+        "minutes": 19,
+        "seconds": 9,
+        "percent": 99.24
+      },
+      {
+        "name": "Building",
+        "total_seconds": 105.593353,
+        "digital": "0:01:45",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 45,
+        "percent": 0.4
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 97.197015,
+        "digital": "0:01:37",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 37,
+        "percent": 0.37
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 26551.877294,
+        "machine_name_id": "9dff8cbc-04d7-48c3-bf8a-cc65930c8904",
+        "digital": "7:22:31",
+        "decimal": "7.37",
+        "text": "7 hrs 22 mins",
+        "hours": 7,
+        "minutes": 22,
+        "seconds": 31,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "fba_code",
+        "total_seconds": 26551.877294,
+        "digital": "7:22:31",
+        "decimal": "7.37",
+        "text": "7 hrs 22 mins",
+        "hours": 7,
+        "minutes": 22,
+        "seconds": 31,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-09-07T16:00:00Z",
+      "end": "2024-09-08T15:59:59Z",
+      "date": "2024-09-08",
+      "text": "Sun Sep 8th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
