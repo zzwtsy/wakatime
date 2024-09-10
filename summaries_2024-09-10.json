@@ -1,0 +1,99 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 1031.963671,
+        "digital": "0:17:11",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 17,
+      "total_seconds": 1031.963671,
+      "digital": "0:17",
+      "decimal": "0.28",
+      "text": "17 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1031.963671,
+        "digital": "0:17:11",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1031.963671,
+        "digital": "0:17:11",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1031.963671,
+        "digital": "0:17:11",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 1031.963671,
+        "machine_name_id": "51a10cb9-a001-4d42-b5b8-29a9fd47c253",
+        "digital": "0:17:11",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "fba_code",
+        "total_seconds": 1031.963671,
+        "digital": "0:17:11",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-09-09T16:00:00Z",
+      "end": "2024-09-10T15:59:59Z",
+      "date": "2024-09-10",
+      "text": "Tue Sep 10th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
