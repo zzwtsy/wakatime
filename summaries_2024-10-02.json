@@ -1,0 +1,244 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JSON",
+        "total_seconds": 17775.138407,
+        "digital": "4:56:15",
+        "decimal": "4.93",
+        "text": "4 hrs 56 mins",
+        "hours": 4,
+        "minutes": 56,
+        "seconds": 15,
+        "percent": 59.83
+      },
+      {
+        "name": "Rust",
+        "total_seconds": 10393.1606,
+        "digital": "2:53:13",
+        "decimal": "2.88",
+        "text": "2 hrs 53 mins",
+        "hours": 2,
+        "minutes": 53,
+        "seconds": 13,
+        "percent": 34.98
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 1021.937878,
+        "digital": "0:17:01",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 1,
+        "percent": 3.44
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 290.994485,
+        "digital": "0:04:50",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 50,
+        "percent": 0.98
+      },
+      {
+        "name": "Other",
+        "total_seconds": 229.463488,
+        "digital": "0:03:49",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 49,
+        "percent": 0.77
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 0.496842,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 8,
+      "minutes": 15,
+      "total_seconds": 29711.1917,
+      "digital": "8:15",
+      "decimal": "8.25",
+      "text": "8 hrs 15 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 29711.1917,
+        "digital": "8:15:11",
+        "decimal": "8.25",
+        "text": "8 hrs 15 mins",
+        "hours": 8,
+        "minutes": 15,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 16524.354355,
+        "digital": "4:35:24",
+        "decimal": "4.58",
+        "text": "4 hrs 35 mins",
+        "hours": 4,
+        "minutes": 35,
+        "seconds": 24,
+        "percent": 55.62
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 13186.837345,
+        "digital": "3:39:46",
+        "decimal": "3.65",
+        "text": "3 hrs 39 mins",
+        "hours": 3,
+        "minutes": 39,
+        "seconds": 46,
+        "percent": 44.38
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 29711.1917,
+        "digital": "8:15:11",
+        "decimal": "8.25",
+        "text": "8 hrs 15 mins",
+        "hours": 8,
+        "minutes": 15,
+        "seconds": 11,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "npm",
+        "total_seconds": 41.48535,
+        "digital": "0:00:41",
+        "decimal": "0.00",
+        "text": "41 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 41,
+        "percent": 20
+      },
+      {
+        "name": "preline",
+        "total_seconds": 41.48535,
+        "digital": "0:00:41",
+        "decimal": "0.00",
+        "text": "41 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 41,
+        "percent": 20
+      },
+      {
+        "name": "@tailwindcss/forms",
+        "total_seconds": 41.48535,
+        "digital": "0:00:41",
+        "decimal": "0.00",
+        "text": "41 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 41,
+        "percent": 20
+      },
+      {
+        "name": "@tailwindcss/typography",
+        "total_seconds": 41.48535,
+        "digital": "0:00:41",
+        "decimal": "0.00",
+        "text": "41 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 41,
+        "percent": 20
+      },
+      {
+        "name": "tailwindcss",
+        "total_seconds": 41.48535,
+        "digital": "0:00:41",
+        "decimal": "0.00",
+        "text": "41 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 41,
+        "percent": 20
+      }
+    ],
+    "machines": [
+      {
+        "name": "archlinux",
+        "total_seconds": 16524.354355,
+        "machine_name_id": "3e077ea3-5106-487a-879b-5f8a8150e388",
+        "digital": "4:35:24",
+        "decimal": "4.58",
+        "text": "4 hrs 35 mins",
+        "hours": 4,
+        "minutes": 35,
+        "seconds": 24,
+        "percent": 55.62
+      },
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 13186.837345,
+        "machine_name_id": "52f36b77-33cc-4dc8-87b6-6b97ddb823e3",
+        "digital": "3:39:46",
+        "decimal": "3.65",
+        "text": "3 hrs 39 mins",
+        "hours": 3,
+        "minutes": 39,
+        "seconds": 46,
+        "percent": 44.38
+      }
+    ],
+    "projects": [
+      {
+        "name": "webadmin",
+        "total_seconds": 21782.823823,
+        "digital": "6:03:02",
+        "decimal": "6.05",
+        "text": "6 hrs 3 mins",
+        "hours": 6,
+        "minutes": 3,
+        "seconds": 2,
+        "percent": 73.32
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 7928.367877,
+        "digital": "2:12:08",
+        "decimal": "2.20",
+        "text": "2 hrs 12 mins",
+        "hours": 2,
+        "minutes": 12,
+        "seconds": 8,
+        "percent": 26.68
+      }
+    ],
+    "range": {
+      "start": "2024-10-01T16:00:00Z",
+      "end": "2024-10-02T15:59:59Z",
+      "date": "2024-10-02",
+      "text": "Wed Oct 2nd 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
