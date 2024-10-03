@@ -1,0 +1,165 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 7080.279942,
+        "digital": "1:58:00",
+        "decimal": "1.97",
+        "text": "1 hr 58 mins",
+        "hours": 1,
+        "minutes": 58,
+        "seconds": 0,
+        "percent": 68.62
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 1663.881076,
+        "digital": "0:27:43",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 43,
+        "percent": 16.13
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 1227.540352,
+        "digital": "0:20:27",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 27,
+        "percent": 11.9
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 195.50762,
+        "digital": "0:03:15",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 15,
+        "percent": 1.89
+      },
+      {
+        "name": "D",
+        "total_seconds": 123.299207,
+        "digital": "0:02:03",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 3,
+        "percent": 1.19
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 22.943699,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 0.22
+      },
+      {
+        "name": "Other",
+        "total_seconds": 5.1148,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.05
+      }
+    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 51,
+      "total_seconds": 10318.566696,
+      "digital": "2:51",
+      "decimal": "2.85",
+      "text": "2 hrs 51 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 10318.566696,
+        "digital": "2:51:58",
+        "decimal": "2.85",
+        "text": "2 hrs 51 mins",
+        "hours": 2,
+        "minutes": 51,
+        "seconds": 58,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 10318.566696,
+        "digital": "2:51:58",
+        "decimal": "2.85",
+        "text": "2 hrs 51 mins",
+        "hours": 2,
+        "minutes": 51,
+        "seconds": 58,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 10318.566696,
+        "digital": "2:51:58",
+        "decimal": "2.85",
+        "text": "2 hrs 51 mins",
+        "hours": 2,
+        "minutes": 51,
+        "seconds": 58,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 10318.566696,
+        "machine_name_id": "52f36b77-33cc-4dc8-87b6-6b97ddb823e3",
+        "digital": "2:51:58",
+        "decimal": "2.85",
+        "text": "2 hrs 51 mins",
+        "hours": 2,
+        "minutes": 51,
+        "seconds": 58,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "webadmin",
+        "total_seconds": 10318.566696,
+        "digital": "2:51:58",
+        "decimal": "2.85",
+        "text": "2 hrs 51 mins",
+        "hours": 2,
+        "minutes": 51,
+        "seconds": 58,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-10-02T16:00:00Z",
+      "end": "2024-10-03T15:59:59Z",
+      "date": "2024-10-03",
+      "text": "Thu Oct 3rd 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
