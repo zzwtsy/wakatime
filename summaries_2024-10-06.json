@@ -1,0 +1,166 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 13580.934283,
+        "digital": "3:46:20",
+        "decimal": "3.77",
+        "text": "3 hrs 46 mins",
+        "hours": 3,
+        "minutes": 46,
+        "seconds": 20,
+        "percent": 96.64
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 218.394247,
+        "digital": "0:03:38",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 38,
+        "percent": 1.55
+      },
+      {
+        "name": "Image (svg)",
+        "total_seconds": 182.249212,
+        "digital": "0:03:02",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 2,
+        "percent": 1.3
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 29.458879,
+        "digital": "0:00:29",
+        "decimal": "0.00",
+        "text": "29 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 0.21
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 25.940945,
+        "digital": "0:00:25",
+        "decimal": "0.00",
+        "text": "25 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 25,
+        "percent": 0.18
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 15.465203,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.11
+      }
+    ],
+    "grand_total": {
+      "hours": 3,
+      "minutes": 54,
+      "total_seconds": 14052.442769,
+      "digital": "3:54",
+      "decimal": "3.90",
+      "text": "3 hrs 54 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 14052.442769,
+        "digital": "3:54:12",
+        "decimal": "3.90",
+        "text": "3 hrs 54 mins",
+        "hours": 3,
+        "minutes": 54,
+        "seconds": 12,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 14052.442769,
+        "digital": "3:54:12",
+        "decimal": "3.90",
+        "text": "3 hrs 54 mins",
+        "hours": 3,
+        "minutes": 54,
+        "seconds": 12,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 14052.442769,
+        "digital": "3:54:12",
+        "decimal": "3.90",
+        "text": "3 hrs 54 mins",
+        "hours": 3,
+        "minutes": 54,
+        "seconds": 12,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"https://cdn.tailwindcss.com\"",
+        "total_seconds": 15.465203,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 100
+      }
+    ],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 14052.442769,
+        "machine_name_id": "52f36b77-33cc-4dc8-87b6-6b97ddb823e3",
+        "digital": "3:54:12",
+        "decimal": "3.90",
+        "text": "3 hrs 54 mins",
+        "hours": 3,
+        "minutes": 54,
+        "seconds": 12,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "webadmin",
+        "total_seconds": 14052.442769,
+        "digital": "3:54:12",
+        "decimal": "3.90",
+        "text": "3 hrs 54 mins",
+        "hours": 3,
+        "minutes": 54,
+        "seconds": 12,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-10-05T16:00:00Z",
+      "end": "2024-10-06T15:59:59Z",
+      "date": "2024-10-06",
+      "text": "Sun Oct 6th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
