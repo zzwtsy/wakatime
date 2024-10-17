@@ -1,0 +1,110 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 2989.265104,
+        "digital": "0:49:49",
+        "decimal": "0.82",
+        "text": "49 mins",
+        "hours": 0,
+        "minutes": 49,
+        "seconds": 49,
+        "percent": 92.93
+      },
+      {
+        "name": "Protocol Buffer",
+        "total_seconds": 227.384765,
+        "digital": "0:03:47",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 47,
+        "percent": 7.07
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 53,
+      "total_seconds": 3216.649869,
+      "digital": "0:53",
+      "decimal": "0.88",
+      "text": "53 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3216.649869,
+        "digital": "0:53:36",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 3216.649869,
+        "digital": "0:53:36",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3216.649869,
+        "digital": "0:53:36",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 3216.649869,
+        "machine_name_id": "7b54f0eb-e068-4c7e-9bf7-97f89c547ac8",
+        "digital": "0:53:36",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "panda-monitor",
+        "total_seconds": 3216.649869,
+        "digital": "0:53:36",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-10-16T16:00:00Z",
+      "end": "2024-10-17T15:59:59Z",
+      "date": "2024-10-17",
+      "text": "Thu Oct 17th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
