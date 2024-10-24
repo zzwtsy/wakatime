@@ -1,0 +1,122 @@
+[
+  {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 5142.940609,
+        "digital": "1:25:42",
+        "decimal": "1.42",
+        "text": "1 hr 25 mins",
+        "hours": 1,
+        "minutes": 25,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 25,
+      "total_seconds": 5142.940609,
+      "digital": "1:25",
+      "decimal": "1.42",
+      "text": "1 hr 25 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 5142.940609,
+        "digital": "1:25:42",
+        "decimal": "1.42",
+        "text": "1 hr 25 mins",
+        "hours": 1,
+        "minutes": 25,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 5142.940609,
+        "digital": "1:25:42",
+        "decimal": "1.42",
+        "text": "1 hr 25 mins",
+        "hours": 1,
+        "minutes": 25,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5142.940609,
+        "digital": "1:25:42",
+        "decimal": "1.42",
+        "text": "1 hr 25 mins",
+        "hours": 1,
+        "minutes": 25,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "qrcode",
+        "total_seconds": 5142.940609,
+        "digital": "1:25:42",
+        "decimal": "1.42",
+        "text": "1 hr 25 mins",
+        "hours": 1,
+        "minutes": 25,
+        "seconds": 42,
+        "percent": 50
+      },
+      {
+        "name": "vue",
+        "total_seconds": 5142.940609,
+        "digital": "1:25:42",
+        "decimal": "1.42",
+        "text": "1 hr 25 mins",
+        "hours": 1,
+        "minutes": 25,
+        "seconds": 42,
+        "percent": 50
+      }
+    ],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 5142.940609,
+        "machine_name_id": "ba34626a-5848-49a4-be39-4069271c66dc",
+        "digital": "1:25:42",
+        "decimal": "1.42",
+        "text": "1 hr 25 mins",
+        "hours": 1,
+        "minutes": 25,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "tools",
+        "total_seconds": 5142.940609,
+        "digital": "1:25:42",
+        "decimal": "1.42",
+        "text": "1 hr 25 mins",
+        "hours": 1,
+        "minutes": 25,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-10-23T16:00:00Z",
+      "end": "2024-10-24T15:59:59Z",
+      "date": "2024-10-24",
+      "text": "Thu Oct 24th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
