@@ -1,0 +1,177 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Astro",
+        "total_seconds": 12875.016575,
+        "digital": "3:34:35",
+        "decimal": "3.57",
+        "text": "3 hrs 34 mins",
+        "hours": 3,
+        "minutes": 34,
+        "seconds": 35,
+        "percent": 85.56
+      },
+      {
+        "name": "Rust",
+        "total_seconds": 2170.087171,
+        "digital": "0:36:10",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 10,
+        "percent": 14.42
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 3.397689,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.02
+      }
+    ],
+    "grand_total": {
+      "hours": 4,
+      "minutes": 10,
+      "total_seconds": 15048.501435,
+      "digital": "4:10",
+      "decimal": "4.17",
+      "text": "4 hrs 10 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 15048.501435,
+        "digital": "4:10:48",
+        "decimal": "4.17",
+        "text": "4 hrs 10 mins",
+        "hours": 4,
+        "minutes": 10,
+        "seconds": 48,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 15048.501435,
+        "digital": "4:10:48",
+        "decimal": "4.17",
+        "text": "4 hrs 10 mins",
+        "hours": 4,
+        "minutes": 10,
+        "seconds": 48,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 15048.501435,
+        "digital": "4:10:48",
+        "decimal": "4.17",
+        "text": "4 hrs 10 mins",
+        "hours": 4,
+        "minutes": 10,
+        "seconds": 48,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "utils",
+        "total_seconds": 3.397689,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 25
+      },
+      {
+        "name": "react",
+        "total_seconds": 3.397689,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 25
+      },
+      {
+        "name": "class-variance-authority",
+        "total_seconds": 3.397689,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 25
+      },
+      {
+        "name": "react-slot",
+        "total_seconds": 3.397689,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 25
+      }
+    ],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 15048.501435,
+        "machine_name_id": "7d5af2d0-6c29-4da8-a459-29d5a5c3f777",
+        "digital": "4:10:48",
+        "decimal": "4.17",
+        "text": "4 hrs 10 mins",
+        "hours": 4,
+        "minutes": 10,
+        "seconds": 48,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "blog",
+        "total_seconds": 12878.414264,
+        "digital": "3:34:38",
+        "decimal": "3.57",
+        "text": "3 hrs 34 mins",
+        "hours": 3,
+        "minutes": 34,
+        "seconds": 38,
+        "percent": 85.58
+      },
+      {
+        "name": "sysinfo_demo",
+        "total_seconds": 2170.087171,
+        "digital": "0:36:10",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 10,
+        "percent": 14.42
+      }
+    ],
+    "range": {
+      "start": "2024-11-16T16:00:00Z",
+      "end": "2024-11-17T15:59:59Z",
+      "date": "2024-11-17",
+      "text": "Sun Nov 17th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
