@@ -1,0 +1,122 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 3204.147732,
+        "digital": "0:53:24",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 24,
+        "percent": 100
+      },
+      {
+        "name": "C++",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 53,
+      "total_seconds": 3204.147732,
+      "digital": "0:53",
+      "decimal": "0.88",
+      "text": "53 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3204.147732,
+        "digital": "0:53:24",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 24,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 3204.147732,
+        "digital": "0:53:24",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 24,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3204.147732,
+        "digital": "0:53:24",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 24,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "pch",
+        "total_seconds": 0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 3204.147732,
+        "machine_name_id": "11b7c71e-cb22-46d7-a2ea-0f0d6f690288",
+        "digital": "0:53:24",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 24,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "sysinfo_demo",
+        "total_seconds": 3204.147732,
+        "digital": "0:53:24",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 24,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-11-18T16:00:00Z",
+      "end": "2024-11-19T15:59:59Z",
+      "date": "2024-11-19",
+      "text": "Tue Nov 19th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
