@@ -1,0 +1,99 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 1640.998171,
+        "digital": "0:27:20",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 20,
+        "percent": 100
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 27,
+      "total_seconds": 1640.998171,
+      "digital": "0:27",
+      "decimal": "0.45",
+      "text": "27 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1640.998171,
+        "digital": "0:27:20",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 20,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1640.998171,
+        "digital": "0:27:20",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 20,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1640.998171,
+        "digital": "0:27:20",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 20,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 1640.998171,
+        "machine_name_id": "c3e53154-9737-4920-ba57-f884cf2c338c",
+        "digital": "0:27:20",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 20,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "sysinfo_demo",
+        "total_seconds": 1640.998171,
+        "digital": "0:27:20",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 20,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-11-20T16:00:00Z",
+      "end": "2024-11-21T15:59:59Z",
+      "date": "2024-11-21",
+      "text": "Thu Nov 21st 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
