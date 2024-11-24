@@ -1,0 +1,353 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 27531.032,
+        "digital": "7:38:51",
+        "decimal": "7.63",
+        "text": "7 hrs 38 mins",
+        "hours": 7,
+        "minutes": 38,
+        "seconds": 51,
+        "percent": 99.25
+      },
+      {
+        "name": "CLASS",
+        "total_seconds": 68.945,
+        "digital": "0:01:08",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 8,
+        "percent": 0.25
+      },
+      {
+        "name": "Manifest",
+        "total_seconds": 64.454,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 0.23
+      },
+      {
+        "name": "Properties",
+        "total_seconds": 52.229,
+        "digital": "0:00:52",
+        "decimal": "0.00",
+        "text": "52 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 52,
+        "percent": 0.19
+      },
+      {
+        "name": "Java Properties",
+        "total_seconds": 8.996,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.03
+      },
+      {
+        "name": "Text",
+        "total_seconds": 7.007,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.03
+      },
+      {
+        "name": "GitIgnore file",
+        "total_seconds": 6.667,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.02
+      }
+    ],
+    "grand_total": {
+      "hours": 7,
+      "minutes": 42,
+      "total_seconds": 27739.33,
+      "digital": "7:42",
+      "decimal": "7.70",
+      "text": "7 hrs 42 mins"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ IDEA",
+        "total_seconds": 27739.33,
+        "digital": "7:42:19",
+        "decimal": "7.70",
+        "text": "7 hrs 42 mins",
+        "hours": 7,
+        "minutes": 42,
+        "seconds": 19,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 27739.33,
+        "digital": "7:42:19",
+        "decimal": "7.70",
+        "text": "7 hrs 42 mins",
+        "hours": 7,
+        "minutes": 42,
+        "seconds": 19,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 27739.33,
+        "digital": "7:42:19",
+        "decimal": "7.70",
+        "text": "7 hrs 42 mins",
+        "hours": 7,
+        "minutes": 42,
+        "seconds": 19,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "kotlin.io",
+        "total_seconds": 15057.343,
+        "digital": "4:10:57",
+        "decimal": "4.17",
+        "text": "4 hrs 10 mins",
+        "hours": 4,
+        "minutes": 10,
+        "seconds": 57,
+        "percent": 23.41
+      },
+      {
+        "name": "org.jose4j",
+        "total_seconds": 10346.605,
+        "digital": "2:52:26",
+        "decimal": "2.87",
+        "text": "2 hrs 52 mins",
+        "hours": 2,
+        "minutes": 52,
+        "seconds": 26,
+        "percent": 16.09
+      },
+      {
+        "name": "io.ktor",
+        "total_seconds": 7671.903,
+        "digital": "2:07:51",
+        "decimal": "2.12",
+        "text": "2 hrs 7 mins",
+        "hours": 2,
+        "minutes": 7,
+        "seconds": 51,
+        "percent": 11.93
+      },
+      {
+        "name": "kotlinx.serialization",
+        "total_seconds": 7362.624,
+        "digital": "2:02:42",
+        "decimal": "2.03",
+        "text": "2 hrs 2 mins",
+        "hours": 2,
+        "minutes": 2,
+        "seconds": 42,
+        "percent": 11.45
+      },
+      {
+        "name": "org.slf4j",
+        "total_seconds": 5485.255,
+        "digital": "1:31:25",
+        "decimal": "1.52",
+        "text": "1 hr 31 mins",
+        "hours": 1,
+        "minutes": 31,
+        "seconds": 25,
+        "percent": 8.53
+      },
+      {
+        "name": "org.jetbrains",
+        "total_seconds": 4611.826,
+        "digital": "1:16:51",
+        "decimal": "1.27",
+        "text": "1 hr 16 mins",
+        "hours": 1,
+        "minutes": 16,
+        "seconds": 51,
+        "percent": 7.17
+      },
+      {
+        "name": "api.QWeatherAPI",
+        "total_seconds": 4528.903,
+        "digital": "1:15:28",
+        "decimal": "1.25",
+        "text": "1 hr 15 mins",
+        "hours": 1,
+        "minutes": 15,
+        "seconds": 28,
+        "percent": 7.04
+      },
+      {
+        "name": "kotlinx.datetime",
+        "total_seconds": 3051.509,
+        "digital": "0:50:51",
+        "decimal": "0.83",
+        "text": "50 mins",
+        "hours": 0,
+        "minutes": 50,
+        "seconds": 51,
+        "percent": 4.74
+      },
+      {
+        "name": "util.HttpUtil",
+        "total_seconds": 2172.378,
+        "digital": "0:36:12",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 12,
+        "percent": 3.38
+      },
+      {
+        "name": "kotlinx.coroutines",
+        "total_seconds": 1474.458,
+        "digital": "0:24:34",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 34,
+        "percent": 2.29
+      },
+      {
+        "name": "api.WeComeBotSendMsgAPI",
+        "total_seconds": 730.841,
+        "digital": "0:12:10",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 10,
+        "percent": 1.14
+      },
+      {
+        "name": "cn.zzwtsy",
+        "total_seconds": 474.871,
+        "digital": "0:07:54",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 54,
+        "percent": 0.74
+      },
+      {
+        "name": "dto.Text",
+        "total_seconds": 433.172,
+        "digital": "0:07:13",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 13,
+        "percent": 0.67
+      },
+      {
+        "name": "dto.WeComTextMsg",
+        "total_seconds": 433.172,
+        "digital": "0:07:13",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 13,
+        "percent": 0.67
+      },
+      {
+        "name": "org.junit",
+        "total_seconds": 288.126,
+        "digital": "0:04:48",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 48,
+        "percent": 0.45
+      },
+      {
+        "name": "dto.MinutePrecipitation",
+        "total_seconds": 104.576,
+        "digital": "0:01:44",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 44,
+        "percent": 0.16
+      },
+      {
+        "name": "kotlin.time",
+        "total_seconds": 96.293,
+        "digital": "0:01:36",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 36,
+        "percent": 0.15
+      }
+    ],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 27739.33,
+        "machine_name_id": "32270b7e-dcb1-42b1-a79f-ffa1247415c9",
+        "digital": "7:42:19",
+        "decimal": "7.70",
+        "text": "7 hrs 42 mins",
+        "hours": 7,
+        "minutes": 42,
+        "seconds": 19,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "wecom-weather-bot",
+        "total_seconds": 27739.33,
+        "digital": "7:42:19",
+        "decimal": "7.70",
+        "text": "7 hrs 42 mins",
+        "hours": 7,
+        "minutes": 42,
+        "seconds": 19,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-11-23T16:00:00Z",
+      "end": "2024-11-24T15:59:59Z",
+      "date": "2024-11-24",
+      "text": "Sun Nov 24th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
