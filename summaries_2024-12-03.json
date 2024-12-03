@@ -1,0 +1,199 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 18813.417,
+        "digital": "5:13:33",
+        "decimal": "5.22",
+        "text": "5 hrs 13 mins",
+        "hours": 5,
+        "minutes": 13,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "grand_total": {
+      "hours": 5,
+      "minutes": 13,
+      "total_seconds": 18813.417,
+      "digital": "5:13",
+      "decimal": "5.22",
+      "text": "5 hrs 13 mins"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ IDEA",
+        "total_seconds": 18813.417,
+        "digital": "5:13:33",
+        "decimal": "5.22",
+        "text": "5 hrs 13 mins",
+        "hours": 5,
+        "minutes": 13,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 18813.417,
+        "digital": "5:13:33",
+        "decimal": "5.22",
+        "text": "5 hrs 13 mins",
+        "hours": 5,
+        "minutes": 13,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 18813.417,
+        "digital": "5:13:33",
+        "decimal": "5.22",
+        "text": "5 hrs 13 mins",
+        "hours": 5,
+        "minutes": 13,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "kotlinx.serialization",
+        "total_seconds": 14725.425,
+        "digital": "4:05:25",
+        "decimal": "4.08",
+        "text": "4 hrs 5 mins",
+        "hours": 4,
+        "minutes": 5,
+        "seconds": 25,
+        "percent": 49.82
+      },
+      {
+        "name": "cn.zzwtsy",
+        "total_seconds": 4163.949,
+        "digital": "1:09:23",
+        "decimal": "1.15",
+        "text": "1 hr 9 mins",
+        "hours": 1,
+        "minutes": 9,
+        "seconds": 23,
+        "percent": 14.09
+      },
+      {
+        "name": "org.slf4j",
+        "total_seconds": 3944.323,
+        "digital": "1:05:44",
+        "decimal": "1.08",
+        "text": "1 hr 5 mins",
+        "hours": 1,
+        "minutes": 5,
+        "seconds": 44,
+        "percent": 13.34
+      },
+      {
+        "name": "kotlinx.coroutines",
+        "total_seconds": 2148.634,
+        "digital": "0:35:48",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 48,
+        "percent": 7.27
+      },
+      {
+        "name": "kotlin.io",
+        "total_seconds": 1512.585,
+        "digital": "0:25:12",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 12,
+        "percent": 5.12
+      },
+      {
+        "name": "io.ktor",
+        "total_seconds": 1472.541,
+        "digital": "0:24:32",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 32,
+        "percent": 4.98
+      },
+      {
+        "name": "org.jetbrains",
+        "total_seconds": 1457.891,
+        "digital": "0:24:17",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 17,
+        "percent": 4.93
+      },
+      {
+        "name": "kotlinx.datetime",
+        "total_seconds": 80.143,
+        "digital": "0:01:20",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 20,
+        "percent": 0.27
+      },
+      {
+        "name": "org.jose4j",
+        "total_seconds": 54.694,
+        "digital": "0:00:54",
+        "decimal": "0.00",
+        "text": "54 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 54,
+        "percent": 0.19
+      }
+    ],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 18813.417,
+        "machine_name_id": "7e71130d-defb-4b18-88ed-1ec35ba984c7",
+        "digital": "5:13:33",
+        "decimal": "5.22",
+        "text": "5 hrs 13 mins",
+        "hours": 5,
+        "minutes": 13,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "wecom-weather-bot",
+        "total_seconds": 18813.417,
+        "digital": "5:13:33",
+        "decimal": "5.22",
+        "text": "5 hrs 13 mins",
+        "hours": 5,
+        "minutes": 13,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-12-02T16:00:00Z",
+      "end": "2024-12-03T15:59:59Z",
+      "date": "2024-12-03",
+      "text": "Tue Dec 3rd 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
