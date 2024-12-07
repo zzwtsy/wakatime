@@ -1,0 +1,322 @@
+[
+  {
+    "grand_total": {
+      "hours": 5,
+      "minutes": 19,
+      "total_seconds": 19140.835453,
+      "digital": "5:19",
+      "decimal": "5.32",
+      "text": "5 hrs 19 mins"
+    },
+    "range": {
+      "start": "2024-12-06T16:00:00Z",
+      "end": "2024-12-07T15:59:59Z",
+      "date": "2024-12-07",
+      "text": "Sat Dec 7th 2024",
+      "timezone": "Asia/Shanghai"
+    },
+    "projects": [
+      {
+        "name": "wecom-weather-bot",
+        "total_seconds": 18886.860996,
+        "color": null,
+        "digital": "5:14:46",
+        "decimal": "5.23",
+        "text": "5 hrs 14 mins",
+        "hours": 5,
+        "minutes": 14,
+        "seconds": 46,
+        "percent": 98.67
+      },
+      {
+        "name": "panda-monitor",
+        "total_seconds": 253.974457,
+        "color": null,
+        "digital": "0:04:13",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 13,
+        "percent": 1.33
+      }
+    ],
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 18528.782996,
+        "digital": "5:08:48",
+        "decimal": "5.13",
+        "text": "5 hrs 8 mins",
+        "hours": 5,
+        "minutes": 8,
+        "seconds": 48,
+        "percent": 96.8
+      },
+      {
+        "name": "GitIgnore file",
+        "total_seconds": 333.758,
+        "digital": "0:05:33",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 33,
+        "percent": 1.74
+      },
+      {
+        "name": "Rust",
+        "total_seconds": 106.634678,
+        "digital": "0:01:46",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 46,
+        "percent": 0.56
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 78.405947,
+        "digital": "0:01:18",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 18,
+        "percent": 0.41
+      },
+      {
+        "name": "Protocol Buffer",
+        "total_seconds": 66.812243,
+        "digital": "0:01:06",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 6,
+        "percent": 0.35
+      },
+      {
+        "name": "textmate",
+        "total_seconds": 16.292,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.09
+      },
+      {
+        "name": "XML",
+        "total_seconds": 8.028,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.04
+      },
+      {
+        "name": "Other",
+        "total_seconds": 2.121589,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.01
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "cn.zzwtsy",
+        "total_seconds": 18280.695996,
+        "digital": "5:04:40",
+        "decimal": "5.07",
+        "text": "5 hrs 4 mins",
+        "hours": 5,
+        "minutes": 4,
+        "seconds": 40,
+        "percent": 25.12
+      },
+      {
+        "name": "org.slf4j",
+        "total_seconds": 17844.312996,
+        "digital": "4:57:24",
+        "decimal": "4.95",
+        "text": "4 hrs 57 mins",
+        "hours": 4,
+        "minutes": 57,
+        "seconds": 24,
+        "percent": 24.52
+      },
+      {
+        "name": "kotlinx.coroutines",
+        "total_seconds": 9450.35,
+        "digital": "2:37:30",
+        "decimal": "2.62",
+        "text": "2 hrs 37 mins",
+        "hours": 2,
+        "minutes": 37,
+        "seconds": 30,
+        "percent": 12.98
+      },
+      {
+        "name": "io.ktor",
+        "total_seconds": 8920.881996,
+        "digital": "2:28:40",
+        "decimal": "2.47",
+        "text": "2 hrs 28 mins",
+        "hours": 2,
+        "minutes": 28,
+        "seconds": 40,
+        "percent": 12.26
+      },
+      {
+        "name": "kotlin.io",
+        "total_seconds": 8642.310996,
+        "digital": "2:24:02",
+        "decimal": "2.40",
+        "text": "2 hrs 24 mins",
+        "hours": 2,
+        "minutes": 24,
+        "seconds": 2,
+        "percent": 11.87
+      },
+      {
+        "name": "org.jetbrains",
+        "total_seconds": 8640.981996,
+        "digital": "2:24:00",
+        "decimal": "2.40",
+        "text": "2 hrs 24 mins",
+        "hours": 2,
+        "minutes": 24,
+        "seconds": 0,
+        "percent": 11.87
+      },
+      {
+        "name": "kotlinx.serialization",
+        "total_seconds": 581.98,
+        "digital": "0:09:41",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 41,
+        "percent": 0.8
+      },
+      {
+        "name": "org.junit",
+        "total_seconds": 273.933,
+        "digital": "0:04:33",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 33,
+        "percent": 0.38
+      },
+      {
+        "name": "org.intellij",
+        "total_seconds": 140.535,
+        "digital": "0:02:20",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 20,
+        "percent": 0.19
+      },
+      {
+        "name": "ch.qos",
+        "total_seconds": 2.817,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0
+      },
+      {
+        "name": "org.jose4j",
+        "total_seconds": 1.329,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 19140.835453,
+        "machine_name_id": "15e5571b-5450-4344-b6d5-6fe1e5a42143",
+        "digital": "5:19:00",
+        "decimal": "5.32",
+        "text": "5 hrs 19 mins",
+        "hours": 5,
+        "minutes": 19,
+        "seconds": 0,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "IntelliJ IDEA",
+        "total_seconds": 18886.860996,
+        "digital": "5:14:46",
+        "decimal": "5.23",
+        "text": "5 hrs 14 mins",
+        "hours": 5,
+        "minutes": 14,
+        "seconds": 46,
+        "percent": 98.67
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 253.974457,
+        "digital": "0:04:13",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 13,
+        "percent": 1.33
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 19140.835453,
+        "digital": "5:19:00",
+        "decimal": "5.32",
+        "text": "5 hrs 19 mins",
+        "hours": 5,
+        "minutes": 19,
+        "seconds": 0,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 19140.835453,
+        "digital": "5:19:00",
+        "decimal": "5.32",
+        "text": "5 hrs 19 mins",
+        "hours": 5,
+        "minutes": 19,
+        "seconds": 0,
+        "percent": 100
+      }
+    ]
+  }
+]
