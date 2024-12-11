@@ -1,0 +1,243 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 4218.647,
+        "digital": "1:10:18",
+        "decimal": "1.17",
+        "text": "1 hr 10 mins",
+        "hours": 1,
+        "minutes": 10,
+        "seconds": 18,
+        "percent": 96.69
+      },
+      {
+        "name": "Jimmer DTO",
+        "total_seconds": 140.383,
+        "digital": "0:02:20",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 20,
+        "percent": 3.22
+      },
+      {
+        "name": "GitIgnore file",
+        "total_seconds": 3.663,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.08
+      },
+      {
+        "name": "XML",
+        "total_seconds": 0.226,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.01
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 12,
+      "total_seconds": 4362.919,
+      "digital": "1:12",
+      "decimal": "1.20",
+      "text": "1 hr 12 mins"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ IDEA",
+        "total_seconds": 4362.919,
+        "digital": "1:12:42",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 4362.919,
+        "digital": "1:12:42",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 4362.919,
+        "digital": "1:12:42",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "org.slf4j",
+        "total_seconds": 4187.363,
+        "digital": "1:09:47",
+        "decimal": "1.15",
+        "text": "1 hr 9 mins",
+        "hours": 1,
+        "minutes": 9,
+        "seconds": 47,
+        "percent": 20.29
+      },
+      {
+        "name": "cn.zzwtsy",
+        "total_seconds": 4184.991,
+        "digital": "1:09:44",
+        "decimal": "1.15",
+        "text": "1 hr 9 mins",
+        "hours": 1,
+        "minutes": 9,
+        "seconds": 44,
+        "percent": 20.27
+      },
+      {
+        "name": "io.ktor",
+        "total_seconds": 4037.943,
+        "digital": "1:07:17",
+        "decimal": "1.12",
+        "text": "1 hr 7 mins",
+        "hours": 1,
+        "minutes": 7,
+        "seconds": 17,
+        "percent": 19.56
+      },
+      {
+        "name": "kotlin.io",
+        "total_seconds": 4037.938,
+        "digital": "1:07:17",
+        "decimal": "1.12",
+        "text": "1 hr 7 mins",
+        "hours": 1,
+        "minutes": 7,
+        "seconds": 17,
+        "percent": 19.56
+      },
+      {
+        "name": "org.jetbrains",
+        "total_seconds": 4037.872,
+        "digital": "1:07:17",
+        "decimal": "1.12",
+        "text": "1 hr 7 mins",
+        "hours": 1,
+        "minutes": 7,
+        "seconds": 17,
+        "percent": 19.56
+      },
+      {
+        "name": "kotlinx.coroutines",
+        "total_seconds": 128.185,
+        "digital": "0:02:08",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 8,
+        "percent": 0.62
+      },
+      {
+        "name": "kotlinx.serialization",
+        "total_seconds": 19.034,
+        "digital": "0:00:19",
+        "decimal": "0.00",
+        "text": "19 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 19,
+        "percent": 0.09
+      },
+      {
+        "name": "org.intellij",
+        "total_seconds": 8.809,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.04
+      },
+      {
+        "name": "ch.qos",
+        "total_seconds": 0.416,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "org.jose4j",
+        "total_seconds": 0.066,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 4362.919,
+        "machine_name_id": "a5e915bd-9cf3-4388-b548-5a0c094154b8",
+        "digital": "1:12:42",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "wecom-weather-bot",
+        "total_seconds": 4362.919,
+        "digital": "1:12:42",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 42,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-12-10T16:00:00Z",
+      "end": "2024-12-11T15:59:59Z",
+      "date": "2024-12-11",
+      "text": "Wed Dec 11th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
