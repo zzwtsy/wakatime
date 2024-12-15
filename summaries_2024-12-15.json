@@ -1,0 +1,132 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 2839.314261,
+        "digital": "0:47:19",
+        "decimal": "0.78",
+        "text": "47 mins",
+        "hours": 0,
+        "minutes": 47,
+        "seconds": 19,
+        "percent": 97.97
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 35.583161,
+        "digital": "0:00:35",
+        "decimal": "0.00",
+        "text": "35 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 35,
+        "percent": 1.23
+      },
+      {
+        "name": "Protocol Buffer",
+        "total_seconds": 23.017967,
+        "digital": "0:00:23",
+        "decimal": "0.00",
+        "text": "23 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 23,
+        "percent": 0.79
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 0.317199,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.01
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 48,
+      "total_seconds": 2898.232588,
+      "digital": "0:48",
+      "decimal": "0.80",
+      "text": "48 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2898.232588,
+        "digital": "0:48:18",
+        "decimal": "0.80",
+        "text": "48 mins",
+        "hours": 0,
+        "minutes": 48,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2898.232588,
+        "digital": "0:48:18",
+        "decimal": "0.80",
+        "text": "48 mins",
+        "hours": 0,
+        "minutes": 48,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2898.232588,
+        "digital": "0:48:18",
+        "decimal": "0.80",
+        "text": "48 mins",
+        "hours": 0,
+        "minutes": 48,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 2898.232588,
+        "machine_name_id": "f05ec16b-45e9-42d9-b98d-7a5f72f85a09",
+        "digital": "0:48:18",
+        "decimal": "0.80",
+        "text": "48 mins",
+        "hours": 0,
+        "minutes": 48,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "panda-monitor",
+        "total_seconds": 2898.232588,
+        "digital": "0:48:18",
+        "decimal": "0.80",
+        "text": "48 mins",
+        "hours": 0,
+        "minutes": 48,
+        "seconds": 18,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-12-14T16:00:00Z",
+      "end": "2024-12-15T15:59:59Z",
+      "date": "2024-12-15",
+      "text": "Sun Dec 15th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
