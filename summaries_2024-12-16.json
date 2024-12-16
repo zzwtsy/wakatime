@@ -1,0 +1,121 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Protocol Buffer",
+        "total_seconds": 2803.56453,
+        "digital": "0:46:43",
+        "decimal": "0.77",
+        "text": "46 mins",
+        "hours": 0,
+        "minutes": 46,
+        "seconds": 43,
+        "percent": 42.24
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 2500.225667,
+        "digital": "0:41:40",
+        "decimal": "0.68",
+        "text": "41 mins",
+        "hours": 0,
+        "minutes": 41,
+        "seconds": 40,
+        "percent": 37.67
+      },
+      {
+        "name": "Rust",
+        "total_seconds": 1333.773311,
+        "digital": "0:22:13",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 13,
+        "percent": 20.09
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 50,
+      "total_seconds": 6637.563508,
+      "digital": "1:50",
+      "decimal": "1.83",
+      "text": "1 hr 50 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 6637.563508,
+        "digital": "1:50:37",
+        "decimal": "1.83",
+        "text": "1 hr 50 mins",
+        "hours": 1,
+        "minutes": 50,
+        "seconds": 37,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 6637.563508,
+        "digital": "1:50:37",
+        "decimal": "1.83",
+        "text": "1 hr 50 mins",
+        "hours": 1,
+        "minutes": 50,
+        "seconds": 37,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 6637.563508,
+        "digital": "1:50:37",
+        "decimal": "1.83",
+        "text": "1 hr 50 mins",
+        "hours": 1,
+        "minutes": 50,
+        "seconds": 37,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 6637.563508,
+        "machine_name_id": "f05ec16b-45e9-42d9-b98d-7a5f72f85a09",
+        "digital": "1:50:37",
+        "decimal": "1.83",
+        "text": "1 hr 50 mins",
+        "hours": 1,
+        "minutes": 50,
+        "seconds": 37,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "panda-monitor",
+        "total_seconds": 6637.563508,
+        "digital": "1:50:37",
+        "decimal": "1.83",
+        "text": "1 hr 50 mins",
+        "hours": 1,
+        "minutes": 50,
+        "seconds": 37,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-12-15T16:00:00Z",
+      "end": "2024-12-16T15:59:59Z",
+      "date": "2024-12-16",
+      "text": "Mon Dec 16th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
