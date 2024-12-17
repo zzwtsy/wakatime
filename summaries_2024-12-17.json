@@ -1,0 +1,121 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 1922.306096,
+        "digital": "0:32:02",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 2,
+        "percent": 77.62
+      },
+      {
+        "name": "Protocol Buffer",
+        "total_seconds": 489.79337,
+        "digital": "0:08:09",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 9,
+        "percent": 19.78
+      },
+      {
+        "name": "Rust",
+        "total_seconds": 64.328569,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 2.6
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 41,
+      "total_seconds": 2476.428035,
+      "digital": "0:41",
+      "decimal": "0.68",
+      "text": "41 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2476.428035,
+        "digital": "0:41:16",
+        "decimal": "0.68",
+        "text": "41 mins",
+        "hours": 0,
+        "minutes": 41,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2476.428035,
+        "digital": "0:41:16",
+        "decimal": "0.68",
+        "text": "41 mins",
+        "hours": 0,
+        "minutes": 41,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2476.428035,
+        "digital": "0:41:16",
+        "decimal": "0.68",
+        "text": "41 mins",
+        "hours": 0,
+        "minutes": 41,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 2476.428035,
+        "machine_name_id": "e54156d7-1b1b-4f2f-acd3-cb601ce0b700",
+        "digital": "0:41:16",
+        "decimal": "0.68",
+        "text": "41 mins",
+        "hours": 0,
+        "minutes": 41,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "panda-monitor",
+        "total_seconds": 2476.428035,
+        "digital": "0:41:16",
+        "decimal": "0.68",
+        "text": "41 mins",
+        "hours": 0,
+        "minutes": 41,
+        "seconds": 16,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-12-16T16:00:00Z",
+      "end": "2024-12-17T15:59:59Z",
+      "date": "2024-12-17",
+      "text": "Tue Dec 17th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
