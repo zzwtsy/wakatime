@@ -1,0 +1,121 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 1268.506188,
+        "digital": "0:21:08",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 8,
+        "percent": 77.91
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 342.645124,
+        "digital": "0:05:42",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 42,
+        "percent": 21.04
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 17.020236,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 1.05
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 27,
+      "total_seconds": 1628.171548,
+      "digital": "0:27",
+      "decimal": "0.45",
+      "text": "27 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1628.171548,
+        "digital": "0:27:08",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 8,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1628.171548,
+        "digital": "0:27:08",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 8,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1628.171548,
+        "digital": "0:27:08",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 8,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 1628.171548,
+        "machine_name_id": "e54156d7-1b1b-4f2f-acd3-cb601ce0b700",
+        "digital": "0:27:08",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 8,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "panda-monitor",
+        "total_seconds": 1628.171548,
+        "digital": "0:27:08",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 8,
+        "percent": 100
+      }
+    ],
+    "range": {
+      "start": "2024-12-17T16:00:00Z",
+      "end": "2024-12-18T15:59:59Z",
+      "date": "2024-12-18",
+      "text": "Wed Dec 18th 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
