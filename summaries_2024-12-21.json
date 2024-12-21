@@ -1,0 +1,397 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Java",
+        "total_seconds": 14353.668,
+        "digital": "3:59:13",
+        "decimal": "3.98",
+        "text": "3 hrs 59 mins",
+        "hours": 3,
+        "minutes": 59,
+        "seconds": 13,
+        "percent": 95.46
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 519.526,
+        "digital": "0:08:39",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 39,
+        "percent": 3.46
+      },
+      {
+        "name": "GitIgnore file",
+        "total_seconds": 119.268,
+        "digital": "0:01:59",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 59,
+        "percent": 0.79
+      },
+      {
+        "name": "Kotlin",
+        "total_seconds": 34.307,
+        "digital": "0:00:34",
+        "decimal": "0.00",
+        "text": "34 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 34,
+        "percent": 0.23
+      },
+      {
+        "name": "GUI_DESIGNER_FORM",
+        "total_seconds": 9.98,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.07
+      }
+    ],
+    "grand_total": {
+      "hours": 4,
+      "minutes": 10,
+      "total_seconds": 15036.749,
+      "digital": "4:10",
+      "decimal": "4.17",
+      "text": "4 hrs 10 mins"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ IDEA",
+        "total_seconds": 15036.749,
+        "digital": "4:10:36",
+        "decimal": "4.17",
+        "text": "4 hrs 10 mins",
+        "hours": 4,
+        "minutes": 10,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 15036.749,
+        "digital": "4:10:36",
+        "decimal": "4.17",
+        "text": "4 hrs 10 mins",
+        "hours": 4,
+        "minutes": 10,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 15036.749,
+        "digital": "4:10:36",
+        "decimal": "4.17",
+        "text": "4 hrs 10 mins",
+        "hours": 4,
+        "minutes": 10,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "util.Const",
+        "total_seconds": 13731.899,
+        "digital": "3:48:51",
+        "decimal": "3.80",
+        "text": "3 hrs 48 mins",
+        "hours": 3,
+        "minutes": 48,
+        "seconds": 51,
+        "percent": 35.51
+      },
+      {
+        "name": "util.JsonUtil",
+        "total_seconds": 13009.077,
+        "digital": "3:36:49",
+        "decimal": "3.60",
+        "text": "3 hrs 36 mins",
+        "hours": 3,
+        "minutes": 36,
+        "seconds": 49,
+        "percent": 33.64
+      },
+      {
+        "name": "data",
+        "total_seconds": 9673.518,
+        "digital": "2:41:13",
+        "decimal": "2.68",
+        "text": "2 hrs 41 mins",
+        "hours": 2,
+        "minutes": 41,
+        "seconds": 13,
+        "percent": 25.01
+      },
+      {
+        "name": "data.Config",
+        "total_seconds": 505.133,
+        "digital": "0:08:25",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 25,
+        "percent": 1.31
+      },
+      {
+        "name": "data.Log",
+        "total_seconds": 431.459,
+        "digital": "0:07:11",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 11,
+        "percent": 1.12
+      },
+      {
+        "name": "formdev.flatlaf",
+        "total_seconds": 280.453,
+        "digital": "0:04:40",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 40,
+        "percent": 0.73
+      },
+      {
+        "name": "ui.Setting",
+        "total_seconds": 166.51,
+        "digital": "0:02:46",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 46,
+        "percent": 0.43
+      },
+      {
+        "name": "ui.Login",
+        "total_seconds": 163.797,
+        "digital": "0:02:43",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 43,
+        "percent": 0.42
+      },
+      {
+        "name": "ui.Vending",
+        "total_seconds": 163.797,
+        "digital": "0:02:43",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 43,
+        "percent": 0.42
+      },
+      {
+        "name": "data.VendingTableModel",
+        "total_seconds": 151.006,
+        "digital": "0:02:31",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 31,
+        "percent": 0.39
+      },
+      {
+        "name": "data.Product",
+        "total_seconds": 106.611,
+        "digital": "0:01:46",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 46,
+        "percent": 0.28
+      },
+      {
+        "name": "util.FileUtil",
+        "total_seconds": 80.035,
+        "digital": "0:01:20",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 20,
+        "percent": 0.21
+      },
+      {
+        "name": "data.Page",
+        "total_seconds": 34.576,
+        "digital": "0:00:34",
+        "decimal": "0.00",
+        "text": "34 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 34,
+        "percent": 0.09
+      },
+      {
+        "name": "org.slf4j",
+        "total_seconds": 34.201,
+        "digital": "0:00:34",
+        "decimal": "0.00",
+        "text": "34 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 34,
+        "percent": 0.09
+      },
+      {
+        "name": "cn.zzwtsy",
+        "total_seconds": 34.139,
+        "digital": "0:00:34",
+        "decimal": "0.00",
+        "text": "34 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 34,
+        "percent": 0.09
+      },
+      {
+        "name": "io.ktor",
+        "total_seconds": 33.521,
+        "digital": "0:00:33",
+        "decimal": "0.00",
+        "text": "33 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 33,
+        "percent": 0.09
+      },
+      {
+        "name": "org.jetbrains",
+        "total_seconds": 33.521,
+        "digital": "0:00:33",
+        "decimal": "0.00",
+        "text": "33 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 33,
+        "percent": 0.09
+      },
+      {
+        "name": "kotlin.io",
+        "total_seconds": 33.521,
+        "digital": "0:00:33",
+        "decimal": "0.00",
+        "text": "33 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 33,
+        "percent": 0.09
+      },
+      {
+        "name": "fasterxml.jackson",
+        "total_seconds": 6.462,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.02
+      },
+      {
+        "name": "kotlinx.coroutines",
+        "total_seconds": 0.512,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "kotlinx.serialization",
+        "total_seconds": 0.106,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      },
+      {
+        "name": "org.intellij",
+        "total_seconds": 0.106,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 15036.749,
+        "machine_name_id": "6b56ecfb-722f-4b58-95dd-626d4fac593e",
+        "digital": "4:10:36",
+        "decimal": "4.17",
+        "text": "4 hrs 10 mins",
+        "hours": 4,
+        "minutes": 10,
+        "seconds": 36,
+        "percent": 100
+      }
+    ],
+    "projects": [
+      {
+        "name": "VendingMachine",
+        "total_seconds": 15002.442,
+        "digital": "4:10:02",
+        "decimal": "4.17",
+        "text": "4 hrs 10 mins",
+        "hours": 4,
+        "minutes": 10,
+        "seconds": 2,
+        "percent": 99.77
+      },
+      {
+        "name": "wecom-weather-bot",
+        "total_seconds": 34.307,
+        "digital": "0:00:34",
+        "decimal": "0.00",
+        "text": "34 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 34,
+        "percent": 0.23
+      }
+    ],
+    "range": {
+      "start": "2024-12-20T16:00:00Z",
+      "end": "2024-12-21T15:59:59Z",
+      "date": "2024-12-21",
+      "text": "Sat Dec 21st 2024",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
