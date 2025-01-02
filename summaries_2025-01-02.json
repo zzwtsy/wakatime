@@ -1,0 +1,100 @@
+[
+  {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 7,
+      "total_seconds": 453.112914,
+      "digital": "0:07",
+      "decimal": "0.12",
+      "text": "7 mins"
+    },
+    "range": {
+      "start": "2025-01-01T16:00:00Z",
+      "end": "2025-01-02T15:59:59Z",
+      "date": "2025-01-02",
+      "text": "Thu Jan 2nd 2025",
+      "timezone": "Asia/Shanghai"
+    },
+    "projects": [
+      {
+        "name": "panda-monitor",
+        "total_seconds": 453.112914,
+        "color": null,
+        "digital": "0:07:33",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 453.112914,
+        "digital": "0:07:33",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 453.112914,
+        "machine_name_id": "5d6ec324-7742-4ea8-a681-6da6b758c2c4",
+        "digital": "0:07:33",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "Cursor",
+        "total_seconds": 453.112914,
+        "digital": "0:07:33",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 453.112914,
+        "digital": "0:07:33",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 33,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 453.112914,
+        "digital": "0:07:33",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 33,
+        "percent": 100
+      }
+    ]
+  }
+]
