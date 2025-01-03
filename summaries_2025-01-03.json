@@ -1,0 +1,167 @@
+[
+  {
+    "grand_total": {
+      "hours": 2,
+      "minutes": 41,
+      "total_seconds": 9711.610719,
+      "digital": "2:41",
+      "decimal": "2.68",
+      "text": "2 hrs 41 mins"
+    },
+    "range": {
+      "start": "2025-01-02T16:00:00Z",
+      "end": "2025-01-03T15:59:59Z",
+      "date": "2025-01-03",
+      "text": "Fri Jan 3rd 2025",
+      "timezone": "Asia/Shanghai"
+    },
+    "projects": [
+      {
+        "name": "panda-monitor",
+        "total_seconds": 8449.749502,
+        "color": null,
+        "digital": "2:20:49",
+        "decimal": "2.33",
+        "text": "2 hrs 20 mins",
+        "hours": 2,
+        "minutes": 20,
+        "seconds": 49,
+        "percent": 87.01
+      },
+      {
+        "name": "server-monitor",
+        "total_seconds": 1261.861217,
+        "color": null,
+        "digital": "0:21:01",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 1,
+        "percent": 12.99
+      }
+    ],
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 9327.405316,
+        "digital": "2:35:27",
+        "decimal": "2.58",
+        "text": "2 hrs 35 mins",
+        "hours": 2,
+        "minutes": 35,
+        "seconds": 27,
+        "percent": 96.04
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 195.817159,
+        "digital": "0:03:15",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 15,
+        "percent": 2.02
+      },
+      {
+        "name": "Protocol Buffer",
+        "total_seconds": 107.647314,
+        "digital": "0:01:47",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 47,
+        "percent": 1.11
+      },
+      {
+        "name": "VBScript",
+        "total_seconds": 80.74093,
+        "digital": "0:01:20",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 20,
+        "percent": 0.83
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 9711.610719,
+        "machine_name_id": "9ffe45c1-31f9-4ab5-9a63-7a6e0ea3b8e4",
+        "digital": "2:41:51",
+        "decimal": "2.68",
+        "text": "2 hrs 41 mins",
+        "hours": 2,
+        "minutes": 41,
+        "seconds": 51,
+        "percent": 100
+      }
+    ],
+    "editors": [
+      {
+        "name": "Cursor",
+        "total_seconds": 7515.663579,
+        "digital": "2:05:15",
+        "decimal": "2.08",
+        "text": "2 hrs 5 mins",
+        "hours": 2,
+        "minutes": 5,
+        "seconds": 15,
+        "percent": 77.39
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 2195.94714,
+        "digital": "0:36:35",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 35,
+        "percent": 22.61
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 9711.610719,
+        "digital": "2:41:51",
+        "decimal": "2.68",
+        "text": "2 hrs 41 mins",
+        "hours": 2,
+        "minutes": 41,
+        "seconds": 51,
+        "percent": 100
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 9694.03188,
+        "digital": "2:41:34",
+        "decimal": "2.68",
+        "text": "2 hrs 41 mins",
+        "hours": 2,
+        "minutes": 41,
+        "seconds": 34,
+        "percent": 99.82
+      },
+      {
+        "name": "Building",
+        "total_seconds": 17.578839,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 0.18
+      }
+    ]
+  }
+]
