@@ -1,0 +1,401 @@
+[
+  {
+    "grand_total": {
+      "hours": 4,
+      "minutes": 46,
+      "total_seconds": 17183.973776,
+      "digital": "4:46",
+      "decimal": "4.77",
+      "text": "4 hrs 46 mins"
+    },
+    "range": {
+      "start": "2025-01-09T16:00:00Z",
+      "end": "2025-01-10T15:59:59Z",
+      "date": "2025-01-10",
+      "text": "Fri Jan 10th 2025",
+      "timezone": "Asia/Shanghai"
+    },
+    "projects": [
+      {
+        "name": "music",
+        "total_seconds": 14389.80411,
+        "color": null,
+        "digital": "3:59:49",
+        "decimal": "3.98",
+        "text": "3 hrs 59 mins",
+        "hours": 3,
+        "minutes": 59,
+        "seconds": 49,
+        "percent": 83.74
+      },
+      {
+        "name": "muisc",
+        "total_seconds": 2702.558559,
+        "color": null,
+        "digital": "0:45:02",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 2,
+        "percent": 15.73
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 82.194408,
+        "color": null,
+        "digital": "0:01:22",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 22,
+        "percent": 0.48
+      },
+      {
+        "name": "server-monitor",
+        "total_seconds": 9.416699,
+        "color": null,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.05
+      }
+    ],
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 8994.662074,
+        "digital": "2:29:54",
+        "decimal": "2.48",
+        "text": "2 hrs 29 mins",
+        "hours": 2,
+        "minutes": 29,
+        "seconds": 54,
+        "percent": 52.34
+      },
+      {
+        "name": "Text",
+        "total_seconds": 5303.660384,
+        "digital": "1:28:23",
+        "decimal": "1.47",
+        "text": "1 hr 28 mins",
+        "hours": 1,
+        "minutes": 28,
+        "seconds": 23,
+        "percent": 30.86
+      },
+      {
+        "name": "Kotlin",
+        "total_seconds": 2692.853559,
+        "digital": "0:44:52",
+        "decimal": "0.73",
+        "text": "44 mins",
+        "hours": 0,
+        "minutes": 44,
+        "seconds": 52,
+        "percent": 15.67
+      },
+      {
+        "name": "Other",
+        "total_seconds": 126.500961,
+        "digital": "0:02:06",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 6,
+        "percent": 0.74
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 37.232655,
+        "digital": "0:00:37",
+        "decimal": "0.00",
+        "text": "37 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 37,
+        "percent": 0.22
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 12.568121,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.07
+      },
+      {
+        "name": "Properties",
+        "total_seconds": 9.705,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.06
+      },
+      {
+        "name": "Rust",
+        "total_seconds": 6.791022,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.04
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "dto.QQSong",
+        "total_seconds": 2451.175559,
+        "digital": "0:40:51",
+        "decimal": "0.67",
+        "text": "40 mins",
+        "hours": 0,
+        "minutes": 40,
+        "seconds": 51,
+        "percent": 17.24
+      },
+      {
+        "name": "kotlinx.serialization",
+        "total_seconds": 2412.354559,
+        "digital": "0:40:12",
+        "decimal": "0.67",
+        "text": "40 mins",
+        "hours": 0,
+        "minutes": 40,
+        "seconds": 12,
+        "percent": 16.97
+      },
+      {
+        "name": "kotlin.io",
+        "total_seconds": 1213.485156,
+        "digital": "0:20:13",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 13,
+        "percent": 8.54
+      },
+      {
+        "name": "vue.c5f6640f",
+        "total_seconds": 984.374472,
+        "digital": "0:16:24",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 24,
+        "percent": 6.92
+      },
+      {
+        "name": "zh-TW",
+        "total_seconds": 984.374472,
+        "digital": "0:16:24",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 24,
+        "percent": 6.92
+      },
+      {
+        "name": "javascript,",
+        "total_seconds": 984.374472,
+        "digital": "0:16:24",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 24,
+        "percent": 6.92
+      },
+      {
+        "name": "ko-KR",
+        "total_seconds": 984.374472,
+        "digital": "0:16:24",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 24,
+        "percent": 6.92
+      },
+      {
+        "name": "vendor.c5bb760c",
+        "total_seconds": 984.374472,
+        "digital": "0:16:24",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 24,
+        "percent": 6.92
+      },
+      {
+        "name": "zh-TW.4c346128",
+        "total_seconds": 984.374472,
+        "digital": "0:16:24",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 24,
+        "percent": 6.92
+      },
+      {
+        "name": "zh-CN",
+        "total_seconds": 984.374472,
+        "digital": "0:16:24",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 24,
+        "percent": 6.92
+      },
+      {
+        "name": "ja-JP",
+        "total_seconds": 984.374472,
+        "digital": "0:16:24",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 24,
+        "percent": 6.92
+      },
+      {
+        "name": "vendor",
+        "total_seconds": 95.575681,
+        "digital": "0:01:35",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 35,
+        "percent": 0.67
+      },
+      {
+        "name": "lib",
+        "total_seconds": 94.381677,
+        "digital": "0:01:34",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 34,
+        "percent": 0.66
+      },
+      {
+        "name": "crypto-js",
+        "total_seconds": 37.232655,
+        "digital": "0:00:37",
+        "decimal": "0.00",
+        "text": "37 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 37,
+        "percent": 0.26
+      },
+      {
+        "name": "npm",
+        "total_seconds": 37.232655,
+        "digital": "0:00:37",
+        "decimal": "0.00",
+        "text": "37 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 37,
+        "percent": 0.26
+      }
+    ],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 17183.973776,
+        "machine_name_id": "103f0ce6-5a52-4bd9-9fb1-42999e27ecf6",
+        "digital": "4:46:23",
+        "decimal": "4.77",
+        "text": "4 hrs 46 mins",
+        "hours": 4,
+        "minutes": 46,
+        "seconds": 23,
+        "percent": 100.0
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 12923.646324,
+        "digital": "3:35:23",
+        "decimal": "3.58",
+        "text": "3 hrs 35 mins",
+        "hours": 3,
+        "minutes": 35,
+        "seconds": 23,
+        "percent": 75.21
+      },
+      {
+        "name": "IntelliJ IDEA",
+        "total_seconds": 2702.558559,
+        "digital": "0:45:02",
+        "decimal": "0.75",
+        "text": "45 mins",
+        "hours": 0,
+        "minutes": 45,
+        "seconds": 2,
+        "percent": 15.73
+      },
+      {
+        "name": "Cursor",
+        "total_seconds": 1557.768893,
+        "digital": "0:25:57",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 57,
+        "percent": 9.07
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 17183.973776,
+        "digital": "4:46:23",
+        "decimal": "4.77",
+        "text": "4 hrs 46 mins",
+        "hours": 4,
+        "minutes": 46,
+        "seconds": 23,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 17183.973776,
+        "digital": "4:46:23",
+        "decimal": "4.77",
+        "text": "4 hrs 46 mins",
+        "hours": 4,
+        "minutes": 46,
+        "seconds": 23,
+        "percent": 100.0
+      }
+    ]
+  }
+]
