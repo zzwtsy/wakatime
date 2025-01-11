@@ -1,0 +1,202 @@
+[
+  {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 37,
+      "total_seconds": 2266.858965,
+      "digital": "0:37",
+      "decimal": "0.62",
+      "text": "37 mins"
+    },
+    "range": {
+      "start": "2025-01-10T16:00:00Z",
+      "end": "2025-01-11T15:59:59Z",
+      "date": "2025-01-11",
+      "text": "Sat Jan 11th 2025",
+      "timezone": "Asia/Shanghai"
+    },
+    "projects": [
+      {
+        "name": "muisc",
+        "total_seconds": 1368.646202,
+        "color": null,
+        "digital": "0:22:48",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 48,
+        "percent": 60.38
+      },
+      {
+        "name": "music",
+        "total_seconds": 606.833589,
+        "color": null,
+        "digital": "0:10:06",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 6,
+        "percent": 26.77
+      },
+      {
+        "name": "server-monitor",
+        "total_seconds": 291.379174,
+        "color": null,
+        "digital": "0:04:51",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 51,
+        "percent": 12.85
+      }
+    ],
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 1366.609202,
+        "digital": "0:22:46",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 46,
+        "percent": 60.29
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 583.030798,
+        "digital": "0:09:43",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 43,
+        "percent": 25.72
+      },
+      {
+        "name": "Rust",
+        "total_seconds": 291.379174,
+        "digital": "0:04:51",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 51,
+        "percent": 12.85
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 25.839791,
+        "digital": "0:00:25",
+        "decimal": "0.00",
+        "text": "25 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 25,
+        "percent": 1.14
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "android.util",
+        "total_seconds": 39.923,
+        "digital": "0:00:39",
+        "decimal": "0.00",
+        "text": "39 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 39,
+        "percent": 45.61
+      },
+      {
+        "name": "crypto-js",
+        "total_seconds": 23.802791,
+        "digital": "0:00:23",
+        "decimal": "0.00",
+        "text": "23 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 23,
+        "percent": 27.19
+      },
+      {
+        "name": "npm",
+        "total_seconds": 23.802791,
+        "digital": "0:00:23",
+        "decimal": "0.00",
+        "text": "23 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 23,
+        "percent": 27.19
+      }
+    ],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 2266.858965,
+        "machine_name_id": "103f0ce6-5a52-4bd9-9fb1-42999e27ecf6",
+        "digital": "0:37:46",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 46,
+        "percent": 100.0
+      }
+    ],
+    "editors": [
+      {
+        "name": "IntelliJ IDEA",
+        "total_seconds": 1368.646202,
+        "digital": "0:22:48",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 48,
+        "percent": 60.38
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 898.212763,
+        "digital": "0:14:58",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 58,
+        "percent": 39.62
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2266.858965,
+        "digital": "0:37:46",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 46,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2266.858965,
+        "digital": "0:37:46",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 46,
+        "percent": 100.0
+      }
+    ]
+  }
+]
