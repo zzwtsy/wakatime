@@ -1,0 +1,111 @@
+[
+  {
+    "grand_total": {
+      "hours": 2,
+      "minutes": 50,
+      "total_seconds": 10200.386418,
+      "digital": "2:50",
+      "decimal": "2.83",
+      "text": "2 hrs 50 mins"
+    },
+    "range": {
+      "start": "2025-01-12T16:00:00Z",
+      "end": "2025-01-13T15:59:59Z",
+      "date": "2025-01-13",
+      "text": "Mon Jan 13th 2025",
+      "timezone": "Asia/Shanghai"
+    },
+    "projects": [
+      {
+        "name": "server-monitor",
+        "total_seconds": 10200.386418,
+        "color": null,
+        "digital": "2:50:00",
+        "decimal": "2.83",
+        "text": "2 hrs 50 mins",
+        "hours": 2,
+        "minutes": 50,
+        "seconds": 0,
+        "percent": 100.0
+      }
+    ],
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 8563.017789,
+        "digital": "2:22:43",
+        "decimal": "2.37",
+        "text": "2 hrs 22 mins",
+        "hours": 2,
+        "minutes": 22,
+        "seconds": 43,
+        "percent": 83.95
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 1637.368629,
+        "digital": "0:27:17",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 17,
+        "percent": 16.05
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 10200.386418,
+        "machine_name_id": "62a43250-c428-4fdd-80b5-67b3472045af",
+        "digital": "2:50:00",
+        "decimal": "2.83",
+        "text": "2 hrs 50 mins",
+        "hours": 2,
+        "minutes": 50,
+        "seconds": 0,
+        "percent": 100.0
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 10200.386418,
+        "digital": "2:50:00",
+        "decimal": "2.83",
+        "text": "2 hrs 50 mins",
+        "hours": 2,
+        "minutes": 50,
+        "seconds": 0,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 10200.386418,
+        "digital": "2:50:00",
+        "decimal": "2.83",
+        "text": "2 hrs 50 mins",
+        "hours": 2,
+        "minutes": 50,
+        "seconds": 0,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 10200.386418,
+        "digital": "2:50:00",
+        "decimal": "2.83",
+        "text": "2 hrs 50 mins",
+        "hours": 2,
+        "minutes": 50,
+        "seconds": 0,
+        "percent": 100.0
+      }
+    ]
+  }
+]
