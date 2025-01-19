@@ -1,0 +1,156 @@
+[
+  {
+    "grand_total": {
+      "hours": 5,
+      "minutes": 47,
+      "total_seconds": 20826.544703,
+      "digital": "5:47",
+      "decimal": "5.78",
+      "text": "5 hrs 47 mins"
+    },
+    "range": {
+      "start": "2025-01-18T16:00:00Z",
+      "end": "2025-01-19T15:59:59Z",
+      "date": "2025-01-19",
+      "text": "Sun Jan 19th 2025",
+      "timezone": "Asia/Shanghai"
+    },
+    "projects": [
+      {
+        "name": "server-monitor",
+        "total_seconds": 20826.544703,
+        "color": null,
+        "digital": "5:47:06",
+        "decimal": "5.78",
+        "text": "5 hrs 47 mins",
+        "hours": 5,
+        "minutes": 47,
+        "seconds": 6,
+        "percent": 100.0
+      }
+    ],
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 19143.312365,
+        "digital": "5:19:03",
+        "decimal": "5.32",
+        "text": "5 hrs 19 mins",
+        "hours": 5,
+        "minutes": 19,
+        "seconds": 3,
+        "percent": 91.92
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 1191.635941,
+        "digital": "0:19:51",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 51,
+        "percent": 5.72
+      },
+      {
+        "name": "Other",
+        "total_seconds": 491.596397,
+        "digital": "0:08:11",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 11,
+        "percent": 2.36
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "archlinux",
+        "total_seconds": 20334.948306,
+        "machine_name_id": "c5d38656-153c-4357-839b-04119131ada4",
+        "digital": "5:38:54",
+        "decimal": "5.63",
+        "text": "5 hrs 38 mins",
+        "hours": 5,
+        "minutes": 38,
+        "seconds": 54,
+        "percent": 97.64
+      },
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 491.596397,
+        "machine_name_id": "f8860d08-a4dd-410c-b439-6c5d761086b6",
+        "digital": "0:08:11",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 11,
+        "percent": 2.36
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 20815.485532,
+        "digital": "5:46:55",
+        "decimal": "5.77",
+        "text": "5 hrs 46 mins",
+        "hours": 5,
+        "minutes": 46,
+        "seconds": 55,
+        "percent": 99.95
+      },
+      {
+        "name": "Unknown Editor",
+        "total_seconds": 11.059171,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.05
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Linux",
+        "total_seconds": 20334.948306,
+        "digital": "5:38:54",
+        "decimal": "5.63",
+        "text": "5 hrs 38 mins",
+        "hours": 5,
+        "minutes": 38,
+        "seconds": 54,
+        "percent": 97.64
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 491.596397,
+        "digital": "0:08:11",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 11,
+        "percent": 2.36
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 20826.544703,
+        "digital": "5:47:06",
+        "decimal": "5.78",
+        "text": "5 hrs 47 mins",
+        "hours": 5,
+        "minutes": 47,
+        "seconds": 6,
+        "percent": 100.0
+      }
+    ]
+  }
+]
